@@ -1,0 +1,9805 @@
+Red Blood Group gene allele database: V.1.0
+DE	GCNT2*AH003555
+FT	exon	429..521
+FT		/number=1
+FT	exon	522..712
+FT		/number=2
+\\
+DE	GCNT2*NM_001491
+FT	exon	118..210
+FT		/number=1
+FT	exon	211..401
+FT		/number=2
+\\
+DE	GCNT2*AK098105
+FT	exon	1..319
+FT		/number=1
+FT	exon	320..412
+FT		/number=2
+FT	exon	413..603
+FT		/number=3
+\\
+DE	GCNT2*001.1.1.01
+FT	exon	231..1155
+FT		/number=1
+FT	exon	27134..27226
+FT		/number=2
+FT	exon	32200..32390
+FT		/number=3
+\\
+DE	GCNT2*BX647668
+FT	exon	1..93
+FT		/number=1
+FT	exon	94..285
+FT		/number=2
+\\
+DE	GCNT2*refSeq.01
+FT	exon	231..1155
+FT		/number=1
+FT	exon	35592..35684
+FT		/number=2
+FT	exon	40658..40848
+FT		/number=3
+\\
+DE	GCNT2*AF401653
+FT	exon	1..93
+FT		/number=1
+FT	exon	94..284
+FT		/number=2
+\\
+DE	GCNT2*AF401652
+FT	exon	1..93
+FT		/number=1
+FT	exon	94..284
+FT		/number=2
+\\
+DE	ACKR1*AY663418
+FT	exon	86..106
+FT		/number=1
+FT	exon	586..1575
+FT		/number=2
+\\
+DE	ACKR1*AY167991
+FT	exon	1..21
+FT		/number=1
+FT	exon	22..1011
+FT		/number=2
+\\
+DE	ACKR1*BX537430
+FT	exon	1..21
+FT		/number=1
+FT	exon	22..1011
+FT		/number=2
+\\
+DE	ACKR1*S79269
+FT	exon	1..88
+FT		/number=1
+\\
+DE	ACKR1*AY663417
+FT	exon	86..106
+FT		/number=1
+FT	exon	586..1575
+FT		/number=2
+\\
+DE	ACKR1*HG38.ref.01
+FT	exon	86..106
+FT		/number=1
+FT	exon	587..1576
+FT		/number=2
+\\
+DE	ACKR1*AY663416
+FT	exon	86..106
+FT		/number=1
+FT	exon	586..1575
+FT		/number=2
+\\
+DE	ACKR1*BC017817
+FT	exon	86..106
+FT		/number=1
+FT	exon	107..1096
+FT		/number=2
+\\
+DE	ACKR1*X85785
+FT	exon	86..106
+FT		/number=1
+FT	exon	586..1575
+FT		/number=2
+\\
+DE	ACKR1*AF100634
+FT	exon	86..106
+FT		/number=1
+FT	exon	586..915
+FT		/number=2
+\\
+DE	ACKR1*S76830
+FT	exon	86..106
+FT		/number=1
+FT	exon	586..1575
+FT		/number=2
+\\
+DE	ACKR1*AP002535
+FT	exon	86..106
+FT		/number=1
+FT	exon	586..1575
+FT		/number=2
+\\
+DE	ACKR1*BC095496
+FT	exon	25..1013
+FT		/number=1
+\\
+DE	ACKR1*AY663424
+FT	exon	86..106
+FT		/number=1
+FT	exon	586..1575
+FT		/number=2
+\\
+DE	ACKR1*DQ181554
+FT	exon	86..106
+FT		/number=1
+FT	exon	587..1576
+FT		/number=2
+\\
+DE	ACKR1*DQ181555
+FT	exon	86..106
+FT		/number=1
+FT	exon	586..1575
+FT		/number=2
+\\
+DE	ACKR1*AF055992
+FT	exon	86..106
+FT		/number=1
+FT	exon	586..1575
+FT		/number=2
+\\
+DE	ACKR1*001.1.1.01
+FT	exon	86..106
+FT		/number=1
+FT	exon	587..1576
+FT		/number=2
+\\
+DE	ACKR1*DQ181566
+FT	exon	86..106
+FT		/number=1
+FT	exon	586..1575
+FT		/number=2
+\\
+DE	ACKR1*DQ181565
+FT	exon	86..106
+FT		/number=1
+FT	exon	586..1575
+FT		/number=2
+\\
+DE	ACKR1*NM_002036
+FT	exon	86..106
+FT		/number=1
+FT	exon	107..1096
+FT		/number=2
+\\
+DE	ACKR1*DQ181558
+FT	exon	86..106
+FT		/number=1
+FT	exon	586..1575
+FT		/number=2
+\\
+DE	ART4*AY829436
+FT	exon	1..72
+FT		/number=1
+\\
+DE	ART4*AY829437
+FT	exon	1..93
+FT		/number=1
+FT	exon	94..802
+FT		/number=2
+\\
+DE	ART4*001.1.1.01
+FT	exon	367..510
+FT		/number=1
+FT	exon	2327..3035
+FT		/number=2
+FT	exon	14018..14109
+FT		/number=3
+\\
+DE	ART4*AY690666
+FT	exon	1..72
+FT		/number=1
+FT	exon	73..164
+FT		/number=2
+\\
+DE	ART4*AY029515
+FT	exon	36..152
+FT		/number=1
+\\
+DE	ART4*AY029514
+FT	exon	32..740
+FT		/number=1
+\\
+DE	ART4*AY029516
+FT	exon	34..340
+FT		/number=1
+\\
+DE	ART4*AH011373
+FT	exon	134..277
+FT		/number=1
+FT	exon	278..986
+FT		/number=2
+FT	exon	987..1078
+FT		/number=3
+\\
+DE	ART4*AH011372
+FT	exon	115..258
+FT		/number=1
+FT	exon	259..967
+FT		/number=2
+FT	exon	968..1059
+FT		/number=3
+\\
+DE	ART4*AH011613
+FT	exon	112..255
+FT		/number=1
+FT	exon	256..964
+FT		/number=2
+FT	exon	965..1056
+FT		/number=3
+\\
+DE	ART4*AF340233
+FT	exon	26..734
+FT		/number=1
+\\
+DE	ART4*AH011615
+FT	exon	112..255
+FT		/number=1
+FT	exon	256..964
+FT		/number=2
+FT	exon	965..1056
+FT		/number=3
+\\
+DE	ART4*AH011616
+FT	exon	112..255
+FT		/number=1
+FT	exon	256..964
+FT		/number=2
+FT	exon	965..1056
+FT		/number=3
+\\
+DE	ART4*AH011617
+FT	exon	112..255
+FT		/number=1
+FT	exon	256..964
+FT		/number=2
+FT	exon	965..1056
+FT		/number=3
+\\
+DE	ART4*X95826
+FT	exon	1..709
+FT		/number=1
+FT	exon	710..801
+FT		/number=2
+\\
+DE	ART4*refSeq.01
+FT	exon	367..510
+FT		/number=1
+FT	exon	2327..3035
+FT		/number=2
+FT	exon	14018..14109
+FT		/number=3
+\\
+DE	ART4*AY829434
+FT	exon	336..479
+FT		/number=1
+FT	exon	480..1188
+FT		/number=2
+FT	exon	1189..1280
+FT		/number=3
+\\
+DE	SLC14A1*BC050539
+FT	exon	159..309
+FT		/number=1
+FT	exon	310..499
+FT		/number=2
+FT	exon	500..628
+FT		/number=3
+FT	exon	629..821
+FT		/number=4
+FT	exon	822..969
+FT		/number=5
+FT	exon	970..1104
+FT		/number=6
+FT	exon	1105..1154
+FT		/number=7
+FT	exon	1155..1328
+FT		/number=8
+\\
+DE	SLC14A1*L36121
+FT	exon	1..151
+FT		/number=1
+FT	exon	152..341
+FT		/number=2
+FT	exon	342..470
+FT		/number=3
+FT	exon	471..663
+FT		/number=4
+FT	exon	664..817
+FT		/number=5
+FT	exon	818..952
+FT		/number=6
+FT	exon	953..1002
+FT		/number=7
+FT	exon	1003..1176
+FT		/number=8
+\\
+DE	SLC14A1*AY942197
+FT	exon	1001..1151
+FT		/number=1
+FT	exon	1695..1884
+FT		/number=2
+FT	exon	4954..5082
+FT		/number=3
+FT	exon	7136..7328
+FT		/number=4
+FT	exon	9849..9996
+FT		/number=5
+FT	exon	10214..10348
+FT		/number=6
+FT	exon	19068..19117
+FT		/number=7
+FT	exon	20470..20643
+FT		/number=8
+\\
+DE	SLC14A1*U35735
+FT	exon	169..319
+FT		/number=1
+FT	exon	320..509
+FT		/number=2
+FT	exon	510..638
+FT		/number=3
+FT	exon	639..831
+FT		/number=4
+FT	exon	832..979
+FT		/number=5
+FT	exon	980..1114
+FT		/number=6
+FT	exon	1115..1164
+FT		/number=7
+FT	exon	1165..1338
+FT		/number=8
+\\
+DE	SLC14A1*AC087685
+FT	exon	1505..1633
+FT		/number=1
+FT	exon	3688..3880
+FT		/number=2
+FT	exon	6395..6542
+FT		/number=3
+FT	exon	6760..6894
+FT		/number=4
+FT	exon	15613..15662
+FT		/number=5
+FT	exon	17015..17188
+FT		/number=6
+\\
+DE	SLC14A1*AK091064
+FT	exon	716..866
+FT		/number=1
+FT	exon	867..1056
+FT		/number=2
+FT	exon	1057..1185
+FT		/number=3
+FT	exon	1186..1378
+FT		/number=4
+FT	exon	1379..1526
+FT		/number=5
+FT	exon	1527..1661
+FT		/number=6
+FT	exon	1662..1711
+FT		/number=7
+FT	exon	1712..1885
+FT		/number=8
+\\
+DE	SLC14A1*AF328890
+FT	exon	51..243
+FT		/number=1
+\\
+DE	SLC14A1*AK123681
+FT	exon	1000..1150
+FT		/number=1
+FT	exon	1151..1340
+FT		/number=2
+FT	exon	1341..1469
+FT		/number=3
+FT	exon	1470..1662
+FT		/number=4
+FT	exon	1663..1810
+FT		/number=5
+FT	exon	1811..1945
+FT		/number=6
+FT	exon	1946..1995
+FT		/number=7
+FT	exon	1996..2169
+FT		/number=8
+\\
+DE	SLC14A1*BC040128
+FT	exon	322..472
+FT		/number=1
+FT	exon	473..662
+FT		/number=2
+FT	exon	663..791
+FT		/number=3
+FT	exon	792..939
+FT		/number=4
+FT	exon	940..1074
+FT		/number=5
+FT	exon	1075..1124
+FT		/number=6
+FT	exon	1125..1298
+FT		/number=7
+\\
+DE	SLC14A1*AK127452
+FT	exon	1..129
+FT		/number=1
+FT	exon	130..322
+FT		/number=2
+FT	exon	323..470
+FT		/number=3
+FT	exon	471..605
+FT		/number=4
+FT	exon	606..655
+FT		/number=5
+FT	exon	656..829
+FT		/number=6
+\\
+DE	SLC14A1*AJ316564
+FT	exon	1001..1151
+FT		/number=1
+FT	exon	1695..1884
+FT		/number=2
+\\
+DE	SLC14A1*HG38.ref.01
+FT	exon	6141..6291
+FT		/number=1
+FT	exon	6835..7024
+FT		/number=2
+FT	exon	10094..10222
+FT		/number=3
+FT	exon	12276..12468
+FT		/number=4
+FT	exon	14983..15130
+FT		/number=5
+FT	exon	15348..15482
+FT		/number=6
+FT	exon	24196..24245
+FT		/number=7
+FT	exon	25598..25771
+FT		/number=8
+\\
+DE	AQP1*HG38.ref.01
+FT	exon	217..600
+FT		/number=1
+FT	exon	10373..10537
+FT		/number=2
+FT	exon	10871..10951
+FT		/number=3
+FT	exon	11757..11936
+FT		/number=4
+\\
+DE	AQP1*CR617260
+FT	exon	47..430
+FT		/number=1
+FT	exon	431..595
+FT		/number=2
+FT	exon	596..676
+FT		/number=3
+FT	exon	677..856
+FT		/number=4
+\\
+DE	AQP1*BC022486
+FT	exon	58..441
+FT		/number=1
+FT	exon	442..606
+FT		/number=2
+FT	exon	607..687
+FT		/number=3
+FT	exon	688..867
+FT		/number=4
+\\
+DE	AQP1*AJ307585
+FT	exon	11..393
+FT		/number=1
+\\
+DE	AQP1*U41518
+FT	exon	1..35
+FT		/number=1
+FT	exon	36..200
+FT		/number=2
+FT	exon	201..281
+FT		/number=3
+FT	exon	282..461
+FT		/number=4
+\\
+DE	AQP1*S73482
+FT	exon	39..422
+FT		/number=1
+FT	exon	423..587
+FT		/number=2
+FT	exon	588..668
+FT		/number=3
+FT	exon	669..848
+FT		/number=4
+\\
+DE	AQP1*AY953319
+FT	exon	217..600
+FT		/number=1
+FT	exon	10373..10537
+FT		/number=2
+FT	exon	10871..10951
+FT		/number=3
+FT	exon	11757..11936
+FT		/number=4
+\\
+DE	CD151*DQ074789
+FT	exon	1001..1084
+FT		/number=1
+FT	exon	1188..1379
+FT		/number=2
+FT	exon	1706..1780
+FT		/number=3
+FT	exon	2187..2291
+FT		/number=4
+FT	exon	2397..2555
+FT		/number=5
+FT	exon	2879..2965
+FT		/number=6
+FT	exon	3070..3129
+FT		/number=7
+\\
+DE	CD151*CR456826
+FT	exon	1..84
+FT		/number=1
+FT	exon	85..276
+FT		/number=2
+FT	exon	277..351
+FT		/number=3
+FT	exon	352..456
+FT		/number=4
+FT	exon	457..615
+FT		/number=5
+FT	exon	616..702
+FT		/number=6
+FT	exon	703..762
+FT		/number=7
+\\
+DE	CD151*AF315942
+FT	exon	1001..1084
+FT		/number=1
+FT	exon	1181..1372
+FT		/number=2
+FT	exon	1698..1772
+FT		/number=3
+FT	exon	2179..2283
+FT		/number=4
+FT	exon	2389..2547
+FT		/number=5
+FT	exon	2871..2957
+FT		/number=6
+FT	exon	3062..3121
+FT		/number=7
+\\
+DE	CD151*BC001374
+FT	exon	1..84
+FT		/number=1
+FT	exon	85..276
+FT		/number=2
+FT	exon	277..351
+FT		/number=3
+FT	exon	352..456
+FT		/number=4
+FT	exon	457..615
+FT		/number=5
+FT	exon	616..702
+FT		/number=6
+FT	exon	703..762
+FT		/number=7
+\\
+DE	CD151*AC132936
+FT	exon	1001..1084
+FT		/number=1
+FT	exon	1182..1373
+FT		/number=2
+FT	exon	1699..1773
+FT		/number=3
+FT	exon	2180..2284
+FT		/number=4
+FT	exon	2390..2548
+FT		/number=5
+FT	exon	2871..2957
+FT		/number=6
+FT	exon	3062..3121
+FT		/number=7
+\\
+DE	CD151*001.1.1.01
+FT	exon	1001..1084
+FT		/number=1
+FT	exon	1182..1373
+FT		/number=2
+FT	exon	1700..1774
+FT		/number=3
+FT	exon	2181..2285
+FT		/number=4
+FT	exon	2391..2549
+FT		/number=5
+FT	exon	2873..2959
+FT		/number=6
+FT	exon	3064..3123
+FT		/number=7
+\\
+DE	CD151*BT007397
+FT	exon	1..84
+FT		/number=1
+FT	exon	85..276
+FT		/number=2
+FT	exon	277..351
+FT		/number=3
+FT	exon	352..456
+FT		/number=4
+FT	exon	457..615
+FT		/number=5
+FT	exon	616..702
+FT		/number=6
+FT	exon	703..762
+FT		/number=7
+\\
+DE	CD151*HG38.ref.01
+FT	exon	3119..3202
+FT		/number=1
+FT	exon	3300..3491
+FT		/number=2
+FT	exon	3818..3892
+FT		/number=3
+FT	exon	4299..4403
+FT		/number=4
+FT	exon	4509..4667
+FT		/number=5
+FT	exon	4991..5077
+FT		/number=6
+FT	exon	5182..5241
+FT		/number=7
+\\
+DE	CD151*AL161965
+FT	exon	1..84
+FT		/number=1
+FT	exon	85..276
+FT		/number=2
+FT	exon	602..676
+FT		/number=3
+FT	exon	677..781
+FT		/number=4
+FT	exon	782..940
+FT		/number=5
+FT	exon	941..1027
+FT		/number=6
+FT	exon	1028..1087
+FT		/number=7
+\\
+DE	CD151*NM_004357
+FT	exon	1..84
+FT		/number=1
+FT	exon	85..276
+FT		/number=2
+FT	exon	277..351
+FT		/number=3
+FT	exon	352..456
+FT		/number=4
+FT	exon	457..615
+FT		/number=5
+FT	exon	616..702
+FT		/number=6
+FT	exon	703..762
+FT		/number=7
+\\
+DE	CD151*AK223186
+FT	exon	1..84
+FT		/number=1
+FT	exon	85..276
+FT		/number=2
+FT	exon	277..351
+FT		/number=3
+FT	exon	352..456
+FT		/number=4
+FT	exon	457..615
+FT		/number=5
+FT	exon	616..702
+FT		/number=6
+FT	exon	703..762
+FT		/number=7
+\\
+DE	CD151*AK130369
+FT	exon	1..84
+FT		/number=1
+FT	exon	85..276
+FT		/number=2
+FT	exon	602..676
+FT		/number=3
+FT	exon	677..781
+FT		/number=4
+FT	exon	782..940
+FT		/number=5
+FT	exon	941..1027
+FT		/number=6
+FT	exon	1028..1087
+FT		/number=7
+\\
+DE	ABO*O.01.10.2
+FT	exon	168..301
+FT		/number=1
+FT	exon	1354..2042
+FT		/number=2
+\\
+DE	ABO*AH013408
+FT	exon	1..70
+FT		/number=1
+FT	exon	121..168
+FT		/number=2
+\\
+DE	ABO*O.01.10.1
+FT	exon	168..301
+FT		/number=1
+FT	exon	1362..2052
+FT		/number=2
+\\
+DE	ABO*O.02.05.1
+FT	exon	1..134
+FT		/number=1
+FT	exon	135..825
+FT		/number=2
+\\
+DE	ABO*O.01.06.1
+FT	exon	51..184
+FT		/number=1
+FT	exon	1237..1926
+FT		/number=2
+\\
+DE	ABO*O.40.01.1
+FT	exon	1..70
+FT		/number=1
+FT	exon	795..851
+FT		/number=2
+FT	exon	2303..2350
+FT		/number=3
+FT	exon	4051..4086
+FT		/number=4
+FT	exon	4644..4777
+FT		/number=5
+FT	exon	5830..6520
+FT		/number=6
+\\
+DE	ABO*O.02.12.1
+FT	exon	168..301
+FT		/number=1
+FT	exon	1354..2042
+FT		/number=2
+\\
+DE	ABO*B1.09.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*A1.02.02.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*A2.07.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1065
+FT		/number=7
+\\
+DE	ABO*Bw.08.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	823..879
+FT		/number=3
+FT	exon	2331..2378
+FT		/number=4
+FT	exon	4065..4100
+FT		/number=5
+FT	exon	4655..4789
+FT		/number=6
+FT	exon	5842..6532
+FT		/number=7
+\\
+DE	ABO*Ael.03.01.1
+FT	exon	1..70
+FT		/number=1
+FT	exon	795..851
+FT		/number=2
+FT	exon	2303..2350
+FT		/number=3
+FT	exon	4037..4072
+FT		/number=4
+FT	exon	4627..4761
+FT		/number=5
+FT	exon	5814..6503
+FT		/number=6
+\\
+DE	ABO*Bx.03.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1065
+FT		/number=7
+\\
+DE	ABO*Aw.22.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1064
+FT		/number=7
+\\
+DE	ABO*AY373436
+FT	exon	1..691
+FT		/number=1
+\\
+DE	ABO*Aw.08.01.1
+FT	exon	1..70
+FT		/number=1
+FT	exon	796..852
+FT		/number=2
+FT	exon	2302..2349
+FT		/number=3
+FT	exon	4037..4072
+FT		/number=4
+FT	exon	4630..4764
+FT		/number=5
+FT	exon	5817..6507
+FT		/number=6
+\\
+DE	ABO*Aw.11.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*O.53.01.1
+FT	exon	1..70
+FT		/number=1
+FT	exon	71..127
+FT		/number=2
+FT	exon	128..175
+FT		/number=3
+FT	exon	176..211
+FT		/number=4
+FT	exon	212..346
+FT		/number=5
+FT	exon	347..1037
+FT		/number=6
+\\
+DE	ABO*Aw.20.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1064
+FT		/number=7
+\\
+DE	ABO*Aw.13.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	1427..2117
+FT		/number=7
+\\
+DE	ABO*O.02.19.1
+FT	exon	1..134
+FT		/number=1
+FT	exon	135..825
+FT		/number=2
+\\
+DE	ABO*O.01.01.4
+FT	exon	132..201
+FT		/number=1
+FT	exon	926..982
+FT		/number=2
+FT	exon	1404..1451
+FT		/number=3
+FT	exon	1901..1936
+FT		/number=4
+FT	exon	2491..2624
+FT		/number=5
+FT	exon	3677..4367
+FT		/number=6
+\\
+DE	ABO*Aw.02.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1064
+FT		/number=7
+\\
+DE	ABO*O.01.01.6
+FT	exon	344..400
+FT		/number=1
+FT	exon	822..869
+FT		/number=2
+FT	exon	1388..1423
+FT		/number=3
+FT	exon	1978..2111
+FT		/number=4
+FT	exon	3164..3854
+FT		/number=5
+\\
+DE	ABO*Bw.05.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1065
+FT		/number=7
+\\
+DE	ABO*Bel.04.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	1188..1878
+FT		/number=2
+\\
+DE	ABO*O.01.01.2
+FT	exon	1..70
+FT		/number=2
+FT	exon	795..851
+FT		/number=3
+FT	exon	2303..2350
+FT		/number=4
+FT	exon	4037..4072
+FT		/number=5
+FT	exon	4627..4741
+FT		/number=6
+\\
+DE	ABO*B1.01.02.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	874..1564
+FT		/number=2
+\\
+DE	ABO*A2.06.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..825
+FT		/number=2
+\\
+DE	ABO*Aw.21.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1064
+FT		/number=7
+\\
+DE	ABO*A3.05.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*O.02.14.1
+FT	exon	75..122
+FT		/number=1
+FT	exon	1823..1858
+FT		/number=2
+FT	exon	2416..2549
+FT		/number=3
+FT	exon	3602..4292
+FT		/number=4
+\\
+DE	ABO*EU157909
+FT	exon	1..691
+FT		/number=1
+\\
+DE	ABO*O.02.11.1
+FT	exon	168..301
+FT		/number=1
+FT	exon	1354..2042
+FT		/number=2
+\\
+DE	ABO*O.15.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*cisAB.03.01.1
+FT	exon	168..302
+FT		/number=1
+FT	exon	1355..2045
+FT		/number=2
+\\
+DE	ABO*AF170890
+FT	exon	51..98
+FT		/number=1
+\\
+DE	ABO*cisAB.01.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1065
+FT		/number=7
+\\
+DE	ABO*O.54.01.1
+FT	exon	1..70
+FT		/number=1
+FT	exon	795..851
+FT		/number=2
+FT	exon	2303..2349
+FT		/number=3
+FT	exon	4037..4072
+FT		/number=4
+FT	exon	4627..4760
+FT		/number=5
+FT	exon	5812..6502
+FT		/number=6
+\\
+DE	ABO*O.02.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	823..879
+FT		/number=3
+FT	exon	2331..2378
+FT		/number=4
+FT	exon	4079..4114
+FT		/number=5
+FT	exon	4672..4805
+FT		/number=6
+FT	exon	5858..6548
+FT		/number=7
+\\
+DE	ABO*O.02.17.1
+FT	exon	13..40
+FT		/number=1
+FT	exon	218..287
+FT		/number=2
+FT	exon	1012..1068
+FT		/number=3
+FT	exon	1443..1490
+FT		/number=4
+FT	exon	1965..2000
+FT		/number=5
+FT	exon	2558..2691
+FT		/number=6
+FT	exon	3698..4388
+FT		/number=7
+\\
+DE	ABO*O.02.01.3
+FT	exon	132..201
+FT		/number=1
+FT	exon	926..982
+FT		/number=2
+FT	exon	1404..1451
+FT		/number=3
+FT	exon	1940..1975
+FT		/number=4
+FT	exon	2533..2666
+FT		/number=5
+FT	exon	3719..4409
+FT		/number=6
+\\
+DE	ABO*O.02.01.2
+FT	exon	132..201
+FT		/number=1
+FT	exon	883..939
+FT		/number=2
+FT	exon	1267..1314
+FT		/number=3
+FT	exon	1728..1763
+FT		/number=4
+FT	exon	2321..2454
+FT		/number=5
+FT	exon	3507..4197
+FT		/number=6
+\\
+DE	ABO*Bel.02.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	1188..1878
+FT		/number=2
+\\
+DE	ABO*AY611640
+FT	exon	1..691
+FT		/number=1
+\\
+DE	ABO*AY611641
+FT	exon	1..691
+FT		/number=1
+\\
+DE	ABO*O.01.08.1
+FT	exon	1..70
+FT		/number=1
+FT	exon	795..851
+FT		/number=2
+FT	exon	2303..2350
+FT		/number=3
+FT	exon	4037..4072
+FT		/number=4
+FT	exon	4627..4760
+FT		/number=5
+FT	exon	5813..6503
+FT		/number=6
+\\
+DE	ABO*O.14.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*A1.08.01.1
+FT	exon	1..70
+FT		/number=1
+FT	exon	795..851
+FT		/number=2
+FT	exon	2303..2350
+FT		/number=3
+FT	exon	4037..4072
+FT		/number=4
+FT	exon	4627..4761
+FT		/number=5
+FT	exon	5814..6504
+FT		/number=6
+\\
+DE	ABO*Aw.04.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	823..879
+FT		/number=3
+FT	exon	2331..2378
+FT		/number=4
+FT	exon	4065..4100
+FT		/number=5
+FT	exon	4655..4789
+FT		/number=6
+FT	exon	5842..6532
+FT		/number=7
+\\
+DE	ABO*A2.08.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1065
+FT		/number=7
+\\
+DE	ABO*O.01.04.1
+FT	exon	1..134
+FT		/number=1
+FT	exon	135..825
+FT		/number=2
+\\
+DE	ABO*Ax.09.01.1
+FT	exon	100..234
+FT		/number=1
+FT	exon	1287..1977
+FT		/number=2
+\\
+DE	ABO*O.02.18.1
+FT	exon	13..40
+FT		/number=1
+FT	exon	218..287
+FT		/number=2
+FT	exon	1012..1068
+FT		/number=3
+FT	exon	1443..1490
+FT		/number=4
+FT	exon	1965..2000
+FT		/number=5
+FT	exon	2558..2691
+FT		/number=6
+FT	exon	3698..4388
+FT		/number=7
+\\
+DE	ABO*Am.02.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*Aw.03.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	206..253
+FT		/number=4
+FT	exon	304..339
+FT		/number=5
+FT	exon	340..474
+FT		/number=6
+FT	exon	475..1164
+FT		/number=7
+\\
+DE	ABO*B3.05.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*Bw.09.01.1
+FT	exon	1..70
+FT		/number=1
+FT	exon	795..851
+FT		/number=2
+FT	exon	2303..2350
+FT		/number=3
+FT	exon	4037..4072
+FT		/number=4
+FT	exon	4627..4761
+FT		/number=5
+FT	exon	5814..6504
+FT		/number=6
+\\
+DE	ABO*A1.02.04.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*Aw.15.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	823..879
+FT		/number=3
+FT	exon	2331..2378
+FT		/number=4
+FT	exon	4065..4100
+FT		/number=5
+FT	exon	4655..4789
+FT		/number=6
+FT	exon	5842..6532
+FT		/number=7
+\\
+DE	ABO*O.08.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*A2.17.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*O.39.01.1
+FT	exon	1..70
+FT		/number=1
+FT	exon	795..851
+FT		/number=2
+FT	exon	2303..2350
+FT		/number=3
+FT	exon	4053..4088
+FT		/number=4
+FT	exon	4646..4779
+FT		/number=5
+FT	exon	5832..6522
+FT		/number=6
+\\
+DE	ABO*B3.02.02.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	339..473
+FT		/number=6
+FT	exon	1526..2216
+FT		/number=7
+\\
+DE	ABO*O.02.08.1
+FT	exon	1..134
+FT		/number=1
+FT	exon	185..875
+FT		/number=2
+\\
+DE	ABO*O.02.07.1
+FT	exon	1..70
+FT		/number=1
+FT	exon	71..127
+FT		/number=2
+FT	exon	128..175
+FT		/number=3
+FT	exon	176..211
+FT		/number=4
+FT	exon	212..345
+FT		/number=5
+FT	exon	346..1036
+FT		/number=6
+\\
+DE	ABO*O.02.14.2
+FT	exon	168..301
+FT		/number=1
+FT	exon	1362..2050
+FT		/number=2
+\\
+DE	ABO*O.01.16.1
+FT	exon	1..134
+FT		/number=1
+FT	exon	135..825
+FT		/number=2
+\\
+DE	ABO*Ax.18.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*Bw.02.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1065
+FT		/number=7
+\\
+DE	ABO*O.01.15.1
+FT	exon	1..134
+FT		/number=1
+FT	exon	135..824
+FT		/number=2
+\\
+DE	ABO*Bx.08.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1065
+FT		/number=7
+\\
+DE	ABO*Aw.12.01.1
+FT	exon	1..691
+FT		/number=1
+\\
+DE	ABO*O.02.04.1
+FT	exon	168..301
+FT		/number=1
+FT	exon	1354..2044
+FT		/number=2
+\\
+DE	ABO*O.02.13.1
+FT	exon	1..70
+FT		/number=1
+FT	exon	71..127
+FT		/number=2
+FT	exon	128..175
+FT		/number=3
+FT	exon	176..211
+FT		/number=4
+FT	exon	212..345
+FT		/number=5
+FT	exon	346..1036
+FT		/number=6
+\\
+DE	ABO*A3.07.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*A1.02.03.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	564..1254
+FT		/number=2
+\\
+DE	ABO*Bw.15.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	339..473
+FT		/number=6
+FT	exon	1526..2216
+FT		/number=7
+\\
+DE	ABO*O.48.01.1
+FT	exon	1..70
+FT		/number=1
+FT	exon	71..127
+FT		/number=2
+FT	exon	128..175
+FT		/number=3
+FT	exon	176..211
+FT		/number=4
+FT	exon	212..346
+FT		/number=5
+FT	exon	347..1037
+FT		/number=6
+\\
+DE	ABO*O.02.03.1
+FT	exon	1..134
+FT		/number=1
+FT	exon	135..825
+FT		/number=2
+\\
+DE	ABO*O.02.16.1
+FT	exon	1..134
+FT		/number=1
+FT	exon	135..825
+FT		/number=2
+\\
+DE	ABO*A2.12.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1064
+FT		/number=7
+\\
+DE	ABO*Aw.09.01.1
+FT	exon	1..70
+FT		/number=1
+FT	exon	71..127
+FT		/number=2
+FT	exon	128..175
+FT		/number=3
+FT	exon	176..211
+FT		/number=4
+FT	exon	212..346
+FT		/number=5
+FT	exon	347..1036
+FT		/number=6
+\\
+DE	ABO*Bx.06.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1065
+FT		/number=7
+\\
+DE	ABO*Ael.06.01.1
+FT	exon	100..234
+FT		/number=1
+FT	exon	1287..1977
+FT		/number=2
+\\
+DE	ABO*A2.10.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*AB180267
+FT	exon	1..691
+FT		/number=1
+\\
+DE	ABO*O.02.15.1
+FT	exon	1..70
+FT		/number=1
+FT	exon	795..851
+FT		/number=2
+FT	exon	2303..2350
+FT		/number=3
+FT	exon	4051..4086
+FT		/number=4
+FT	exon	4644..4777
+FT		/number=5
+FT	exon	5830..6520
+FT		/number=6
+\\
+DE	ABO*EU442892
+FT	exon	1..132
+FT		/number=1
+\\
+DE	ABO*B3.06.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*cisAB.02.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..653
+FT		/number=2
+\\
+DE	ABO*Ax.11.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*Bw.07.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1065
+FT		/number=7
+\\
+DE	ABO*Ba.05.01.1
+FT	exon	100..234
+FT		/number=1
+FT	exon	1287..1977
+FT		/number=2
+\\
+DE	ABO*Bw.04.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1065
+FT		/number=7
+\\
+DE	ABO*Aw.19.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1064
+FT		/number=7
+\\
+DE	ABO*AB180262
+FT	exon	1..691
+FT		/number=1
+\\
+DE	ABO*Ax.09.02.1
+FT	exon	1..691
+FT		/number=1
+\\
+DE	ABO*Am.01.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*A1.02.01.3
+FT	exon	1..36
+FT		/number=1
+FT	exon	591..725
+FT		/number=2
+FT	exon	1778..2468
+FT		/number=3
+\\
+DE	ABO*A1.02.01.2
+FT	exon	13..40
+FT		/number=1
+FT	exon	13034..13103
+FT		/number=2
+FT	exon	13828..13884
+FT		/number=3
+FT	exon	15336..15383
+FT		/number=4
+FT	exon	17070..17105
+FT		/number=5
+FT	exon	17660..17794
+FT		/number=6
+FT	exon	18847..19537
+FT		/number=7
+\\
+DE	ABO*A1.02.01.1
+FT	exon	13..40
+FT		/number=1
+FT	exon	141..210
+FT		/number=2
+FT	exon	311..367
+FT		/number=3
+FT	exon	468..515
+FT		/number=4
+FT	exon	616..651
+FT		/number=5
+FT	exon	753..887
+FT		/number=6
+FT	exon	1940..2630
+FT		/number=7
+\\
+DE	ABO*Bw.22.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*Ba.06.01.1
+FT	exon	100..234
+FT		/number=1
+FT	exon	1287..1977
+FT		/number=2
+\\
+DE	ABO*Ba.01.02.1
+FT	exon	1..70
+FT		/number=1
+FT	exon	795..851
+FT		/number=2
+FT	exon	2303..2350
+FT		/number=3
+FT	exon	4037..4072
+FT		/number=4
+FT	exon	4627..4761
+FT		/number=5
+FT	exon	5814..6504
+FT		/number=6
+\\
+DE	ABO*Aw.17.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1064
+FT		/number=7
+\\
+DE	ABO*A2.20.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*B3.01.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*O.01.09.1
+FT	exon	168..301
+FT		/number=1
+FT	exon	1354..2044
+FT		/number=2
+\\
+DE	ABO*O.34.01.1
+FT	exon	168..301
+FT		/number=1
+FT	exon	1354..2044
+FT		/number=2
+\\
+DE	ABO*Bw.25.01.1
+FT	exon	1..57
+FT		/number=1
+FT	exon	58..105
+FT		/number=2
+FT	exon	106..141
+FT		/number=3
+FT	exon	142..276
+FT		/number=4
+FT	exon	277..967
+FT		/number=5
+\\
+DE	ABO*B1.11.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*Ax.14.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	247..937
+FT		/number=2
+\\
+DE	ABO*cisAB.04.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*Ael.08.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..825
+FT		/number=2
+\\
+DE	ABO*Ax.16.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*Bw.21.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	823..879
+FT		/number=3
+FT	exon	2331..2378
+FT		/number=4
+FT	exon	4065..4100
+FT		/number=5
+FT	exon	4655..4789
+FT		/number=6
+FT	exon	5842..6532
+FT		/number=7
+\\
+DE	ABO*O.02.20.1
+FT	exon	1..134
+FT		/number=1
+FT	exon	135..825
+FT		/number=2
+\\
+DE	ABO*A2.16.01.1
+FT	exon	77..146
+FT		/number=1
+FT	exon	870..926
+FT		/number=2
+FT	exon	1233..1280
+FT		/number=3
+FT	exon	1705..1740
+FT		/number=4
+FT	exon	2245..2379
+FT		/number=5
+FT	exon	3345..4034
+FT		/number=6
+\\
+DE	ABO*A1.14.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1060
+FT		/number=7
+\\
+DE	ABO*Aw.16.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	823..879
+FT		/number=3
+FT	exon	2331..2378
+FT		/number=4
+FT	exon	4065..4100
+FT		/number=5
+FT	exon	4655..4789
+FT		/number=6
+FT	exon	5842..6531
+FT		/number=7
+\\
+DE	ABO*B1.01.04.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1065
+FT		/number=7
+\\
+DE	ABO*refSeq.01
+FT	exon	13..40
+FT		/number=1
+FT	exon	13034..13103
+FT		/number=2
+FT	exon	13828..13884
+FT		/number=3
+FT	exon	15336..15383
+FT		/number=4
+FT	exon	17070..17105
+FT		/number=5
+FT	exon	17660..17794
+FT		/number=6
+FT	exon	18847..19537
+FT		/number=7
+\\
+DE	ABO*O.52.01.1
+FT	exon	153..222
+FT		/number=1
+FT	exon	947..1003
+FT		/number=2
+FT	exon	1365..1412
+FT		/number=3
+FT	exon	1931..1966
+FT		/number=4
+FT	exon	2521..2655
+FT		/number=5
+FT	exon	3708..4398
+FT		/number=6
+\\
+DE	ABO*O.01.01.5
+FT	exon	132..201
+FT		/number=1
+FT	exon	926..982
+FT		/number=2
+FT	exon	1404..1451
+FT		/number=3
+FT	exon	1900..1935
+FT		/number=4
+FT	exon	2490..2623
+FT		/number=5
+FT	exon	3676..4366
+FT		/number=6
+\\
+DE	ABO*Bel.06.01.1
+FT	exon	100..234
+FT		/number=1
+FT	exon	1287..1977
+FT		/number=2
+\\
+DE	ABO*EU924174
+FT	exon	1..691
+FT		/number=1
+\\
+DE	ABO*Ael.05.01.1
+FT	exon	100..234
+FT		/number=1
+FT	exon	1287..1977
+FT		/number=2
+\\
+DE	ABO*Bx.05.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1065
+FT		/number=7
+\\
+DE	ABO*O.02.02.1
+FT	exon	168..301
+FT		/number=1
+FT	exon	1353..2043
+FT		/number=2
+\\
+DE	ABO*AK302203
+FT	exon	9..36
+FT		/number=1
+FT	exon	37..106
+FT		/number=2
+FT	exon	107..163
+FT		/number=3
+FT	exon	164..211
+FT		/number=4
+FT	exon	212..247
+FT		/number=5
+FT	exon	248..938
+FT		/number=6
+\\
+DE	ABO*Aw.07.01.1
+FT	exon	1..70
+FT		/number=1
+FT	exon	795..851
+FT		/number=2
+FT	exon	2303..2350
+FT		/number=3
+FT	exon	4037..4072
+FT		/number=4
+FT	exon	4627..4761
+FT		/number=5
+FT	exon	5814..6504
+FT		/number=6
+\\
+DE	ABO*EU707567
+FT	exon	14..704
+FT		/number=1
+\\
+DE	ABO*A2.11.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*O.01.14.1
+FT	exon	132..201
+FT		/number=1
+FT	exon	926..982
+FT		/number=2
+FT	exon	1349..1396
+FT		/number=3
+FT	exon	1881..1916
+FT		/number=4
+FT	exon	2471..2604
+FT		/number=5
+FT	exon	3657..4347
+FT		/number=6
+\\
+DE	ABO*Bw.20.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..827
+FT		/number=2
+\\
+DE	ABO*A2.01.02.1
+FT	exon	1..70
+FT		/number=1
+FT	exon	795..851
+FT		/number=2
+FT	exon	2303..2349
+FT		/number=3
+FT	exon	4037..4072
+FT		/number=4
+FT	exon	4627..4761
+FT		/number=5
+FT	exon	5814..6503
+FT		/number=6
+\\
+DE	ABO*B1.08.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*O.01.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	823..879
+FT		/number=3
+FT	exon	2331..2378
+FT		/number=4
+FT	exon	4065..4100
+FT		/number=5
+FT	exon	4655..4788
+FT		/number=6
+FT	exon	5841..6531
+FT		/number=7
+\\
+DE	ABO*Ax.02.02.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	415..450
+FT		/number=5
+FT	exon	1005..1139
+FT		/number=6
+FT	exon	2192..2882
+FT		/number=7
+\\
+DE	ABO*EU145746
+FT	exon	1..691
+FT		/number=1
+\\
+DE	ABO*Ax.02.02.3
+FT	exon	1..135
+FT		/number=1
+FT	exon	1188..1878
+FT		/number=2
+\\
+DE	ABO*Ax.02.02.2
+FT	exon	1..135
+FT		/number=1
+FT	exon	1188..1878
+FT		/number=2
+\\
+DE	ABO*AB180268
+FT	exon	1..691
+FT		/number=1
+\\
+DE	ABO*Ax.02.02.4
+FT	exon	1..135
+FT		/number=1
+FT	exon	1188..1878
+FT		/number=2
+\\
+DE	ABO*Aw.18.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1064
+FT		/number=7
+\\
+DE	ABO*O.01.01.3
+FT	exon	1..70
+FT		/number=1
+FT	exon	795..851
+FT		/number=2
+FT	exon	2303..2350
+FT		/number=3
+FT	exon	4037..4072
+FT		/number=4
+FT	exon	4627..4760
+FT		/number=5
+FT	exon	5813..6503
+FT		/number=6
+\\
+DE	ABO*Bw.10.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1065
+FT		/number=7
+\\
+DE	ABO*Aw.10.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*Bel.01.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	1188..1878
+FT		/number=2
+\\
+DE	ABO*Aw.05.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1065
+FT		/number=7
+\\
+DE	ABO*Ax.10.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*AB180259
+FT	exon	1..691
+FT		/number=1
+\\
+DE	ABO*A2.04.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..530
+FT		/number=2
+\\
+DE	ABO*AB180258
+FT	exon	1..691
+FT		/number=1
+\\
+DE	ABO*O.49.01.1
+FT	exon	132..201
+FT		/number=1
+FT	exon	927..983
+FT		/number=2
+FT	exon	1405..1452
+FT		/number=3
+FT	exon	1832..1867
+FT		/number=4
+FT	exon	2425..2559
+FT		/number=5
+FT	exon	3612..4302
+FT		/number=6
+\\
+DE	ABO*Bel.05.01.1
+FT	exon	1..691
+FT		/number=1
+\\
+DE	ABO*Bx.02.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1065
+FT		/number=7
+\\
+DE	ABO*Ael.02.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*Bx.04.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1065
+FT		/number=7
+\\
+DE	ABO*Ael.04.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	1427..2117
+FT		/number=7
+\\
+DE	ABO*A1.01.01.2
+FT	exon	13..40
+FT		/number=1
+FT	exon	13049..13118
+FT		/number=2
+FT	exon	13844..13900
+FT		/number=3
+FT	exon	15352..15399
+FT		/number=4
+FT	exon	17100..17135
+FT		/number=5
+FT	exon	17693..17827
+FT		/number=6
+FT	exon	18880..19570
+FT		/number=7
+\\
+DE	ABO*A1.01.01.3
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	823..879
+FT		/number=3
+FT	exon	2331..2378
+FT		/number=4
+FT	exon	4065..4100
+FT		/number=5
+FT	exon	4655..4789
+FT		/number=6
+FT	exon	5842..6532
+FT		/number=7
+\\
+DE	ABO*A1.01.01.1
+FT	exon	13..40
+FT		/number=1
+FT	exon	13023..13092
+FT		/number=2
+FT	exon	13817..13873
+FT		/number=3
+FT	exon	15325..15372
+FT		/number=4
+FT	exon	17059..17094
+FT		/number=5
+FT	exon	17649..17783
+FT		/number=6
+FT	exon	18836..19526
+FT		/number=7
+\\
+DE	ABO*Ael.07.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*Bx.07.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1065
+FT		/number=7
+\\
+DE	ABO*cisAB.06.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*Ax.17.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*AL158826
+FT	exon	13..40
+FT		/number=1
+FT	exon	13047..13116
+FT		/number=2
+FT	exon	13841..13897
+FT		/number=3
+FT	exon	15348..15395
+FT		/number=4
+FT	exon	17096..17131
+FT		/number=5
+\\
+DE	ABO*O.01.13.1
+FT	exon	76..145
+FT		/number=1
+FT	exon	870..926
+FT		/number=2
+FT	exon	1227..1274
+FT		/number=3
+FT	exon	1793..1828
+FT		/number=4
+FT	exon	2383..2516
+FT		/number=5
+FT	exon	3569..4258
+FT		/number=6
+\\
+DE	ABO*Bel.03.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*B1.01.01.3
+FT	exon	102..171
+FT		/number=1
+FT	exon	896..952
+FT		/number=2
+FT	exon	1374..1421
+FT		/number=3
+FT	exon	1940..1975
+FT		/number=4
+FT	exon	2530..2664
+FT		/number=5
+FT	exon	3717..4407
+FT		/number=6
+\\
+DE	ABO*B1.01.01.2
+FT	exon	168..302
+FT		/number=1
+FT	exon	1355..2043
+FT		/number=2
+\\
+DE	ABO*B1.01.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	823..879
+FT		/number=3
+FT	exon	2331..2378
+FT		/number=4
+FT	exon	4065..4100
+FT		/number=5
+FT	exon	4655..4789
+FT		/number=6
+FT	exon	5842..6532
+FT		/number=7
+\\
+DE	ABO*Bw.06.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1065
+FT		/number=7
+\\
+DE	ABO*A2.18.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*Aw.29.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	823..879
+FT		/number=3
+FT	exon	2331..2379
+FT		/number=4
+FT	exon	4066..4101
+FT		/number=5
+FT	exon	4656..4790
+FT		/number=6
+FT	exon	5843..6533
+FT		/number=7
+\\
+DE	ABO*A2.01.01.1
+FT	exon	1..70
+FT		/number=1
+FT	exon	795..851
+FT		/number=2
+FT	exon	2303..2350
+FT		/number=3
+FT	exon	4037..4072
+FT		/number=4
+FT	exon	4627..4761
+FT		/number=5
+FT	exon	5814..6503
+FT		/number=6
+\\
+DE	ABO*Bw.24.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*A2.01.01.2
+FT	exon	131..200
+FT		/number=1
+FT	exon	697..753
+FT		/number=2
+FT	exon	1147..1194
+FT		/number=3
+FT	exon	1714..1749
+FT		/number=4
+FT	exon	2271..2405
+FT		/number=5
+FT	exon	3458..4147
+FT		/number=6
+\\
+DE	ABO*O.01.17.1
+FT	exon	1..134
+FT		/number=1
+FT	exon	135..825
+FT		/number=2
+\\
+DE	ABO*A2.03.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*B3.04.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	169..216
+FT		/number=4
+FT	exon	217..252
+FT		/number=5
+FT	exon	253..387
+FT		/number=6
+FT	exon	388..1078
+FT		/number=7
+\\
+DE	ABO*Aw.24.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1064
+FT		/number=7
+\\
+DE	ABO*Bw.16.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	339..473
+FT		/number=6
+FT	exon	1526..2216
+FT		/number=7
+\\
+DE	ABO*O.02.06.2
+FT	exon	168..301
+FT		/number=1
+FT	exon	1362..2050
+FT		/number=2
+\\
+DE	ABO*Ael.01.01.1
+FT	exon	1..70
+FT		/number=1
+FT	exon	795..851
+FT		/number=2
+FT	exon	2303..2350
+FT		/number=3
+FT	exon	4037..4072
+FT		/number=4
+FT	exon	4627..4761
+FT		/number=5
+FT	exon	5814..6505
+FT		/number=6
+\\
+DE	ABO*Bx.01.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	1188..1878
+FT		/number=2
+\\
+DE	ABO*O.01.12.1
+FT	exon	1..134
+FT		/number=1
+FT	exon	135..824
+FT		/number=2
+\\
+DE	ABO*O.09.02.1
+FT	exon	168..301
+FT		/number=1
+FT	exon	1354..2044
+FT		/number=2
+\\
+DE	ABO*B1.01.05.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	874..1564
+FT		/number=2
+\\
+DE	ABO*O.02.02.2
+FT	exon	1..134
+FT		/number=1
+FT	exon	1187..1875
+FT		/number=2
+\\
+DE	ABO*Aw.23.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1064
+FT		/number=7
+\\
+DE	ABO*O.01.02.1
+FT	exon	1..134
+FT		/number=1
+FT	exon	135..620
+FT		/number=2
+\\
+DE	ABO*O.72.01.1
+FT	exon	1..71
+FT		/number=1
+FT	exon	796..852
+FT		/number=2
+FT	exon	2304..2351
+FT		/number=3
+FT	exon	4038..4073
+FT		/number=4
+FT	exon	4628..4762
+FT		/number=5
+FT	exon	5815..6505
+FT		/number=6
+\\
+DE	ABO*O.06.01.1
+FT	exon	1..70
+FT		/number=1
+FT	exon	795..851
+FT		/number=2
+FT	exon	2303..2350
+FT		/number=3
+FT	exon	4051..4086
+FT		/number=4
+FT	exon	4644..4777
+FT		/number=5
+FT	exon	5830..6520
+FT		/number=6
+\\
+DE	ABO*Ba.01.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*Ax.19.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	1188..1878
+FT		/number=2
+\\
+DE	ABO*O.09.01.1
+FT	exon	168..301
+FT		/number=1
+FT	exon	1354..2044
+FT		/number=2
+\\
+DE	ABO*DQ100313
+FT	exon	1..690
+FT		/number=1
+\\
+DE	ABO*A3.06.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*Aw.30.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*Ax.12.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*Ax.01.02.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*O.50.01.1
+FT	exon	1..70
+FT		/number=1
+FT	exon	71..127
+FT		/number=2
+FT	exon	128..175
+FT		/number=3
+FT	exon	176..211
+FT		/number=4
+FT	exon	212..346
+FT		/number=5
+FT	exon	347..1037
+FT		/number=6
+\\
+DE	ABO*A3.03.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*AF170888
+FT	exon	51..741
+FT		/number=1
+\\
+DE	ABO*A2.13.01.1
+FT	exon	1..691
+FT		/number=1
+\\
+DE	ABO*Ax.01.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1065
+FT		/number=7
+\\
+DE	ABO*AY590125_6
+FT	exon	1..134
+FT		/number=1
+FT	exon	135..825
+FT		/number=2
+\\
+DE	ABO*EU377675
+FT	exon	1..126
+FT		/number=1
+\\
+DE	ABO*A2.05.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*Ax.02.01.2
+FT	exon	1..70
+FT		/number=1
+FT	exon	795..851
+FT		/number=2
+FT	exon	2303..2350
+FT		/number=3
+FT	exon	4037..4072
+FT		/number=4
+FT	exon	4627..4761
+FT		/number=5
+FT	exon	5814..6504
+FT		/number=6
+\\
+DE	ABO*Aw.01.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1064
+FT		/number=7
+\\
+DE	ABO*O.67.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	823..879
+FT		/number=3
+FT	exon	2331..2378
+FT		/number=4
+FT	exon	4079..4114
+FT		/number=5
+FT	exon	4672..4805
+FT		/number=6
+FT	exon	5858..6548
+FT		/number=7
+\\
+DE	ABO*O.67.01.2
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	823..879
+FT		/number=3
+FT	exon	2331..2378
+FT		/number=4
+FT	exon	4081..4116
+FT		/number=5
+FT	exon	4674..4807
+FT		/number=6
+FT	exon	5860..6550
+FT		/number=7
+\\
+DE	ABO*Ax.02.01.3
+FT	exon	1..135
+FT		/number=1
+FT	exon	575..1265
+FT		/number=2
+\\
+DE	ABO*A1.01.02.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*Ax.13.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*Bw.14.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	339..473
+FT		/number=6
+FT	exon	1526..2216
+FT		/number=7
+\\
+DE	ABO*Bw.18.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	339..473
+FT		/number=6
+FT	exon	1526..2216
+FT		/number=7
+\\
+DE	ABO*A1.09.01.1
+FT	exon	1..70
+FT		/number=1
+FT	exon	795..851
+FT		/number=2
+FT	exon	2303..2350
+FT		/number=3
+FT	exon	4037..4072
+FT		/number=4
+FT	exon	4627..4761
+FT		/number=5
+FT	exon	5814..6504
+FT		/number=6
+\\
+DE	ABO*Bw.12.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*Ax.02.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	1427..2117
+FT		/number=7
+\\
+DE	ABO*B3.08.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*Bw.23.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*Bw.11.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	339..473
+FT		/number=6
+FT	exon	1526..2216
+FT		/number=7
+\\
+DE	ABO*O.03.01.1
+FT	exon	1..70
+FT		/number=1
+FT	exon	796..852
+FT		/number=2
+FT	exon	2302..2349
+FT		/number=3
+FT	exon	4037..4072
+FT		/number=4
+FT	exon	4630..4764
+FT		/number=5
+FT	exon	5817..6507
+FT		/number=6
+\\
+DE	ABO*A2.02.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*B3.07.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*Aw.25.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1064
+FT		/number=7
+\\
+DE	ABO*Aw.26.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1064
+FT		/number=7
+\\
+DE	ABO*O.51.01.1
+FT	exon	1..71
+FT		/number=1
+\\
+DE	ABO*Bw.new
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	339..473
+FT		/number=6
+FT	exon	1526..2216
+FT		/number=7
+\\
+DE	ABO*A1.13.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..827
+FT		/number=2
+\\
+DE	ABO*Ba.04.01.1
+FT	exon	100..234
+FT		/number=1
+FT	exon	1287..1977
+FT		/number=2
+\\
+DE	ABO*AB180257
+FT	exon	1..691
+FT		/number=1
+\\
+DE	ABO*HG38.ref.01
+FT	exon	13..40
+FT		/number=1
+FT	exon	13034..13103
+FT		/number=2
+FT	exon	13828..13884
+FT		/number=3
+FT	exon	15336..15383
+FT		/number=4
+FT	exon	17070..17105
+FT		/number=5
+FT	exon	17660..17793
+FT		/number=6
+FT	exon	18846..19536
+FT		/number=7
+\\
+DE	ABO*A3.02.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1064
+FT		/number=7
+\\
+DE	ABO*O.02.10.1
+FT	exon	168..301
+FT		/number=1
+FT	exon	1354..2044
+FT		/number=2
+\\
+DE	ABO*O.01.07.1
+FT	exon	1..134
+FT		/number=1
+FT	exon	135..825
+FT		/number=2
+\\
+DE	ABO*cisAB.05.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*A2.19.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*Bw.03.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	341..475
+FT		/number=6
+FT	exon	1528..2218
+FT		/number=7
+\\
+DE	ABO*Ax.15.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	184..874
+FT		/number=2
+\\
+DE	ABO*B1.01.03.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*A3.01.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1065
+FT		/number=7
+\\
+DE	ABO*O.02.06.1
+FT	exon	168..301
+FT		/number=1
+FT	exon	1354..2044
+FT		/number=2
+\\
+DE	ABO*Ael.09.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1065
+FT		/number=7
+\\
+DE	ABO*Bx.09.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1065
+FT		/number=7
+\\
+DE	ABO*Ax.07.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1065
+FT		/number=7
+\\
+DE	ABO*O.01.05.1
+FT	exon	1..70
+FT		/number=1
+FT	exon	795..851
+FT		/number=2
+FT	exon	2303..2350
+FT		/number=3
+FT	exon	4037..4072
+FT		/number=4
+FT	exon	4627..4760
+FT		/number=5
+FT	exon	5813..6503
+FT		/number=6
+\\
+DE	ABO*O.01.05.2
+FT	exon	51..184
+FT		/number=1
+FT	exon	1237..1927
+FT		/number=2
+\\
+DE	ABO*Aw.14.01.1
+FT	exon	1..691
+FT		/number=1
+\\
+DE	ABO*A3.04.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..825
+FT		/number=2
+\\
+DE	ABO*Bw.17.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	339..473
+FT		/number=6
+FT	exon	1526..2216
+FT		/number=7
+\\
+DE	ABO*O.02.09.1
+FT	exon	1..57
+FT		/number=1
+FT	exon	58..105
+FT		/number=2
+FT	exon	106..141
+FT		/number=3
+FT	exon	142..275
+FT		/number=4
+FT	exon	276..966
+FT		/number=5
+\\
+DE	ABO*Aw.06.01.1
+FT	exon	1..70
+FT		/number=1
+FT	exon	795..851
+FT		/number=2
+FT	exon	2303..2350
+FT		/number=3
+FT	exon	4037..4072
+FT		/number=4
+FT	exon	4627..4761
+FT		/number=5
+FT	exon	5814..6504
+FT		/number=6
+\\
+DE	ABO*AB180254
+FT	exon	1..691
+FT		/number=1
+\\
+DE	ABO*O.01.11.1
+FT	exon	1..134
+FT		/number=1
+FT	exon	1187..1877
+FT		/number=2
+\\
+DE	ABO*O.09.03.1
+FT	exon	168..301
+FT		/number=1
+FT	exon	1354..2044
+FT		/number=2
+\\
+DE	ABO*B3.03.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	169..216
+FT		/number=4
+FT	exon	217..252
+FT		/number=5
+FT	exon	253..387
+FT		/number=6
+FT	exon	388..1078
+FT		/number=7
+\\
+DE	ABO*B1.12.01.1
+FT	exon	1..135
+FT		/number=1
+FT	exon	136..826
+FT		/number=2
+\\
+DE	ABO*Ba.02.01.1
+FT	exon	1..28
+FT		/number=1
+FT	exon	29..98
+FT		/number=2
+FT	exon	99..155
+FT		/number=3
+FT	exon	156..203
+FT		/number=4
+FT	exon	204..239
+FT		/number=5
+FT	exon	240..374
+FT		/number=6
+FT	exon	375..1065
+FT		/number=7
+\\
+DE	SEMA7A*AJ341621
+FT	exon	41..162
+FT		/number=1
+\\
+DE	SEMA7A*AF069493
+FT	exon	18..195
+FT		/number=1
+FT	exon	196..347
+FT		/number=2
+FT	exon	348..389
+FT		/number=3
+FT	exon	390..482
+FT		/number=4
+FT	exon	483..567
+FT		/number=5
+FT	exon	568..678
+FT		/number=6
+FT	exon	679..818
+FT		/number=7
+FT	exon	819..1003
+FT		/number=8
+FT	exon	1004..1112
+FT		/number=9
+FT	exon	1113..1311
+FT		/number=10
+FT	exon	1312..1439
+FT		/number=11
+FT	exon	1440..1594
+FT		/number=12
+FT	exon	1595..1656
+FT		/number=13
+FT	exon	1657..2018
+FT		/number=14
+\\
+DE	SEMA7A*AM180447
+FT	exon	1..178
+FT		/number=1
+FT	exon	179..330
+FT		/number=2
+FT	exon	331..372
+FT		/number=3
+FT	exon	373..465
+FT		/number=4
+FT	exon	466..550
+FT		/number=5
+FT	exon	551..661
+FT		/number=6
+FT	exon	662..801
+FT		/number=7
+FT	exon	802..986
+FT		/number=8
+FT	exon	987..1095
+FT		/number=9
+FT	exon	1096..1294
+FT		/number=10
+FT	exon	1295..1422
+FT		/number=11
+FT	exon	1423..1577
+FT		/number=12
+FT	exon	1578..1639
+FT		/number=13
+FT	exon	1640..2001
+FT		/number=14
+\\
+DE	SEMA7A*AM180445
+FT	exon	1..178
+FT		/number=1
+FT	exon	179..330
+FT		/number=2
+FT	exon	331..372
+FT		/number=3
+FT	exon	373..465
+FT		/number=4
+FT	exon	466..550
+FT		/number=5
+FT	exon	551..661
+FT		/number=6
+FT	exon	662..801
+FT		/number=7
+FT	exon	802..986
+FT		/number=8
+FT	exon	987..1095
+FT		/number=9
+FT	exon	1096..1294
+FT		/number=10
+FT	exon	1295..1422
+FT		/number=11
+FT	exon	1423..1577
+FT		/number=12
+FT	exon	1578..1639
+FT		/number=13
+FT	exon	1640..2001
+FT		/number=14
+\\
+DE	SEMA7A*AM180448
+FT	exon	1..178
+FT		/number=1
+FT	exon	179..330
+FT		/number=2
+FT	exon	331..372
+FT		/number=3
+FT	exon	373..465
+FT		/number=4
+FT	exon	466..550
+FT		/number=5
+FT	exon	551..661
+FT		/number=6
+FT	exon	662..801
+FT		/number=7
+FT	exon	802..986
+FT		/number=8
+FT	exon	987..1095
+FT		/number=9
+FT	exon	1096..1294
+FT		/number=10
+FT	exon	1295..1422
+FT		/number=11
+FT	exon	1423..1577
+FT		/number=12
+FT	exon	1578..1639
+FT		/number=13
+FT	exon	1640..2001
+FT		/number=14
+\\
+DE	SEMA7A*AM180449
+FT	exon	1..178
+FT		/number=1
+FT	exon	179..330
+FT		/number=2
+FT	exon	331..372
+FT		/number=3
+FT	exon	373..465
+FT		/number=4
+FT	exon	466..550
+FT		/number=5
+FT	exon	551..661
+FT		/number=6
+FT	exon	662..801
+FT		/number=7
+FT	exon	802..986
+FT		/number=8
+FT	exon	987..1095
+FT		/number=9
+FT	exon	1096..1294
+FT		/number=10
+FT	exon	1295..1422
+FT		/number=11
+FT	exon	1423..1577
+FT		/number=12
+FT	exon	1578..1639
+FT		/number=13
+FT	exon	1640..2001
+FT		/number=14
+\\
+DE	SEMA7A*HG38.ref.01
+FT	exon	41..218
+FT		/number=1
+FT	exon	15007..15158
+FT		/number=2
+FT	exon	15650..15691
+FT		/number=3
+FT	exon	15990..16082
+FT		/number=4
+FT	exon	16284..16368
+FT		/number=5
+FT	exon	16514..16624
+FT		/number=6
+FT	exon	17245..17384
+FT		/number=7
+FT	exon	17974..18158
+FT		/number=8
+FT	exon	19013..19121
+FT		/number=9
+FT	exon	19214..19412
+FT		/number=10
+FT	exon	21947..22074
+FT		/number=11
+FT	exon	22249..22403
+FT		/number=12
+FT	exon	22603..22664
+FT		/number=13
+FT	exon	22974..23335
+FT		/number=14
+\\
+DE	SEMA7A*AJ342537
+FT	exon	1..122
+FT		/number=1
+\\
+DE	SEMA7A*AF030698
+FT	exon	13..190
+FT		/number=1
+FT	exon	191..342
+FT		/number=2
+FT	exon	343..384
+FT		/number=3
+FT	exon	385..477
+FT		/number=4
+FT	exon	478..562
+FT		/number=5
+FT	exon	563..673
+FT		/number=6
+FT	exon	674..813
+FT		/number=7
+FT	exon	814..998
+FT		/number=8
+FT	exon	999..1107
+FT		/number=9
+FT	exon	1108..1306
+FT		/number=10
+FT	exon	1307..1434
+FT		/number=11
+FT	exon	1435..1589
+FT		/number=12
+FT	exon	1590..1651
+FT		/number=13
+FT	exon	1652..2013
+FT		/number=14
+\\
+DE	SEMA7A*AY885237
+FT	exon	41..218
+FT		/number=1
+FT	exon	15008..15159
+FT		/number=2
+FT	exon	15651..15692
+FT		/number=3
+FT	exon	15991..16083
+FT		/number=4
+FT	exon	16285..16369
+FT		/number=5
+FT	exon	16515..16625
+FT		/number=6
+FT	exon	17246..17385
+FT		/number=7
+FT	exon	17975..18159
+FT		/number=8
+FT	exon	19014..19122
+FT		/number=9
+FT	exon	19215..19413
+FT		/number=10
+FT	exon	21948..22075
+FT		/number=11
+FT	exon	22250..22404
+FT		/number=12
+FT	exon	22604..22665
+FT		/number=13
+FT	exon	22975..23336
+FT		/number=14
+\\
+DE	SEMA7A*AC012435
+FT	exon	41..218
+FT		/number=1
+FT	exon	15007..15158
+FT		/number=2
+FT	exon	15650..15691
+FT		/number=3
+FT	exon	15990..16082
+FT		/number=4
+FT	exon	16284..16368
+FT		/number=5
+FT	exon	16514..16624
+FT		/number=6
+FT	exon	17245..17384
+FT		/number=7
+FT	exon	17974..18158
+FT		/number=8
+FT	exon	19013..19121
+FT		/number=9
+FT	exon	19214..19412
+FT		/number=10
+FT	exon	21947..22074
+FT		/number=11
+FT	exon	22249..22403
+FT		/number=12
+FT	exon	22603..22664
+FT		/number=13
+FT	exon	22974..23335
+FT		/number=14
+\\
+DE	SEMA7A*AF071542
+FT	exon	1..178
+FT		/number=1
+FT	exon	179..330
+FT		/number=2
+FT	exon	331..372
+FT		/number=3
+FT	exon	373..465
+FT		/number=4
+FT	exon	466..550
+FT		/number=5
+FT	exon	551..661
+FT		/number=6
+FT	exon	662..801
+FT		/number=7
+FT	exon	802..986
+FT		/number=8
+FT	exon	987..1095
+FT		/number=9
+FT	exon	1096..1294
+FT		/number=10
+FT	exon	1295..1422
+FT		/number=11
+FT	exon	1423..1577
+FT		/number=12
+FT	exon	1578..1639
+FT		/number=13
+FT	exon	1640..2001
+FT		/number=14
+\\
+DE	SEMA7A*AM180450
+FT	exon	1..178
+FT		/number=1
+FT	exon	179..330
+FT		/number=2
+FT	exon	331..372
+FT		/number=3
+FT	exon	373..465
+FT		/number=4
+FT	exon	466..550
+FT		/number=5
+FT	exon	551..661
+FT		/number=6
+FT	exon	662..801
+FT		/number=7
+FT	exon	802..986
+FT		/number=8
+FT	exon	987..1095
+FT		/number=9
+FT	exon	1096..1294
+FT		/number=10
+FT	exon	1295..1422
+FT		/number=11
+FT	exon	1423..1577
+FT		/number=12
+FT	exon	1578..1639
+FT		/number=13
+FT	exon	1640..2001
+FT		/number=14
+\\
+DE	SEMA7A*AM180446
+FT	exon	1..178
+FT		/number=1
+FT	exon	179..330
+FT		/number=2
+FT	exon	331..372
+FT		/number=3
+FT	exon	373..465
+FT		/number=4
+FT	exon	466..550
+FT		/number=5
+FT	exon	551..661
+FT		/number=6
+FT	exon	662..801
+FT		/number=7
+FT	exon	802..986
+FT		/number=8
+FT	exon	987..1095
+FT		/number=9
+FT	exon	1096..1294
+FT		/number=10
+FT	exon	1295..1422
+FT		/number=11
+FT	exon	1423..1577
+FT		/number=12
+FT	exon	1578..1639
+FT		/number=13
+FT	exon	1640..2001
+FT		/number=14
+\\
+DE	SEMA7A*AF030697
+FT	exon	1..114
+FT		/number=1
+FT	exon	605..646
+FT		/number=2
+FT	exon	944..1036
+FT		/number=3
+FT	exon	1238..1322
+FT		/number=4
+FT	exon	1323..1433
+FT		/number=5
+FT	exon	2055..2194
+FT		/number=6
+FT	exon	2786..2970
+FT		/number=7
+FT	exon	3824..3932
+FT		/number=8
+FT	exon	4025..4223
+FT		/number=9
+FT	exon	6755..6882
+FT		/number=10
+FT	exon	7057..7211
+FT		/number=11
+FT	exon	7412..7473
+FT		/number=12
+FT	exon	7783..8144
+FT		/number=13
+\\
+DE	SEMA7A*AM180451
+FT	exon	1..178
+FT		/number=1
+FT	exon	179..330
+FT		/number=2
+FT	exon	331..372
+FT		/number=3
+FT	exon	373..465
+FT		/number=4
+FT	exon	466..550
+FT		/number=5
+FT	exon	551..661
+FT		/number=6
+FT	exon	662..801
+FT		/number=7
+FT	exon	802..986
+FT		/number=8
+FT	exon	987..1095
+FT		/number=9
+FT	exon	1096..1294
+FT		/number=10
+FT	exon	1295..1422
+FT		/number=11
+FT	exon	1423..1577
+FT		/number=12
+FT	exon	1578..1639
+FT		/number=13
+FT	exon	1640..2001
+FT		/number=14
+\\
+DE	SEMA7A*AK001895
+FT	exon	1..83
+FT		/number=1
+FT	exon	84..268
+FT		/number=2
+FT	exon	269..377
+FT		/number=3
+FT	exon	378..576
+FT		/number=4
+FT	exon	577..704
+FT		/number=5
+FT	exon	705..859
+FT		/number=6
+FT	exon	860..921
+FT		/number=7
+FT	exon	922..1283
+FT		/number=8
+\\
+DE	SEMA7A*001.1.1.01
+FT	exon	41..218
+FT		/number=1
+FT	exon	15007..15158
+FT		/number=2
+FT	exon	15650..15691
+FT		/number=3
+FT	exon	15990..16082
+FT		/number=4
+FT	exon	16284..16368
+FT		/number=5
+FT	exon	16514..16624
+FT		/number=6
+FT	exon	17245..17384
+FT		/number=7
+FT	exon	17974..18158
+FT		/number=8
+FT	exon	19013..19121
+FT		/number=9
+FT	exon	19214..19412
+FT		/number=10
+FT	exon	21947..22074
+FT		/number=11
+FT	exon	22249..22403
+FT		/number=12
+FT	exon	22603..22664
+FT		/number=13
+FT	exon	22974..23335
+FT		/number=14
+\\
+DE	C4B*AY379925
+FT	exon	1..198
+FT		/number=1
+FT	exon	290..401
+FT		/number=2
+FT	exon	492..562
+FT		/number=3
+FT	exon	821..960
+FT		/number=4
+FT	exon	1074..1283
+FT		/number=5
+FT	exon	1528..1579
+FT		/number=6
+FT	exon	1681..1770
+FT		/number=7
+FT	exon	1906..2115
+FT		/number=8
+FT	exon	2295..2370
+FT		/number=9
+FT	exon	2531..2687
+FT		/number=10
+FT	exon	2783..2899
+FT		/number=11
+FT	exon	3005..3176
+FT		/number=12
+\\
+DE	C4B*AY379924
+FT	exon	1..198
+FT		/number=1
+FT	exon	290..401
+FT		/number=2
+FT	exon	492..562
+FT		/number=3
+FT	exon	821..960
+FT		/number=4
+FT	exon	1074..1283
+FT		/number=5
+FT	exon	1528..1579
+FT		/number=6
+FT	exon	1681..1770
+FT		/number=7
+FT	exon	1906..2115
+FT		/number=8
+FT	exon	2295..2370
+FT		/number=9
+FT	exon	2531..2687
+FT		/number=10
+FT	exon	2783..2899
+FT		/number=11
+FT	exon	3005..3176
+FT		/number=12
+\\
+DE	C4B*AY379926
+FT	exon	1..198
+FT		/number=1
+FT	exon	290..401
+FT		/number=2
+FT	exon	492..562
+FT		/number=3
+FT	exon	821..960
+FT		/number=4
+FT	exon	1074..1283
+FT		/number=5
+FT	exon	1528..1579
+FT		/number=6
+FT	exon	1681..1770
+FT		/number=7
+FT	exon	1906..2115
+FT		/number=8
+FT	exon	2295..2370
+FT		/number=9
+FT	exon	2531..2687
+FT		/number=10
+FT	exon	2783..2899
+FT		/number=11
+FT	exon	3005..3176
+FT		/number=12
+\\
+DE	C4B*K02404
+FT	exon	1..79
+FT		/number=1
+FT	exon	80..289
+FT		/number=2
+FT	exon	290..365
+FT		/number=3
+FT	exon	366..522
+FT		/number=4
+FT	exon	523..639
+FT		/number=5
+FT	exon	640..811
+FT		/number=6
+FT	exon	812..1044
+FT		/number=7
+FT	exon	1045..1143
+FT		/number=8
+\\
+DE	C4B*AH013611
+FT	exon	1..198
+FT		/number=1
+FT	exon	290..401
+FT		/number=2
+FT	exon	492..562
+FT		/number=3
+FT	exon	821..960
+FT		/number=4
+FT	exon	1074..1283
+FT		/number=5
+FT	exon	1528..1579
+FT		/number=6
+FT	exon	1681..1770
+FT		/number=7
+FT	exon	1906..2115
+FT		/number=8
+FT	exon	2295..2370
+FT		/number=9
+FT	exon	2531..2670
+FT		/number=10
+FT	exon	2766..2882
+FT		/number=11
+FT	exon	2988..3159
+FT		/number=12
+\\
+DE	C4B*refSeq.01
+FT	exon	52..116
+FT		/number=1
+FT	exon	249..447
+FT		/number=2
+FT	exon	662..863
+FT		/number=3
+FT	exon	1073..1143
+FT		/number=4
+FT	exon	1222..1310
+FT		/number=5
+FT	exon	1529..1611
+FT		/number=6
+FT	exon	1782..1878
+FT		/number=7
+FT	exon	2017..2122
+FT		/number=8
+FT	exon	2220..2352
+FT		/number=9
+FT	exon	9136..9251
+FT		/number=0
+FT	exon	9351..9530
+FT		/number=1
+FT	exon	9676..9858
+FT		/number=2
+FT	exon	9991..10176
+FT		/number=3
+FT	exon	10330..10488
+FT		/number=4
+FT	exon	10740..10866
+FT		/number=5
+FT	exon	11034..11108
+FT		/number=6
+FT	exon	11369..11566
+FT		/number=7
+FT	exon	11658..11769
+FT		/number=8
+FT	exon	11860..11930
+FT		/number=9
+FT	exon	12189..12328
+FT		/number=0
+FT	exon	12442..12651
+FT		/number=1
+FT	exon	12896..12947
+FT		/number=2
+FT	exon	13049..13138
+FT		/number=3
+FT	exon	13274..13483
+FT		/number=4
+FT	exon	13663..13738
+FT		/number=5
+FT	exon	13899..14055
+FT		/number=6
+FT	exon	14151..14267
+FT		/number=7
+FT	exon	14373..14544
+FT		/number=8
+FT	exon	14772..15004
+FT		/number=9
+FT	exon	15087..15254
+FT		/number=0
+FT	exon	15648..15707
+FT		/number=1
+FT	exon	16757..16850
+FT		/number=2
+FT	exon	16948..17134
+FT		/number=3
+FT	exon	17249..17339
+FT		/number=4
+FT	exon	17430..17504
+FT		/number=5
+FT	exon	18996..19098
+FT		/number=6
+FT	exon	19264..19353
+FT		/number=7
+FT	exon	19439..19537
+FT		/number=8
+FT	exon	19720..19803
+FT		/number=9
+FT	exon	20066..20198
+FT		/number=0
+FT	exon	20342..20483
+FT		/number=1
+\\
+DE	C4B*AH013603
+FT	exon	1..198
+FT		/number=1
+FT	exon	290..401
+FT		/number=2
+FT	exon	492..562
+FT		/number=3
+FT	exon	821..960
+FT		/number=4
+FT	exon	1074..1283
+FT		/number=5
+FT	exon	1528..1579
+FT		/number=6
+FT	exon	1681..1770
+FT		/number=7
+FT	exon	1906..2115
+FT		/number=8
+FT	exon	2295..2370
+FT		/number=9
+FT	exon	2531..2670
+FT		/number=10
+FT	exon	2766..2882
+FT		/number=11
+FT	exon	2988..3159
+FT		/number=12
+\\
+DE	C4B*U24578.2
+FT	exon	52..116
+FT		/number=1
+FT	exon	248..446
+FT		/number=2
+FT	exon	661..862
+FT		/number=3
+FT	exon	1072..1141
+FT		/number=4
+FT	exon	1218..1306
+FT		/number=5
+FT	exon	1525..1606
+FT		/number=6
+FT	exon	1777..1872
+FT		/number=7
+FT	exon	2010..2115
+FT		/number=8
+FT	exon	2213..2345
+FT		/number=9
+FT	exon	2346..2459
+FT		/number=10
+FT	exon	2557..2735
+FT		/number=11
+FT	exon	2879..3061
+FT		/number=12
+FT	exon	3192..3376
+FT		/number=13
+FT	exon	3530..3688
+FT		/number=14
+FT	exon	3940..4064
+FT		/number=15
+FT	exon	4232..4306
+FT		/number=16
+FT	exon	4561..4755
+FT		/number=17
+FT	exon	4846..4957
+FT		/number=18
+FT	exon	5048..5118
+FT		/number=19
+FT	exon	5371..5510
+FT		/number=20
+FT	exon	5620..5825
+FT		/number=21
+FT	exon	6068..6119
+FT		/number=22
+FT	exon	6221..6309
+FT		/number=23
+FT	exon	6446..6651
+FT		/number=24
+FT	exon	6830..6905
+FT		/number=25
+FT	exon	7066..7222
+FT		/number=26
+FT	exon	7318..7434
+FT		/number=27
+FT	exon	7540..7709
+FT		/number=28
+FT	exon	7937..8169
+FT		/number=29
+FT	exon	8252..8419
+FT		/number=30
+FT	exon	8812..8870
+FT		/number=31
+FT	exon	9908..10001
+FT		/number=32
+FT	exon	10099..10285
+FT		/number=33
+FT	exon	10400..10490
+FT		/number=34
+FT	exon	10581..10655
+FT		/number=35
+FT	exon	12137..12237
+FT		/number=36
+FT	exon	12401..12489
+FT		/number=37
+FT	exon	12575..12671
+FT		/number=38
+FT	exon	12854..12937
+FT		/number=39
+FT	exon	13200..13332
+FT		/number=40
+FT	exon	13473..13612
+FT		/number=41
+\\
+DE	C4B*AL049547
+FT	exon	52..116
+FT		/number=1
+FT	exon	249..447
+FT		/number=2
+FT	exon	662..863
+FT		/number=3
+FT	exon	1073..1143
+FT		/number=4
+FT	exon	1222..1310
+FT		/number=5
+FT	exon	1529..1611
+FT		/number=6
+FT	exon	1782..1878
+FT		/number=7
+FT	exon	2017..2122
+FT		/number=8
+FT	exon	2220..2352
+FT		/number=9
+FT	exon	2353..2468
+FT		/number=10
+FT	exon	2568..2747
+FT		/number=11
+FT	exon	2893..3075
+FT		/number=12
+FT	exon	3208..3393
+FT		/number=13
+FT	exon	3547..3705
+FT		/number=14
+FT	exon	3957..4083
+FT		/number=15
+FT	exon	4251..4325
+FT		/number=16
+FT	exon	4586..4783
+FT		/number=17
+FT	exon	4875..4986
+FT		/number=18
+FT	exon	5077..5147
+FT		/number=19
+FT	exon	5406..5545
+FT		/number=20
+FT	exon	5659..5868
+FT		/number=21
+FT	exon	6113..6164
+FT		/number=22
+FT	exon	6266..6355
+FT		/number=23
+FT	exon	6491..6700
+FT		/number=24
+FT	exon	6880..6955
+FT		/number=25
+FT	exon	7116..7272
+FT		/number=26
+FT	exon	7368..7484
+FT		/number=27
+FT	exon	7590..7761
+FT		/number=28
+FT	exon	7989..8221
+FT		/number=29
+FT	exon	8304..8471
+FT		/number=30
+FT	exon	8865..8924
+FT		/number=31
+FT	exon	9974..10067
+FT		/number=32
+FT	exon	10165..10351
+FT		/number=33
+FT	exon	10466..10556
+FT		/number=34
+FT	exon	10647..10721
+FT		/number=35
+FT	exon	12213..12315
+FT		/number=36
+FT	exon	12481..12570
+FT		/number=37
+FT	exon	12656..12754
+FT		/number=38
+FT	exon	12937..13020
+FT		/number=39
+FT	exon	13283..13415
+FT		/number=40
+FT	exon	13559..13700
+FT		/number=41
+\\
+DE	C4B*AH013604
+FT	exon	1..198
+FT		/number=1
+FT	exon	290..401
+FT		/number=2
+FT	exon	492..562
+FT		/number=3
+FT	exon	821..960
+FT		/number=4
+FT	exon	1074..1283
+FT		/number=5
+FT	exon	1528..1579
+FT		/number=6
+FT	exon	1681..1770
+FT		/number=7
+FT	exon	1906..2115
+FT		/number=8
+FT	exon	2295..2370
+FT		/number=9
+FT	exon	2531..2670
+FT		/number=10
+FT	exon	2766..2882
+FT		/number=11
+FT	exon	2988..3158
+FT		/number=12
+\\
+DE	C4B*AY379927
+FT	exon	1..198
+FT		/number=1
+FT	exon	290..401
+FT		/number=2
+FT	exon	492..562
+FT		/number=3
+FT	exon	821..960
+FT		/number=4
+FT	exon	1074..1283
+FT		/number=5
+FT	exon	1528..1579
+FT		/number=6
+FT	exon	1681..1770
+FT		/number=7
+FT	exon	1906..2115
+FT		/number=8
+FT	exon	2295..2370
+FT		/number=9
+FT	exon	2531..2687
+FT		/number=10
+FT	exon	2783..2899
+FT		/number=11
+FT	exon	3005..3176
+FT		/number=12
+\\
+DE	C4B*AH013605
+FT	exon	1..198
+FT		/number=1
+FT	exon	290..401
+FT		/number=2
+FT	exon	492..562
+FT		/number=3
+FT	exon	821..960
+FT		/number=4
+FT	exon	1074..1283
+FT		/number=5
+FT	exon	1528..1579
+FT		/number=6
+FT	exon	1681..1770
+FT		/number=7
+FT	exon	1906..2115
+FT		/number=8
+FT	exon	2295..2370
+FT		/number=9
+FT	exon	2531..2670
+FT		/number=10
+FT	exon	2766..2882
+FT		/number=11
+FT	exon	2988..3159
+FT		/number=12
+\\
+DE	C4B*AH013634
+FT	exon	52..116
+FT		/number=1
+FT	exon	117..315
+FT		/number=2
+FT	exon	316..517
+FT		/number=3
+FT	exon	518..588
+FT		/number=4
+FT	exon	589..677
+FT		/number=5
+FT	exon	678..760
+FT		/number=6
+FT	exon	761..857
+FT		/number=7
+FT	exon	858..963
+FT		/number=8
+FT	exon	1061..1193
+FT		/number=9
+FT	exon	1194..1309
+FT		/number=10
+FT	exon	1409..1588
+FT		/number=11
+FT	exon	1709..1891
+FT		/number=12
+FT	exon	1892..2077
+FT		/number=13
+FT	exon	2078..2236
+FT		/number=14
+FT	exon	2483..2609
+FT		/number=15
+FT	exon	2777..2851
+FT		/number=16
+FT	exon	2852..3049
+FT		/number=17
+FT	exon	3141..3252
+FT		/number=18
+FT	exon	3343..3413
+FT		/number=19
+FT	exon	3672..3811
+FT		/number=20
+FT	exon	3925..4134
+FT		/number=21
+FT	exon	4379..4430
+FT		/number=22
+FT	exon	4532..4621
+FT		/number=23
+FT	exon	4757..4966
+FT		/number=24
+FT	exon	5146..5221
+FT		/number=25
+FT	exon	5382..5538
+FT		/number=26
+FT	exon	5634..5750
+FT		/number=27
+FT	exon	5856..6027
+FT		/number=28
+FT	exon	6028..6260
+FT		/number=29
+FT	exon	6343..6510
+FT		/number=30
+FT	exon	6511..6570
+FT		/number=31
+FT	exon	6571..6664
+FT		/number=32
+FT	exon	6762..6948
+FT		/number=33
+FT	exon	6949..7039
+FT		/number=34
+FT	exon	7130..7204
+FT		/number=35
+FT	exon	7205..7307
+FT		/number=36
+FT	exon	7473..7562
+FT		/number=37
+FT	exon	7648..7746
+FT		/number=38
+FT	exon	7747..7830
+FT		/number=39
+FT	exon	7831..7963
+FT		/number=40
+FT	exon	7964..8105
+FT		/number=41
+\\
+DE	C4B*BX679671
+FT	exon	52..116
+FT		/number=1
+FT	exon	249..446
+FT		/number=2
+FT	exon	661..862
+FT		/number=3
+FT	exon	1072..1142
+FT		/number=4
+FT	exon	1221..1309
+FT		/number=5
+FT	exon	1528..1610
+FT		/number=6
+FT	exon	1781..1877
+FT		/number=7
+FT	exon	2016..2121
+FT		/number=8
+FT	exon	2219..2351
+FT		/number=9
+FT	exon	9135..9250
+FT		/number=10
+FT	exon	9350..9529
+FT		/number=11
+FT	exon	9675..9857
+FT		/number=12
+FT	exon	9990..10175
+FT		/number=13
+FT	exon	10329..10487
+FT		/number=14
+FT	exon	10739..10865
+FT		/number=15
+FT	exon	11033..11107
+FT		/number=16
+FT	exon	11367..11564
+FT		/number=17
+FT	exon	11656..11767
+FT		/number=18
+FT	exon	11858..11928
+FT		/number=19
+FT	exon	12186..12325
+FT		/number=20
+FT	exon	12438..12647
+FT		/number=21
+FT	exon	12890..12941
+FT		/number=22
+FT	exon	13043..13132
+FT		/number=23
+FT	exon	13268..13477
+FT		/number=24
+FT	exon	13657..13732
+FT		/number=25
+FT	exon	13893..14049
+FT		/number=26
+FT	exon	14145..14261
+FT		/number=27
+FT	exon	14367..14538
+FT		/number=28
+FT	exon	14767..14999
+FT		/number=29
+FT	exon	15082..15249
+FT		/number=30
+FT	exon	15643..15702
+FT		/number=31
+FT	exon	16752..16845
+FT		/number=32
+FT	exon	16943..17129
+FT		/number=33
+FT	exon	17244..17334
+FT		/number=34
+FT	exon	17425..17499
+FT		/number=35
+FT	exon	18991..19093
+FT		/number=36
+FT	exon	19259..19348
+FT		/number=37
+FT	exon	19434..19532
+FT		/number=38
+FT	exon	19715..19798
+FT		/number=39
+FT	exon	20061..20193
+FT		/number=40
+FT	exon	20337..20478
+FT		/number=41
+\\
+DE	C4B*AH013606
+FT	exon	1..198
+FT		/number=1
+FT	exon	290..401
+FT		/number=2
+FT	exon	492..562
+FT		/number=3
+FT	exon	821..960
+FT		/number=4
+FT	exon	1074..1283
+FT		/number=5
+FT	exon	1528..1579
+FT		/number=6
+FT	exon	1681..1770
+FT		/number=7
+FT	exon	1906..2115
+FT		/number=8
+FT	exon	2295..2370
+FT		/number=9
+FT	exon	2531..2670
+FT		/number=10
+FT	exon	2766..2882
+FT		/number=11
+FT	exon	2988..3158
+FT		/number=12
+\\
+DE	C4B*AH013622
+FT	exon	1..198
+FT		/number=1
+FT	exon	290..401
+FT		/number=2
+FT	exon	492..562
+FT		/number=3
+FT	exon	821..960
+FT		/number=4
+FT	exon	1074..1283
+FT		/number=5
+FT	exon	1527..1578
+FT		/number=6
+FT	exon	1680..1769
+FT		/number=7
+FT	exon	1905..2114
+FT		/number=8
+FT	exon	2294..2369
+FT		/number=9
+FT	exon	2530..2669
+FT		/number=10
+FT	exon	2765..2881
+FT		/number=11
+FT	exon	2987..3158
+FT		/number=12
+\\
+DE	C4B*AH013623
+FT	exon	1..198
+FT		/number=1
+FT	exon	290..401
+FT		/number=2
+FT	exon	492..562
+FT		/number=3
+FT	exon	821..960
+FT		/number=4
+FT	exon	1074..1283
+FT		/number=5
+FT	exon	1527..1578
+FT		/number=6
+FT	exon	1680..1769
+FT		/number=7
+FT	exon	1905..2114
+FT		/number=8
+FT	exon	2294..2369
+FT		/number=9
+FT	exon	2530..2669
+FT		/number=10
+FT	exon	2765..2881
+FT		/number=11
+FT	exon	2987..3158
+FT		/number=12
+\\
+DE	C4B*CR753845
+FT	exon	52..116
+FT		/number=1
+FT	exon	249..447
+FT		/number=2
+FT	exon	662..863
+FT		/number=3
+FT	exon	1073..1143
+FT		/number=4
+FT	exon	1222..1310
+FT		/number=5
+FT	exon	1529..1611
+FT		/number=6
+FT	exon	1782..1878
+FT		/number=7
+FT	exon	2017..2122
+FT		/number=8
+FT	exon	2220..2352
+FT		/number=9
+FT	exon	2353..2468
+FT		/number=10
+FT	exon	2568..2747
+FT		/number=11
+FT	exon	2893..3075
+FT		/number=12
+FT	exon	3208..3393
+FT		/number=13
+FT	exon	3547..3705
+FT		/number=14
+FT	exon	3957..4083
+FT		/number=15
+FT	exon	4251..4325
+FT		/number=16
+FT	exon	4586..4783
+FT		/number=17
+FT	exon	4875..4986
+FT		/number=18
+FT	exon	5077..5147
+FT		/number=19
+FT	exon	5406..5545
+FT		/number=20
+FT	exon	5659..5868
+FT		/number=21
+FT	exon	6113..6164
+FT		/number=22
+FT	exon	6266..6355
+FT		/number=23
+FT	exon	6491..6700
+FT		/number=24
+FT	exon	6880..6955
+FT		/number=25
+FT	exon	7116..7272
+FT		/number=26
+FT	exon	7368..7484
+FT		/number=27
+FT	exon	7590..7761
+FT		/number=28
+FT	exon	7989..8221
+FT		/number=29
+FT	exon	8304..8471
+FT		/number=30
+FT	exon	8865..8924
+FT		/number=31
+FT	exon	9974..10067
+FT		/number=32
+FT	exon	10165..10351
+FT		/number=33
+FT	exon	10466..10556
+FT		/number=34
+FT	exon	10647..10721
+FT		/number=35
+FT	exon	12213..12315
+FT		/number=36
+FT	exon	12481..12570
+FT		/number=37
+FT	exon	12656..12754
+FT		/number=38
+FT	exon	12937..13020
+FT		/number=39
+FT	exon	13283..13415
+FT		/number=40
+FT	exon	13559..13700
+FT		/number=41
+\\
+DE	C4B*AH013602
+FT	exon	1..198
+FT		/number=1
+FT	exon	290..401
+FT		/number=2
+FT	exon	492..562
+FT		/number=3
+FT	exon	821..960
+FT		/number=4
+FT	exon	1074..1283
+FT		/number=5
+FT	exon	1528..1579
+FT		/number=6
+FT	exon	1681..1770
+FT		/number=7
+FT	exon	1906..2115
+FT		/number=8
+FT	exon	2295..2370
+FT		/number=9
+FT	exon	2531..2670
+FT		/number=10
+FT	exon	2766..2882
+FT		/number=11
+FT	exon	2988..3159
+FT		/number=12
+\\
+DE	C4B*AH013610
+FT	exon	1..198
+FT		/number=1
+FT	exon	290..401
+FT		/number=2
+FT	exon	492..562
+FT		/number=3
+FT	exon	821..960
+FT		/number=4
+FT	exon	1074..1283
+FT		/number=5
+FT	exon	1528..1579
+FT		/number=6
+FT	exon	1681..1770
+FT		/number=7
+FT	exon	1906..2115
+FT		/number=8
+FT	exon	2295..2370
+FT		/number=9
+FT	exon	2531..2670
+FT		/number=10
+FT	exon	2766..2882
+FT		/number=11
+FT	exon	2988..3159
+FT		/number=12
+\\
+DE	C4B*U77886
+FT	exon	1..70
+FT		/number=1
+FT	exon	231..387
+FT		/number=2
+FT	exon	483..599
+FT		/number=3
+FT	exon	705..876
+FT		/number=4
+\\
+DE	C4B*U77887
+FT	exon	1..70
+FT		/number=1
+FT	exon	231..387
+FT		/number=2
+FT	exon	483..599
+FT		/number=3
+FT	exon	705..876
+FT		/number=4
+\\
+DE	C4B*M87292
+FT	exon	1..44
+FT		/number=1
+FT	exon	205..361
+FT		/number=2
+FT	exon	457..573
+FT		/number=3
+FT	exon	679..850
+FT		/number=4
+\\
+DE	C4B*M87293
+FT	exon	1..44
+FT		/number=1
+FT	exon	205..361
+FT		/number=2
+FT	exon	457..573
+FT		/number=3
+FT	exon	679..850
+FT		/number=4
+\\
+DE	C4B*AH013608
+FT	exon	1..198
+FT		/number=1
+FT	exon	290..401
+FT		/number=2
+FT	exon	492..562
+FT		/number=3
+FT	exon	821..960
+FT		/number=4
+FT	exon	1074..1283
+FT		/number=5
+FT	exon	1528..1579
+FT		/number=6
+FT	exon	1681..1770
+FT		/number=7
+FT	exon	1906..2115
+FT		/number=8
+FT	exon	2295..2370
+FT		/number=9
+FT	exon	2531..2670
+FT		/number=10
+FT	exon	2766..2882
+FT		/number=11
+FT	exon	2988..3159
+FT		/number=12
+\\
+DE	C4B*AH013609
+FT	exon	1..198
+FT		/number=1
+FT	exon	290..401
+FT		/number=2
+FT	exon	492..562
+FT		/number=3
+FT	exon	821..960
+FT		/number=4
+FT	exon	1074..1283
+FT		/number=5
+FT	exon	1528..1579
+FT		/number=6
+FT	exon	1681..1770
+FT		/number=7
+FT	exon	1906..2115
+FT		/number=8
+FT	exon	2295..2370
+FT		/number=9
+FT	exon	2531..2670
+FT		/number=10
+FT	exon	2766..2882
+FT		/number=11
+FT	exon	2988..3159
+FT		/number=12
+\\
+DE	BCAM*BC036745
+FT	exon	18..99
+FT		/number=1
+FT	exon	100..221
+FT		/number=2
+FT	exon	222..450
+FT		/number=3
+FT	exon	451..521
+FT		/number=4
+FT	exon	522..618
+FT		/number=5
+FT	exon	619..801
+FT		/number=6
+FT	exon	802..938
+FT		/number=7
+FT	exon	939..1095
+FT		/number=8
+FT	exon	1096..1211
+FT		/number=9
+FT	exon	1212..1353
+FT		/number=10
+FT	exon	1354..1457
+FT		/number=11
+\\
+DE	BCAM*X80026
+FT	exon	7..88
+FT		/number=1
+FT	exon	89..210
+FT		/number=2
+FT	exon	211..439
+FT		/number=3
+FT	exon	440..510
+FT		/number=4
+FT	exon	511..607
+FT		/number=5
+FT	exon	608..790
+FT		/number=6
+FT	exon	791..927
+FT		/number=7
+FT	exon	928..1084
+FT		/number=8
+FT	exon	1085..1200
+FT		/number=9
+FT	exon	1201..1342
+FT		/number=10
+FT	exon	1343..1479
+FT		/number=11
+FT	exon	1480..1624
+FT		/number=12
+FT	exon	1625..1769
+FT		/number=13
+\\
+DE	BCAM*001.01.01.01
+FT	exon	64..145
+FT		/number=1
+FT	exon	2164..2285
+FT		/number=2
+FT	exon	3102..3330
+FT		/number=3
+FT	exon	3417..3487
+FT		/number=4
+FT	exon	4189..4285
+FT		/number=5
+FT	exon	4377..4559
+FT		/number=6
+FT	exon	5091..5227
+FT		/number=7
+FT	exon	5543..5699
+FT		/number=8
+FT	exon	9461..9576
+FT		/number=9
+FT	exon	9680..9821
+FT		/number=10
+FT	exon	9995..10131
+FT		/number=11
+FT	exon	10285..10429
+FT		/number=12
+FT	exon	10521..10665
+FT		/number=13
+FT	exon	11644..11761
+FT		/number=14
+FT	exon	11855..11860
+FT		/number=15
+\\
+DE	BCAM*NM_005581
+FT	exon	45..126
+FT		/number=1
+FT	exon	127..248
+FT		/number=2
+FT	exon	249..477
+FT		/number=3
+FT	exon	478..548
+FT		/number=4
+FT	exon	549..645
+FT		/number=5
+FT	exon	646..828
+FT		/number=6
+FT	exon	829..965
+FT		/number=7
+FT	exon	966..1122
+FT		/number=8
+FT	exon	1123..1238
+FT		/number=9
+FT	exon	1239..1380
+FT		/number=10
+FT	exon	1381..1517
+FT		/number=11
+FT	exon	1518..1662
+FT		/number=12
+FT	exon	1663..1807
+FT		/number=13
+FT	exon	1808..1925
+FT		/number=14
+FT	exon	1926..1931
+FT		/number=15
+\\
+DE	BCAM*AY845133
+FT	exon	67..148
+FT		/number=1
+FT	exon	2167..2288
+FT		/number=2
+FT	exon	3105..3333
+FT		/number=3
+FT	exon	3420..3490
+FT		/number=4
+FT	exon	4192..4288
+FT		/number=5
+FT	exon	4380..4562
+FT		/number=6
+FT	exon	5094..5230
+FT		/number=7
+FT	exon	5546..5702
+FT		/number=8
+FT	exon	9464..9579
+FT		/number=9
+FT	exon	9683..9824
+FT		/number=10
+FT	exon	9998..10134
+FT		/number=11
+FT	exon	10288..10432
+FT		/number=12
+FT	exon	10524..10668
+FT		/number=13
+FT	exon	11647..11764
+FT		/number=14
+FT	exon	11858..11863
+FT		/number=15
+\\
+DE	BCAM*refSeq.01
+FT	exon	67..148
+FT		/number=1
+FT	exon	2167..2288
+FT		/number=2
+FT	exon	3105..3333
+FT		/number=3
+FT	exon	3420..3490
+FT		/number=4
+FT	exon	4192..4288
+FT		/number=5
+FT	exon	4380..4562
+FT		/number=6
+FT	exon	5094..5230
+FT		/number=7
+FT	exon	5546..5702
+FT		/number=8
+FT	exon	9464..9579
+FT		/number=9
+FT	exon	9683..9824
+FT		/number=10
+FT	exon	9998..10134
+FT		/number=11
+FT	exon	10288..10432
+FT		/number=12
+FT	exon	10524..10668
+FT		/number=13
+FT	exon	11647..11764
+FT		/number=14
+FT	exon	11858..11863
+FT		/number=15
+\\
+DE	BCAM*X83425
+FT	exon	23..104
+FT		/number=1
+FT	exon	105..226
+FT		/number=2
+FT	exon	227..455
+FT		/number=3
+FT	exon	456..526
+FT		/number=4
+FT	exon	527..623
+FT		/number=5
+FT	exon	624..806
+FT		/number=6
+FT	exon	807..943
+FT		/number=7
+FT	exon	944..1100
+FT		/number=8
+FT	exon	1101..1216
+FT		/number=9
+FT	exon	1217..1358
+FT		/number=10
+FT	exon	1359..1495
+FT		/number=11
+FT	exon	1496..1640
+FT		/number=12
+FT	exon	1641..1785
+FT		/number=13
+FT	exon	1786..1903
+FT		/number=14
+FT	exon	1904..1909
+FT		/number=15
+\\
+DE	CD99*BC002584
+FT	exon	107..173
+FT		/number=1
+FT	exon	174..206
+FT		/number=2
+FT	exon	207..254
+FT		/number=3
+FT	exon	255..299
+FT		/number=4
+FT	exon	300..368
+FT		/number=5
+FT	exon	369..416
+FT		/number=6
+FT	exon	417..467
+FT		/number=7
+FT	exon	468..581
+FT		/number=8
+FT	exon	582..638
+FT		/number=9
+FT	exon	639..664
+FT		/number=10
+\\
+DE	CD99*HG38.ref.01
+FT	exon	175..241
+FT		/number=1
+FT	exon	23236..23268
+FT		/number=2
+FT	exon	26419..26466
+FT		/number=3
+FT	exon	28475..28519
+FT		/number=4
+FT	exon	29170..29238
+FT		/number=5
+FT	exon	31441..31488
+FT		/number=6
+FT	exon	32128..32178
+FT		/number=7
+FT	exon	35074..35187
+FT		/number=8
+FT	exon	47014..47070
+FT		/number=9
+FT	exon	49593..49618
+FT		/number=10
+\\
+DE	CD99*001.1.1.01
+FT	exon	175..241
+FT		/number=1
+FT	exon	23236..23268
+FT		/number=2
+FT	exon	26419..26466
+FT		/number=3
+FT	exon	28475..28519
+FT		/number=4
+FT	exon	29170..29238
+FT		/number=5
+FT	exon	31441..31488
+FT		/number=6
+FT	exon	32128..32178
+FT		/number=7
+FT	exon	35074..35187
+FT		/number=8
+FT	exon	47014..47070
+FT		/number=9
+FT	exon	49593..49618
+FT		/number=10
+\\
+DE	CD99*U82164
+FT	exon	1..67
+FT		/number=1
+FT	exon	68..100
+FT		/number=2
+FT	exon	101..148
+FT		/number=3
+FT	exon	149..193
+FT		/number=4
+FT	exon	194..262
+FT		/number=5
+FT	exon	263..310
+FT		/number=6
+FT	exon	311..361
+FT		/number=7
+FT	exon	362..475
+FT		/number=8
+FT	exon	476..532
+FT		/number=9
+FT	exon	533..558
+FT		/number=10
+\\
+DE	CD99*BC010109
+FT	exon	175..241
+FT		/number=1
+FT	exon	242..274
+FT		/number=2
+FT	exon	275..322
+FT		/number=3
+FT	exon	323..367
+FT		/number=4
+FT	exon	368..436
+FT		/number=5
+FT	exon	437..484
+FT		/number=6
+FT	exon	485..535
+FT		/number=7
+FT	exon	536..649
+FT		/number=8
+FT	exon	650..706
+FT		/number=9
+FT	exon	707..732
+FT		/number=10
+\\
+DE	CD99*AC006040
+FT	exon	1502..1615
+FT		/number=1
+FT	exon	13441..13497
+FT		/number=2
+FT	exon	16019..16044
+FT		/number=3
+\\
+DE	CD99*M16279
+FT	exon	175..241
+FT		/number=1
+FT	exon	242..274
+FT		/number=2
+FT	exon	275..322
+FT		/number=3
+FT	exon	323..367
+FT		/number=4
+FT	exon	368..436
+FT		/number=5
+FT	exon	437..484
+FT		/number=6
+FT	exon	485..535
+FT		/number=7
+FT	exon	536..649
+FT		/number=8
+FT	exon	650..706
+FT		/number=9
+FT	exon	707..732
+FT		/number=10
+\\
+DE	CD99*J03841
+FT	exon	175..241
+FT		/number=1
+\\
+DE	CD99*BC024310
+FT	exon	168..234
+FT		/number=1
+FT	exon	235..267
+FT		/number=2
+FT	exon	268..315
+FT		/number=3
+FT	exon	316..360
+FT		/number=4
+FT	exon	361..429
+FT		/number=5
+FT	exon	430..477
+FT		/number=6
+FT	exon	478..528
+FT		/number=7
+FT	exon	529..642
+FT		/number=8
+FT	exon	643..699
+FT		/number=9
+FT	exon	700..725
+FT		/number=10
+\\
+DE	CD99*X16996
+FT	exon	124..190
+FT		/number=1
+FT	exon	191..223
+FT		/number=2
+FT	exon	224..271
+FT		/number=3
+FT	exon	272..316
+FT		/number=4
+FT	exon	317..385
+FT		/number=5
+FT	exon	386..433
+FT		/number=6
+FT	exon	434..484
+FT		/number=7
+FT	exon	485..598
+FT		/number=8
+FT	exon	599..655
+FT		/number=9
+FT	exon	656..681
+FT		/number=10
+\\
+DE	RHCE*ce_BX640519
+FT	exon	129..276
+FT		/number=1
+FT	exon	12065..12251
+FT		/number=2
+FT	exon	18173..18323
+FT		/number=3
+FT	exon	28776..28923
+FT		/number=4
+FT	exon	30003..30169
+FT		/number=5
+FT	exon	31805..31942
+FT		/number=6
+FT	exon	35074..35207
+FT		/number=7
+FT	exon	45474..45553
+FT		/number=8
+FT	exon	50362..50435
+FT		/number=9
+FT	exon	58348..58374
+FT		/number=10
+\\
+DE	RHCE*DQ534023
+FT	exon	7..154
+FT		/number=1
+\\
+DE	RHCE*DQ121434
+FT	exon	75..222
+FT		/number=1
+\\
+DE	RHCE*ce_AF510066
+FT	exon	44..191
+FT		/number=1
+FT	exon	192..378
+FT		/number=2
+FT	exon	379..529
+FT		/number=3
+FT	exon	530..677
+FT		/number=4
+FT	exon	678..844
+FT		/number=5
+FT	exon	845..982
+FT		/number=6
+FT	exon	983..1116
+FT		/number=7
+FT	exon	1117..1196
+FT		/number=8
+FT	exon	1197..1270
+FT		/number=9
+FT	exon	1271..1297
+FT		/number=10
+\\
+DE	RHCE*cE_AB018645
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1153
+FT		/number=8
+FT	exon	1154..1227
+FT		/number=9
+FT	exon	1228..1254
+FT		/number=10
+\\
+DE	RHCE*cE_AB018644
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1153
+FT		/number=8
+FT	exon	1154..1227
+FT		/number=9
+FT	exon	1228..1254
+FT		/number=10
+\\
+DE	RHCE*AF458851
+FT	exon	306..332
+FT		/number=1
+\\
+DE	RHCE*e_Z97333
+FT	exon	1..167
+FT		/number=1
+FT	exon	1803..1940
+FT		/number=2
+FT	exon	5066..5134
+FT		/number=3
+\\
+DE	RHCE*NM_138618
+FT	exon	87..234
+FT		/number=1
+FT	exon	235..421
+FT		/number=2
+FT	exon	422..572
+FT		/number=3
+FT	exon	573..720
+FT		/number=4
+FT	exon	721..887
+FT		/number=5
+FT	exon	888..1025
+FT		/number=6
+FT	exon	1026..1105
+FT		/number=7
+FT	exon	1106..1179
+FT		/number=8
+FT	exon	1180..1206
+FT		/number=9
+\\
+DE	RHCE*AJ867774
+FT	exon	1..147
+FT		/number=1
+\\
+DE	RHCE*AJ867777
+FT	exon	1..162
+FT		/number=1
+\\
+DE	RHCE*DQ534022
+FT	exon	20..170
+FT		/number=1
+\\
+DE	RHCE*AK127547
+FT	exon	490..676
+FT		/number=1
+FT	exon	677..827
+FT		/number=2
+FT	exon	828..975
+FT		/number=3
+FT	exon	976..1142
+FT		/number=4
+FT	exon	1143..1280
+FT		/number=5
+FT	exon	1281..1414
+FT		/number=6
+FT	exon	1415..1494
+FT		/number=7
+FT	exon	1495..1568
+FT		/number=8
+FT	exon	1569..1595
+FT		/number=9
+\\
+DE	RHCE*AM295502
+FT	exon	1..185
+FT		/number=1
+\\
+DE	RHCE*AM295503
+FT	exon	1..27
+FT		/number=1
+\\
+DE	RHCE*AM295500
+FT	exon	1..156
+FT		/number=1
+\\
+DE	RHCE*AM295501
+FT	exon	1..137
+FT		/number=1
+\\
+DE	RHCE*AM295506
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1153
+FT		/number=8
+FT	exon	1154..1227
+FT		/number=9
+FT	exon	1228..1254
+FT		/number=10
+\\
+DE	RHCE*AM295505
+FT	exon	1..147
+FT		/number=1
+\\
+DE	RHCE*DQ178642
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1153
+FT		/number=8
+FT	exon	1154..1227
+FT		/number=9
+FT	exon	1228..1254
+FT		/number=10
+\\
+DE	RHCE*NM_138617
+FT	exon	87..234
+FT		/number=1
+FT	exon	235..421
+FT		/number=2
+FT	exon	422..572
+FT		/number=3
+FT	exon	573..710
+FT		/number=4
+FT	exon	711..844
+FT		/number=5
+FT	exon	845..918
+FT		/number=6
+FT	exon	919..945
+FT		/number=7
+\\
+DE	RHCE*DQ088169
+FT	exon	41..227
+FT		/number=1
+\\
+DE	RHCE*X63095
+FT	exon	10..157
+FT		/number=1
+FT	exon	158..344
+FT		/number=2
+FT	exon	345..495
+FT		/number=3
+FT	exon	496..633
+FT		/number=4
+FT	exon	634..767
+FT		/number=5
+FT	exon	768..841
+FT		/number=6
+FT	exon	842..868
+FT		/number=7
+\\
+DE	RHCE*CE_AL139426
+FT	exon	129..276
+FT		/number=1
+FT	exon	12149..12335
+FT		/number=2
+FT	exon	18217..18367
+FT		/number=3
+FT	exon	28801..28948
+FT		/number=4
+FT	exon	30027..30193
+FT		/number=5
+FT	exon	31829..31966
+FT		/number=6
+FT	exon	35098..35231
+FT		/number=7
+FT	exon	45488..45567
+FT		/number=8
+FT	exon	50382..50455
+FT		/number=9
+FT	exon	58371..58397
+FT		/number=10
+\\
+DE	RHCE*AL928711
+FT	exon	776..849
+FT		/number=1
+FT	exon	8763..8789
+FT		/number=2
+\\
+DE	RHCE*DQ451877
+FT	exon	7..154
+FT		/number=1
+\\
+DE	RHCE*CE_NM_020485
+FT	exon	87..234
+FT		/number=1
+FT	exon	235..421
+FT		/number=2
+FT	exon	422..572
+FT		/number=3
+FT	exon	573..720
+FT		/number=4
+FT	exon	721..887
+FT		/number=5
+FT	exon	888..1025
+FT		/number=6
+FT	exon	1026..1159
+FT		/number=7
+FT	exon	1160..1239
+FT		/number=8
+FT	exon	1240..1313
+FT		/number=9
+FT	exon	1314..1340
+FT		/number=10
+\\
+DE	RHCE*CE_NM_138618
+FT	exon	87..234
+FT		/number=1
+FT	exon	235..421
+FT		/number=2
+FT	exon	422..572
+FT		/number=3
+FT	exon	573..720
+FT		/number=4
+FT	exon	721..887
+FT		/number=5
+FT	exon	888..1025
+FT		/number=6
+FT	exon	1026..1105
+FT		/number=7
+FT	exon	1106..1179
+FT		/number=8
+FT	exon	1180..1206
+FT		/number=9
+\\
+DE	RHCE*AJ548429
+FT	exon	124..274
+FT		/number=1
+\\
+DE	RHCE*DQ309583
+FT	exon	6..192
+FT		/number=1
+\\
+DE	RHCE*DQ309582
+FT	exon	7..193
+FT		/number=1
+\\
+DE	RHCE*ce_AF510068
+FT	exon	44..191
+FT		/number=1
+FT	exon	192..378
+FT		/number=2
+FT	exon	379..529
+FT		/number=3
+FT	exon	530..677
+FT		/number=4
+FT	exon	678..844
+FT		/number=5
+FT	exon	845..982
+FT		/number=6
+FT	exon	983..1116
+FT		/number=7
+FT	exon	1117..1196
+FT		/number=8
+FT	exon	1197..1270
+FT		/number=9
+FT	exon	1271..1297
+FT		/number=10
+\\
+DE	RHCE*ce_AF510067
+FT	exon	44..191
+FT		/number=1
+FT	exon	192..378
+FT		/number=2
+FT	exon	379..529
+FT		/number=3
+FT	exon	530..677
+FT		/number=4
+FT	exon	678..844
+FT		/number=5
+FT	exon	845..982
+FT		/number=6
+FT	exon	983..1116
+FT		/number=7
+FT	exon	1117..1196
+FT		/number=8
+FT	exon	1197..1270
+FT		/number=9
+FT	exon	1271..1297
+FT		/number=10
+\\
+DE	RHCE*NM_138616
+FT	exon	87..234
+FT		/number=1
+FT	exon	235..421
+FT		/number=2
+FT	exon	422..572
+FT		/number=3
+FT	exon	573..706
+FT		/number=4
+FT	exon	707..786
+FT		/number=5
+FT	exon	787..860
+FT		/number=6
+FT	exon	861..887
+FT		/number=7
+\\
+DE	RHCE*ce_AF510065
+FT	exon	44..191
+FT		/number=1
+FT	exon	192..378
+FT		/number=2
+FT	exon	379..529
+FT		/number=3
+FT	exon	530..677
+FT		/number=4
+FT	exon	678..844
+FT		/number=5
+FT	exon	845..982
+FT		/number=6
+FT	exon	983..1116
+FT		/number=7
+FT	exon	1117..1196
+FT		/number=8
+FT	exon	1197..1270
+FT		/number=9
+FT	exon	1271..1297
+FT		/number=10
+\\
+DE	RHCE*AL139426
+FT	exon	129..276
+FT		/number=1
+FT	exon	12149..12335
+FT		/number=2
+FT	exon	18218..18368
+FT		/number=3
+FT	exon	28802..28949
+FT		/number=4
+FT	exon	30028..30194
+FT		/number=5
+FT	exon	31830..31967
+FT		/number=6
+FT	exon	35099..35232
+FT		/number=7
+FT	exon	45489..45568
+FT		/number=8
+FT	exon	50383..50456
+FT		/number=9
+FT	exon	58372..58398
+FT		/number=10
+\\
+DE	RHCE*Ce_AF056965
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1071
+FT		/number=7
+FT	exon	1072..1151
+FT		/number=8
+FT	exon	1152..1225
+FT		/number=9
+FT	exon	1226..1252
+FT		/number=10
+\\
+DE	RHCE*AM183926
+FT	exon	1..147
+FT		/number=1
+\\
+DE	RHCE*Z97030
+FT	exon	1557..1580
+FT		/number=1
+\\
+DE	RHCE*AM182448
+FT	exon	1..144
+FT		/number=1
+\\
+DE	RHCE*AJ704215
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1153
+FT		/number=8
+FT	exon	1154..1227
+FT		/number=9
+FT	exon	1228..1251
+FT		/number=10
+\\
+DE	RHCE*cE_X54534
+FT	exon	45..192
+FT		/number=1
+FT	exon	193..379
+FT		/number=2
+FT	exon	380..530
+FT		/number=3
+FT	exon	531..678
+FT		/number=4
+FT	exon	679..845
+FT		/number=5
+FT	exon	846..983
+FT		/number=6
+FT	exon	984..1117
+FT		/number=7
+FT	exon	1118..1197
+FT		/number=8
+FT	exon	1198..1271
+FT		/number=9
+FT	exon	1272..1298
+FT		/number=10
+\\
+DE	RHCE*ce_X63098
+FT	exon	20..167
+FT		/number=1
+FT	exon	168..354
+FT		/number=2
+FT	exon	355..505
+FT		/number=3
+FT	exon	506..653
+FT		/number=4
+FT	exon	654..820
+FT		/number=5
+FT	exon	821..958
+FT		/number=6
+FT	exon	959..1038
+FT		/number=7
+FT	exon	1039..1112
+FT		/number=8
+FT	exon	1113..1139
+FT		/number=9
+\\
+DE	RHCE*AH015503
+FT	exon	92..239
+FT		/number=1
+FT	exon	291..477
+FT		/number=2
+\\
+DE	RHCE*AM260938
+FT	exon	1..162
+FT		/number=1
+\\
+DE	RHCE*AJ630384
+FT	exon	101..128
+FT		/number=1
+\\
+DE	RHCE*cE_S57967
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1153
+FT		/number=8
+FT	exon	1154..1227
+FT		/number=9
+FT	exon	1228..1251
+FT		/number=10
+\\
+DE	RHCE*ce_BN000065
+FT	exon	129..276
+FT		/number=1
+FT	exon	12046..12232
+FT		/number=2
+FT	exon	18169..18319
+FT		/number=3
+FT	exon	28774..28921
+FT		/number=4
+FT	exon	30000..30166
+FT		/number=5
+FT	exon	31802..31939
+FT		/number=6
+FT	exon	35071..35204
+FT		/number=7
+FT	exon	45487..45566
+FT		/number=8
+FT	exon	50375..50448
+FT		/number=9
+FT	exon	58362..58388
+FT		/number=10
+\\
+DE	RHCE*AM177314
+FT	exon	122..269
+FT		/number=1
+FT	exon	323..509
+FT		/number=2
+FT	exon	809..959
+FT		/number=3
+FT	exon	1071..1218
+FT		/number=4
+FT	exon	1303..1469
+FT		/number=5
+FT	exon	1627..1764
+FT		/number=6
+FT	exon	1930..2063
+FT		/number=7
+FT	exon	2255..2334
+FT		/number=8
+FT	exon	2551..2624
+FT		/number=9
+FT	exon	2914..2940
+FT		/number=10
+\\
+DE	RHCE*AM072759
+FT	exon	162..348
+FT		/number=1
+\\
+DE	RHCE*BX649378
+FT	exon	776..849
+FT		/number=1
+FT	exon	8764..8790
+FT		/number=2
+\\
+DE	RHCE*AF390114
+FT	exon	77..214
+FT		/number=1
+\\
+DE	RHCE*X63096
+FT	exon	7..154
+FT		/number=1
+FT	exon	155..341
+FT		/number=2
+FT	exon	342..492
+FT		/number=3
+FT	exon	493..626
+FT		/number=4
+FT	exon	627..706
+FT		/number=5
+FT	exon	707..780
+FT		/number=6
+FT	exon	781..807
+FT		/number=7
+\\
+DE	RHCE*AM410878
+FT	exon	1..141
+FT		/number=1
+\\
+DE	RHCE*DQ322275
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1153
+FT		/number=8
+FT	exon	1154..1227
+FT		/number=9
+FT	exon	1228..1251
+FT		/number=10
+\\
+DE	RHCE*AY603478
+FT	exon	17..164
+FT		/number=1
+FT	exon	165..351
+FT		/number=2
+FT	exon	352..502
+FT		/number=3
+FT	exon	503..650
+FT		/number=4
+FT	exon	651..817
+FT		/number=5
+FT	exon	818..955
+FT		/number=6
+FT	exon	956..1089
+FT		/number=7
+FT	exon	1090..1169
+FT		/number=8
+FT	exon	1170..1243
+FT		/number=9
+FT	exon	1244..1270
+FT		/number=10
+\\
+DE	RHCE*001.01.01.01
+FT	exon	129..276
+FT		/number=1
+FT	exon	12065..12251
+FT		/number=2
+FT	exon	18173..18323
+FT		/number=3
+FT	exon	28775..28922
+FT		/number=4
+FT	exon	30002..30168
+FT		/number=5
+FT	exon	31804..31941
+FT		/number=6
+FT	exon	35073..35206
+FT		/number=7
+FT	exon	45473..45552
+FT		/number=8
+FT	exon	50361..50434
+FT		/number=9
+FT	exon	58348..58374
+FT		/number=10
+\\
+DE	RHCE*Y10604
+FT	exon	1..123
+FT		/number=1
+FT	exon	1201..1299
+FT		/number=2
+\\
+DE	RHCE*X54534
+FT	exon	45..192
+FT		/number=1
+FT	exon	193..379
+FT		/number=2
+FT	exon	380..530
+FT		/number=3
+FT	exon	531..678
+FT		/number=4
+FT	exon	679..845
+FT		/number=5
+FT	exon	846..983
+FT		/number=6
+FT	exon	984..1117
+FT		/number=7
+FT	exon	1118..1197
+FT		/number=8
+FT	exon	1198..1271
+FT		/number=9
+FT	exon	1272..1298
+FT		/number=10
+\\
+DE	RHCE*C_NM_138617
+FT	exon	87..234
+FT		/number=1
+FT	exon	235..421
+FT		/number=2
+FT	exon	422..572
+FT		/number=3
+FT	exon	573..710
+FT		/number=4
+FT	exon	711..844
+FT		/number=5
+FT	exon	845..918
+FT		/number=6
+FT	exon	919..945
+FT		/number=7
+\\
+DE	RHCE*C_NM_138616
+FT	exon	87..234
+FT		/number=1
+FT	exon	235..421
+FT		/number=2
+FT	exon	422..572
+FT		/number=3
+FT	exon	573..706
+FT		/number=4
+FT	exon	707..786
+FT		/number=5
+FT	exon	787..860
+FT		/number=6
+FT	exon	861..887
+FT		/number=7
+\\
+DE	RHCE*AJ633651
+FT	exon	1503..1529
+FT		/number=1
+\\
+DE	RHCE*cE_BX649364
+FT	exon	129..276
+FT		/number=1
+FT	exon	12045..12231
+FT		/number=2
+FT	exon	18175..18325
+FT		/number=3
+FT	exon	28794..28941
+FT		/number=4
+FT	exon	30020..30186
+FT		/number=5
+FT	exon	31822..31959
+FT		/number=6
+FT	exon	35091..35224
+FT		/number=7
+FT	exon	45481..45560
+FT		/number=8
+FT	exon	50375..50448
+FT		/number=9
+FT	exon	58365..58391
+FT		/number=10
+\\
+DE	RHCE*cE_M34015
+FT	exon	31..178
+FT		/number=1
+FT	exon	179..365
+FT		/number=2
+FT	exon	366..516
+FT		/number=3
+FT	exon	517..664
+FT		/number=4
+FT	exon	665..831
+FT		/number=5
+FT	exon	832..969
+FT		/number=6
+FT	exon	970..1103
+FT		/number=7
+FT	exon	1104..1183
+FT		/number=8
+FT	exon	1184..1257
+FT		/number=9
+FT	exon	1258..1284
+FT		/number=10
+\\
+DE	RHCE*AM295498
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+\\
+DE	RHCE*AF056966
+FT	exon	124..255
+FT		/number=1
+\\
+DE	RHCE*AM072761
+FT	exon	48..127
+FT		/number=1
+\\
+DE	RHCE*BC075081
+FT	exon	22..169
+FT		/number=1
+FT	exon	170..356
+FT		/number=2
+FT	exon	357..507
+FT		/number=3
+FT	exon	508..655
+FT		/number=4
+FT	exon	656..822
+FT		/number=5
+FT	exon	823..960
+FT		/number=6
+FT	exon	961..1094
+FT		/number=7
+FT	exon	1095..1174
+FT		/number=8
+FT	exon	1175..1248
+FT		/number=9
+FT	exon	1249..1275
+FT		/number=10
+\\
+DE	RHCE*AM157176
+FT	exon	153..303
+FT		/number=1
+\\
+DE	RHCE*NM_020485
+FT	exon	87..234
+FT		/number=1
+FT	exon	235..421
+FT		/number=2
+FT	exon	422..572
+FT		/number=3
+FT	exon	573..720
+FT		/number=4
+FT	exon	721..887
+FT		/number=5
+FT	exon	888..1025
+FT		/number=6
+FT	exon	1026..1159
+FT		/number=7
+FT	exon	1160..1239
+FT		/number=8
+FT	exon	1240..1313
+FT		/number=9
+FT	exon	1314..1340
+FT		/number=10
+\\
+DE	RHCE*AM182449
+FT	exon	1..165
+FT		/number=1
+\\
+DE	RHCE*AM183927
+FT	exon	1..135
+FT		/number=1
+\\
+DE	RHCE*AJ548432
+FT	exon	126..276
+FT		/number=1
+\\
+DE	RHCE*AJ548430
+FT	exon	137..287
+FT		/number=1
+\\
+DE	RHCE*AJ548431
+FT	exon	126..276
+FT		/number=1
+\\
+DE	RHCE*DQ266353
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1153
+FT		/number=8
+FT	exon	1154..1227
+FT		/number=9
+FT	exon	1228..1251
+FT		/number=10
+\\
+DE	RHCE*C_U66340
+FT	exon	1337..1523
+FT		/number=1
+\\
+DE	RHCE*AM072960
+FT	exon	1..151
+FT		/number=1
+\\
+DE	CD55*AB240569
+FT	exon	34..133
+FT		/number=1
+FT	exon	134..319
+FT		/number=2
+FT	exon	320..511
+FT		/number=3
+FT	exon	512..611
+FT		/number=4
+FT	exon	612..697
+FT		/number=5
+FT	exon	698..886
+FT		/number=6
+FT	exon	887..1012
+FT		/number=7
+FT	exon	1445..1525
+FT		/number=8
+FT	exon	1526..1546
+FT		/number=9
+FT	exon	1547..1611
+FT		/number=10
+\\
+DE	CD55*U88576
+FT	exon	1..184
+FT		/number=1
+FT	exon	185..376
+FT		/number=2
+FT	exon	377..476
+FT		/number=3
+FT	exon	477..562
+FT		/number=4
+FT	exon	563..751
+FT		/number=5
+FT	exon	752..877
+FT		/number=6
+FT	exon	878..958
+FT		/number=7
+FT	exon	959..979
+FT		/number=8
+FT	exon	980..1044
+FT		/number=9
+\\
+DE	CD55*NM_000574
+FT	exon	247..346
+FT		/number=1
+FT	exon	347..532
+FT		/number=2
+FT	exon	533..724
+FT		/number=3
+FT	exon	725..824
+FT		/number=4
+FT	exon	825..910
+FT		/number=5
+FT	exon	911..1099
+FT		/number=6
+FT	exon	1100..1225
+FT		/number=7
+FT	exon	1226..1306
+FT		/number=8
+FT	exon	1307..1327
+FT		/number=9
+FT	exon	1328..1392
+FT		/number=10
+\\
+DE	CD55*AY055757
+FT	exon	1..39
+FT		/number=1
+FT	exon	40..228
+FT		/number=2
+FT	exon	229..354
+FT		/number=3
+FT	exon	787..867
+FT		/number=4
+FT	exon	868..888
+FT		/number=5
+FT	exon	889..953
+FT		/number=6
+\\
+DE	CD55*001.1.1.01
+FT	exon	294..393
+FT		/number=1
+FT	exon	910..1095
+FT		/number=2
+FT	exon	3087..3278
+FT		/number=3
+FT	exon	4150..4249
+FT		/number=4
+FT	exon	5280..5365
+FT		/number=5
+FT	exon	9636..9824
+FT		/number=6
+FT	exon	15221..15346
+FT		/number=7
+FT	exon	15857..15937
+FT		/number=8
+FT	exon	17925..17945
+FT		/number=9
+FT	exon	40061..40125
+FT		/number=10
+\\
+DE	CD55*AB240570
+FT	exon	34..133
+FT		/number=1
+FT	exon	134..319
+FT		/number=2
+FT	exon	320..511
+FT		/number=3
+FT	exon	512..611
+FT		/number=4
+FT	exon	612..697
+FT		/number=5
+FT	exon	698..886
+FT		/number=6
+FT	exon	887..1012
+FT		/number=7
+FT	exon	1523..1603
+FT		/number=8
+FT	exon	1604..1624
+FT		/number=9
+FT	exon	1625..1689
+FT		/number=10
+\\
+DE	CD55*S72858
+FT	exon	16..64
+FT		/number=1
+\\
+DE	CD55*AY055759
+FT	exon	1..93
+FT		/number=1
+FT	exon	94..193
+FT		/number=2
+FT	exon	194..279
+FT		/number=3
+FT	exon	280..468
+FT		/number=4
+FT	exon	469..594
+FT		/number=5
+FT	exon	595..675
+FT		/number=6
+\\
+DE	CD55*HG38.ref.01
+FT	exon	295..394
+FT		/number=1
+FT	exon	911..1096
+FT		/number=2
+FT	exon	3088..3279
+FT		/number=3
+FT	exon	4151..4250
+FT		/number=4
+FT	exon	5281..5366
+FT		/number=5
+FT	exon	9637..9825
+FT		/number=6
+FT	exon	15222..15347
+FT		/number=7
+FT	exon	15858..15938
+FT		/number=8
+FT	exon	17926..17946
+FT		/number=9
+FT	exon	38075..38139
+FT		/number=10
+\\
+DE	CD55*AF052110
+FT	exon	235..334
+FT		/number=1
+FT	exon	335..520
+FT		/number=2
+FT	exon	521..713
+FT		/number=3
+FT	exon	714..813
+FT		/number=4
+FT	exon	814..899
+FT		/number=5
+FT	exon	900..1088
+FT		/number=6
+FT	exon	1089..1214
+FT		/number=7
+FT	exon	1215..1295
+FT		/number=8
+FT	exon	1296..1316
+FT		/number=9
+\\
+DE	CD55*M15799
+FT	exon	1..85
+FT		/number=1
+FT	exon	86..271
+FT		/number=2
+FT	exon	272..463
+FT		/number=3
+FT	exon	464..563
+FT		/number=4
+FT	exon	564..649
+FT		/number=5
+FT	exon	650..838
+FT		/number=6
+FT	exon	839..964
+FT		/number=7
+FT	exon	965..1045
+FT		/number=8
+FT	exon	1046..1066
+FT		/number=9
+FT	exon	1067..1131
+FT		/number=10
+\\
+DE	CD55*AY851161
+FT	exon	295..394
+FT		/number=1
+FT	exon	911..1096
+FT		/number=2
+FT	exon	3090..3281
+FT		/number=3
+FT	exon	4153..4252
+FT		/number=4
+FT	exon	5293..5378
+FT		/number=5
+FT	exon	9650..9838
+FT		/number=6
+FT	exon	15237..15362
+FT		/number=7
+FT	exon	15873..15953
+FT		/number=8
+\\
+DE	CD55*AY055758
+FT	exon	1..93
+FT		/number=1
+FT	exon	94..193
+FT		/number=2
+FT	exon	194..279
+FT		/number=3
+FT	exon	280..468
+FT		/number=4
+FT	exon	469..594
+FT		/number=5
+FT	exon	1105..1185
+FT		/number=6
+FT	exon	1186..1206
+FT		/number=7
+FT	exon	1207..1271
+FT		/number=8
+\\
+DE	CD55*AL391597
+FT	exon	1..86
+FT		/number=1
+FT	exon	4357..4545
+FT		/number=2
+FT	exon	9942..10067
+FT		/number=3
+FT	exon	10578..10658
+FT		/number=4
+\\
+DE	GYPC*BC104247
+FT	exon	131..179
+FT		/number=1
+FT	exon	180..236
+FT		/number=2
+FT	exon	237..320
+FT		/number=3
+FT	exon	321..517
+FT		/number=4
+\\
+DE	GYPC*X14242
+FT	exon	330..378
+FT		/number=1
+\\
+DE	GYPC*M36284
+FT	exon	1..49
+FT		/number=1
+FT	exon	50..106
+FT		/number=2
+FT	exon	107..190
+FT		/number=3
+FT	exon	191..387
+FT		/number=4
+\\
+DE	GYPC*NM_016815
+FT	exon	157..205
+FT		/number=1
+FT	exon	206..289
+FT		/number=2
+FT	exon	290..486
+FT		/number=3
+\\
+DE	GYPC*001.1.1.01
+FT	exon	330..378
+FT		/number=1
+FT	exon	34321..34377
+FT		/number=2
+FT	exon	37930..38013
+FT		/number=3
+FT	exon	40012..40208
+FT		/number=4
+\\
+DE	GYPC*X12496
+FT	exon	121..169
+FT		/number=1
+FT	exon	170..226
+FT		/number=2
+FT	exon	227..310
+FT		/number=3
+FT	exon	311..507
+FT		/number=4
+\\
+DE	GYPC*AY838876
+FT	exon	330..378
+FT		/number=1
+FT	exon	34333..34389
+FT		/number=2
+FT	exon	37942..38025
+FT		/number=3
+FT	exon	40026..40222
+FT		/number=4
+\\
+DE	GYPC*HG38.ref.01
+FT	exon	330..378
+FT		/number=1
+FT	exon	34321..34377
+FT		/number=2
+FT	exon	37930..38013
+FT		/number=3
+FT	exon	40012..40208
+FT		/number=4
+\\
+DE	GYPC*M11802
+FT	exon	1..49
+FT		/number=1
+FT	exon	50..106
+FT		/number=2
+FT	exon	107..190
+FT		/number=3
+FT	exon	191..387
+FT		/number=4
+\\
+DE	GYPC*NM_002101
+FT	exon	157..205
+FT		/number=1
+FT	exon	206..262
+FT		/number=2
+FT	exon	263..346
+FT		/number=3
+FT	exon	347..543
+FT		/number=4
+\\
+DE	ICAM4*001.1.1.01
+FT	exon	59..452
+FT		/number=1
+FT	exon	582..884
+FT		/number=2
+FT	exon	1032..1150
+FT		/number=3
+\\
+DE	ICAM4*BC000046
+FT	exon	1..394
+FT		/number=1
+FT	exon	395..620
+FT		/number=2
+FT	exon	621..739
+FT		/number=3
+\\
+DE	ICAM4*BC029364
+FT	exon	47..440
+FT		/number=1
+FT	exon	441..743
+FT		/number=2
+FT	exon	744..862
+FT		/number=3
+\\
+DE	ICAM4*BT009816
+FT	exon	1..394
+FT		/number=1
+FT	exon	395..620
+FT		/number=2
+FT	exon	621..739
+FT		/number=3
+\\
+DE	ICAM4*HG38.ref.01
+FT	exon	59..452
+FT		/number=1
+FT	exon	582..884
+FT		/number=2
+FT	exon	1032..1150
+FT		/number=3
+\\
+DE	ICAM4*X93093
+FT	exon	59..452
+FT		/number=1
+FT	exon	583..885
+FT		/number=2
+FT	exon	1033..1151
+FT		/number=3
+\\
+DE	ICAM4*BX648637
+FT	exon	59..452
+FT		/number=1
+FT	exon	582..884
+FT		/number=2
+FT	exon	1032..1150
+FT		/number=3
+\\
+DE	ICAM4*L27670
+FT	exon	10..400
+FT		/number=1
+FT	exon	401..703
+FT		/number=2
+FT	exon	851..969
+FT		/number=3
+\\
+DE	C4A*AY224378
+FT	exon	1..123
+FT		/number=1
+\\
+DE	C4A*M14824
+FT	exon	1..66
+FT		/number=1
+FT	exon	227..383
+FT		/number=2
+FT	exon	478..594
+FT		/number=3
+FT	exon	699..870
+FT		/number=4
+\\
+DE	C4A*AH002623.1
+FT	exon	52..116
+FT		/number=1
+FT	exon	249..447
+FT		/number=2
+FT	exon	665..866
+FT		/number=3
+FT	exon	1076..1146
+FT		/number=4
+FT	exon	1225..1313
+FT		/number=5
+FT	exon	1534..1616
+FT		/number=6
+FT	exon	1787..1883
+FT		/number=7
+FT	exon	2022..2127
+FT		/number=8
+FT	exon	2225..2357
+FT		/number=9
+FT	exon	2358..2473
+FT		/number=10
+FT	exon	2573..2752
+FT		/number=11
+FT	exon	2898..3080
+FT		/number=12
+FT	exon	3213..3398
+FT		/number=13
+FT	exon	3553..3711
+FT		/number=14
+FT	exon	3964..4090
+FT		/number=15
+FT	exon	4259..4333
+FT		/number=16
+FT	exon	4594..4791
+FT		/number=17
+FT	exon	4882..4993
+FT		/number=18
+FT	exon	5084..5154
+FT		/number=19
+FT	exon	5413..5552
+FT		/number=20
+FT	exon	5666..5875
+FT		/number=21
+FT	exon	6121..6172
+FT		/number=22
+FT	exon	6274..6363
+FT		/number=23
+FT	exon	6499..6708
+FT		/number=24
+FT	exon	6888..6963
+FT		/number=25
+FT	exon	7124..7280
+FT		/number=26
+FT	exon	7376..7492
+FT		/number=27
+FT	exon	7598..7769
+FT		/number=28
+FT	exon	7995..8227
+FT		/number=29
+FT	exon	8310..8477
+FT		/number=30
+FT	exon	8873..8932
+FT		/number=31
+FT	exon	9982..10075
+FT		/number=32
+FT	exon	10173..10359
+FT		/number=33
+FT	exon	10474..10564
+FT		/number=34
+FT	exon	10655..10729
+FT		/number=35
+FT	exon	12224..12326
+FT		/number=36
+FT	exon	12492..12581
+FT		/number=37
+FT	exon	12667..12765
+FT		/number=38
+FT	exon	12950..13033
+FT		/number=39
+FT	exon	13297..13429
+FT		/number=40
+FT	exon	13573..13714
+FT		/number=41
+\\
+DE	C4A*S81585
+FT	exon	56..158
+FT		/number=1
+FT	exon	159..248
+FT		/number=2
+FT	exon	249..347
+FT		/number=3
+FT	exon	348..431
+FT		/number=4
+FT	exon	432..564
+FT		/number=5
+FT	exon	565..706
+FT		/number=6
+\\
+DE	C4A*AY379962
+FT	exon	19..204
+FT		/number=1
+\\
+DE	C4A*AH013630
+FT	exon	1..198
+FT		/number=1
+FT	exon	290..401
+FT		/number=2
+FT	exon	492..562
+FT		/number=3
+FT	exon	821..960
+FT		/number=4
+FT	exon	1074..1283
+FT		/number=5
+FT	exon	1527..1578
+FT		/number=6
+FT	exon	1680..1769
+FT		/number=7
+FT	exon	1905..2114
+FT		/number=8
+FT	exon	2294..2369
+FT		/number=9
+FT	exon	2530..2669
+FT		/number=10
+FT	exon	2765..2881
+FT		/number=11
+FT	exon	2987..3158
+FT		/number=12
+\\
+DE	C4A*001.1.1.01
+FT	exon	52..116
+FT		/number=1
+FT	exon	249..447
+FT		/number=2
+FT	exon	662..863
+FT		/number=3
+FT	exon	1073..1143
+FT		/number=4
+FT	exon	1222..1310
+FT		/number=5
+FT	exon	1529..1611
+FT		/number=6
+FT	exon	1782..1878
+FT		/number=7
+FT	exon	2017..2122
+FT		/number=8
+FT	exon	2220..2352
+FT		/number=9
+FT	exon	9136..9251
+FT		/number=10
+FT	exon	9351..9530
+FT		/number=11
+FT	exon	9676..9858
+FT		/number=12
+FT	exon	9991..10176
+FT		/number=13
+FT	exon	10330..10488
+FT		/number=14
+FT	exon	10740..10866
+FT		/number=15
+FT	exon	11034..11108
+FT		/number=16
+FT	exon	11369..11566
+FT		/number=17
+FT	exon	11658..11769
+FT		/number=18
+FT	exon	11860..11930
+FT		/number=19
+FT	exon	12189..12328
+FT		/number=20
+FT	exon	12442..12651
+FT		/number=21
+FT	exon	12896..12947
+FT		/number=22
+FT	exon	13049..13138
+FT		/number=23
+FT	exon	13274..13483
+FT		/number=24
+FT	exon	13663..13738
+FT		/number=25
+FT	exon	13899..14055
+FT		/number=26
+FT	exon	14151..14267
+FT		/number=27
+FT	exon	14373..14544
+FT		/number=28
+FT	exon	14773..15005
+FT		/number=29
+FT	exon	15088..15255
+FT		/number=30
+FT	exon	15649..15708
+FT		/number=31
+FT	exon	16758..16851
+FT		/number=32
+FT	exon	16949..17135
+FT		/number=33
+FT	exon	17250..17340
+FT		/number=34
+FT	exon	17431..17505
+FT		/number=35
+FT	exon	18997..19099
+FT		/number=36
+FT	exon	19265..19354
+FT		/number=37
+FT	exon	19440..19538
+FT		/number=38
+FT	exon	19721..19804
+FT		/number=39
+FT	exon	20067..20199
+FT		/number=40
+FT	exon	20343..20484
+FT		/number=41
+\\
+DE	C4A*CR753845
+FT	exon	52..116
+FT		/number=1
+FT	exon	249..447
+FT		/number=2
+FT	exon	662..863
+FT		/number=3
+FT	exon	1073..1143
+FT		/number=4
+FT	exon	1222..1310
+FT		/number=5
+FT	exon	1529..1611
+FT		/number=6
+FT	exon	1782..1878
+FT		/number=7
+FT	exon	2017..2122
+FT		/number=8
+FT	exon	2220..2352
+FT		/number=9
+FT	exon	9137..9252
+FT		/number=10
+FT	exon	9352..9531
+FT		/number=11
+FT	exon	9677..9859
+FT		/number=12
+FT	exon	9992..10177
+FT		/number=13
+FT	exon	10331..10489
+FT		/number=14
+FT	exon	10741..10867
+FT		/number=15
+FT	exon	11035..11109
+FT		/number=16
+FT	exon	11370..11567
+FT		/number=17
+FT	exon	11659..11770
+FT		/number=18
+FT	exon	11861..11931
+FT		/number=19
+FT	exon	12190..12329
+FT		/number=20
+FT	exon	12443..12652
+FT		/number=21
+FT	exon	12897..12948
+FT		/number=22
+FT	exon	13050..13139
+FT		/number=23
+FT	exon	13275..13484
+FT		/number=24
+FT	exon	13664..13739
+FT		/number=25
+FT	exon	13900..14056
+FT		/number=26
+FT	exon	14152..14268
+FT		/number=27
+FT	exon	14374..14545
+FT		/number=28
+FT	exon	14774..15006
+FT		/number=29
+FT	exon	15089..15256
+FT		/number=30
+FT	exon	15650..15709
+FT		/number=31
+FT	exon	16759..16852
+FT		/number=32
+FT	exon	16950..17136
+FT		/number=33
+FT	exon	17251..17341
+FT		/number=34
+FT	exon	17432..17506
+FT		/number=35
+FT	exon	18998..19100
+FT		/number=36
+FT	exon	19266..19355
+FT		/number=37
+FT	exon	19441..19539
+FT		/number=38
+FT	exon	19722..19805
+FT		/number=39
+FT	exon	20068..20200
+FT		/number=40
+FT	exon	20344..20485
+FT		/number=41
+\\
+DE	C4A*BC016933.1
+FT	exon	1..11
+FT		/number=1
+FT	exon	12..114
+FT		/number=2
+FT	exon	115..204
+FT		/number=3
+FT	exon	205..303
+FT		/number=4
+FT	exon	304..387
+FT		/number=5
+FT	exon	388..520
+FT		/number=6
+FT	exon	521..662
+FT		/number=7
+\\
+DE	C4A*AF019413
+FT	exon	52..116
+FT		/number=1
+FT	exon	249..447
+FT		/number=2
+FT	exon	662..863
+FT		/number=3
+FT	exon	1073..1143
+FT		/number=4
+FT	exon	1222..1310
+FT		/number=5
+FT	exon	1529..1611
+FT		/number=6
+FT	exon	1782..1878
+FT		/number=7
+FT	exon	2017..2122
+FT		/number=8
+FT	exon	2220..2352
+FT		/number=9
+FT	exon	9137..9252
+FT		/number=10
+FT	exon	9352..9531
+FT		/number=11
+FT	exon	9677..9859
+FT		/number=12
+FT	exon	9992..10177
+FT		/number=13
+FT	exon	10331..10489
+FT		/number=14
+FT	exon	10741..10867
+FT		/number=15
+FT	exon	11035..11109
+FT		/number=16
+FT	exon	11370..11567
+FT		/number=17
+FT	exon	11659..11770
+FT		/number=18
+FT	exon	11861..11931
+FT		/number=19
+FT	exon	12190..12329
+FT		/number=20
+FT	exon	12443..12652
+FT		/number=21
+FT	exon	12897..12948
+FT		/number=22
+FT	exon	13050..13139
+FT		/number=23
+FT	exon	13275..13484
+FT		/number=24
+FT	exon	13664..13739
+FT		/number=25
+FT	exon	13900..14056
+FT		/number=26
+FT	exon	14152..14268
+FT		/number=27
+FT	exon	14374..14545
+FT		/number=28
+FT	exon	14774..15006
+FT		/number=29
+FT	exon	15089..15256
+FT		/number=30
+FT	exon	15650..15709
+FT		/number=31
+FT	exon	16759..16852
+FT		/number=32
+FT	exon	16950..17136
+FT		/number=33
+FT	exon	17251..17341
+FT		/number=34
+FT	exon	17432..17506
+FT		/number=35
+FT	exon	18998..19100
+FT		/number=36
+FT	exon	19266..19355
+FT		/number=37
+FT	exon	19441..19539
+FT		/number=38
+FT	exon	19722..19805
+FT		/number=39
+FT	exon	20068..20200
+FT		/number=40
+FT	exon	20344..20485
+FT		/number=41
+\\
+DE	C4A*AH013614
+FT	exon	1..198
+FT		/number=1
+FT	exon	290..401
+FT		/number=2
+FT	exon	492..562
+FT		/number=3
+FT	exon	821..960
+FT		/number=4
+FT	exon	1074..1283
+FT		/number=5
+FT	exon	1528..1579
+FT		/number=6
+FT	exon	1681..1770
+FT		/number=7
+FT	exon	1906..2115
+FT		/number=8
+FT	exon	2295..2370
+FT		/number=9
+FT	exon	2531..2670
+FT		/number=10
+FT	exon	2766..2882
+FT		/number=11
+FT	exon	2988..3159
+FT		/number=12
+\\
+DE	C4A*M84773
+FT	exon	1..44
+FT		/number=1
+FT	exon	205..361
+FT		/number=2
+FT	exon	456..572
+FT		/number=3
+FT	exon	678..849
+FT		/number=4
+\\
+DE	C4A*AH013633
+FT	exon	1..198
+FT		/number=1
+FT	exon	290..401
+FT		/number=2
+FT	exon	492..562
+FT		/number=3
+FT	exon	821..960
+FT		/number=4
+FT	exon	1074..1283
+FT		/number=5
+FT	exon	1528..1579
+FT		/number=6
+FT	exon	1681..1770
+FT		/number=7
+FT	exon	1906..2115
+FT		/number=8
+FT	exon	2295..2370
+FT		/number=9
+FT	exon	2531..2670
+FT		/number=10
+FT	exon	2766..2882
+FT		/number=11
+FT	exon	2988..3159
+FT		/number=12
+\\
+DE	C4A*BC063289
+FT	exon	52..116
+FT		/number=1
+FT	exon	117..315
+FT		/number=2
+FT	exon	316..517
+FT		/number=3
+FT	exon	518..588
+FT		/number=4
+FT	exon	589..677
+FT		/number=5
+FT	exon	678..760
+FT		/number=6
+FT	exon	761..857
+FT		/number=7
+FT	exon	858..963
+FT		/number=8
+FT	exon	964..1096
+FT		/number=9
+FT	exon	1097..1212
+FT		/number=10
+FT	exon	1213..1392
+FT		/number=11
+FT	exon	1393..1575
+FT		/number=12
+FT	exon	1576..1761
+FT		/number=13
+FT	exon	1762..1920
+FT		/number=14
+FT	exon	1921..2047
+FT		/number=15
+FT	exon	2048..2122
+FT		/number=16
+FT	exon	2123..2320
+FT		/number=17
+FT	exon	2321..2432
+FT		/number=18
+FT	exon	2433..2503
+FT		/number=19
+FT	exon	2504..2643
+FT		/number=20
+FT	exon	2644..2853
+FT		/number=21
+FT	exon	2854..2905
+FT		/number=22
+FT	exon	2906..2995
+FT		/number=23
+FT	exon	2996..3205
+FT		/number=24
+FT	exon	3206..3281
+FT		/number=25
+FT	exon	3282..3438
+FT		/number=26
+FT	exon	3439..3555
+FT		/number=27
+FT	exon	3556..3727
+FT		/number=28
+FT	exon	3728..3960
+FT		/number=29
+FT	exon	3961..4128
+FT		/number=30
+FT	exon	4129..4188
+FT		/number=31
+FT	exon	4189..4282
+FT		/number=32
+FT	exon	4283..4469
+FT		/number=33
+FT	exon	4470..4560
+FT		/number=34
+FT	exon	4561..4635
+FT		/number=35
+FT	exon	4636..4738
+FT		/number=36
+FT	exon	4739..4828
+FT		/number=37
+FT	exon	4829..4927
+FT		/number=38
+FT	exon	4928..5011
+FT		/number=39
+FT	exon	5012..5144
+FT		/number=40
+FT	exon	5145..5286
+FT		/number=41
+\\
+DE	C4A*CR936924
+FT	exon	52..116
+FT		/number=1
+FT	exon	249..447
+FT		/number=2
+FT	exon	662..863
+FT		/number=3
+FT	exon	1073..1143
+FT		/number=4
+FT	exon	1222..1310
+FT		/number=5
+FT	exon	1529..1611
+FT		/number=6
+FT	exon	1782..1878
+FT		/number=7
+FT	exon	2017..2122
+FT		/number=8
+FT	exon	2220..2352
+FT		/number=9
+FT	exon	9136..9251
+FT		/number=10
+FT	exon	9351..9530
+FT		/number=11
+FT	exon	9676..9858
+FT		/number=12
+FT	exon	9991..10176
+FT		/number=13
+FT	exon	10330..10488
+FT		/number=14
+FT	exon	10740..10866
+FT		/number=15
+FT	exon	11034..11108
+FT		/number=16
+FT	exon	11369..11566
+FT		/number=17
+FT	exon	11658..11769
+FT		/number=18
+FT	exon	11860..11930
+FT		/number=19
+FT	exon	12189..12328
+FT		/number=20
+FT	exon	12442..12651
+FT		/number=21
+FT	exon	12896..12947
+FT		/number=22
+FT	exon	13049..13138
+FT		/number=23
+FT	exon	13274..13483
+FT		/number=24
+FT	exon	13663..13738
+FT		/number=25
+FT	exon	13899..14055
+FT		/number=26
+FT	exon	14151..14267
+FT		/number=27
+FT	exon	14373..14544
+FT		/number=28
+FT	exon	14773..15005
+FT		/number=29
+FT	exon	15088..15255
+FT		/number=30
+FT	exon	15649..15708
+FT		/number=31
+FT	exon	16758..16851
+FT		/number=32
+FT	exon	16949..17135
+FT		/number=33
+FT	exon	17250..17340
+FT		/number=34
+FT	exon	17431..17505
+FT		/number=35
+FT	exon	18997..19099
+FT		/number=36
+FT	exon	19265..19354
+FT		/number=37
+FT	exon	19440..19538
+FT		/number=38
+FT	exon	19721..19804
+FT		/number=39
+FT	exon	20067..20199
+FT		/number=40
+FT	exon	20343..20484
+FT		/number=41
+\\
+DE	C4A*AF092085
+FT	exon	1..20
+FT		/number=1
+FT	exon	122..211
+FT		/number=2
+FT	exon	347..556
+FT		/number=3
+FT	exon	736..811
+FT		/number=4
+FT	exon	972..1128
+FT		/number=5
+FT	exon	1224..1340
+FT		/number=6
+FT	exon	1446..1617
+FT		/number=7
+FT	exon	1845..2079
+FT		/number=8
+FT	exon	2162..2329
+FT		/number=9
+\\
+DE	C4A*AH013628
+FT	exon	1..198
+FT		/number=1
+FT	exon	290..401
+FT		/number=2
+FT	exon	492..562
+FT		/number=3
+FT	exon	821..960
+FT		/number=4
+FT	exon	1074..1283
+FT		/number=5
+FT	exon	1527..1578
+FT		/number=6
+FT	exon	1680..1769
+FT		/number=7
+FT	exon	1905..2114
+FT		/number=8
+FT	exon	2294..2369
+FT		/number=9
+FT	exon	2530..2669
+FT		/number=10
+FT	exon	2765..2881
+FT		/number=11
+FT	exon	2987..3158
+FT		/number=12
+\\
+DE	C4A*AH013612
+FT	exon	1..198
+FT		/number=1
+FT	exon	290..401
+FT		/number=2
+FT	exon	492..562
+FT		/number=3
+FT	exon	821..960
+FT		/number=4
+FT	exon	1074..1283
+FT		/number=5
+FT	exon	1528..1579
+FT		/number=6
+FT	exon	1681..1770
+FT		/number=7
+FT	exon	1906..2115
+FT		/number=8
+FT	exon	2295..2370
+FT		/number=9
+FT	exon	2531..2670
+FT		/number=10
+FT	exon	2766..2882
+FT		/number=11
+FT	exon	2988..3159
+FT		/number=12
+\\
+DE	C4A*AH013613
+FT	exon	1..198
+FT		/number=1
+FT	exon	290..401
+FT		/number=2
+FT	exon	492..562
+FT		/number=3
+FT	exon	821..960
+FT		/number=4
+FT	exon	1074..1283
+FT		/number=5
+FT	exon	1528..1579
+FT		/number=6
+FT	exon	1681..1770
+FT		/number=7
+FT	exon	1906..2115
+FT		/number=8
+FT	exon	2295..2370
+FT		/number=9
+FT	exon	2531..2670
+FT		/number=10
+FT	exon	2766..2882
+FT		/number=11
+FT	exon	2988..3159
+FT		/number=12
+\\
+DE	C4A*BC012372
+FT	exon	1..61
+FT		/number=1
+FT	exon	62..151
+FT		/number=2
+FT	exon	152..250
+FT		/number=3
+FT	exon	251..334
+FT		/number=4
+FT	exon	335..467
+FT		/number=5
+FT	exon	468..609
+FT		/number=6
+\\
+DE	C4A*AL844853
+FT	exon	52..116
+FT		/number=1
+FT	exon	249..447
+FT		/number=2
+FT	exon	662..863
+FT		/number=3
+FT	exon	1073..1143
+FT		/number=4
+FT	exon	1222..1310
+FT		/number=5
+FT	exon	1529..1611
+FT		/number=6
+FT	exon	1782..1878
+FT		/number=7
+FT	exon	2017..2122
+FT		/number=8
+FT	exon	2220..2352
+FT		/number=9
+FT	exon	9137..9252
+FT		/number=10
+FT	exon	9352..9531
+FT		/number=11
+FT	exon	9677..9859
+FT		/number=12
+FT	exon	9992..10177
+FT		/number=13
+FT	exon	10331..10489
+FT		/number=14
+FT	exon	10741..10867
+FT		/number=15
+FT	exon	11035..11109
+FT		/number=16
+FT	exon	11370..11567
+FT		/number=17
+FT	exon	11659..11770
+FT		/number=18
+FT	exon	11861..11931
+FT		/number=19
+FT	exon	12190..12329
+FT		/number=20
+FT	exon	12443..12652
+FT		/number=21
+FT	exon	12897..12948
+FT		/number=22
+FT	exon	13050..13139
+FT		/number=23
+FT	exon	13275..13484
+FT		/number=24
+FT	exon	13664..13739
+FT		/number=25
+FT	exon	13900..14056
+FT		/number=26
+FT	exon	14152..14268
+FT		/number=27
+FT	exon	14374..14545
+FT		/number=28
+FT	exon	14774..15006
+FT		/number=29
+FT	exon	15089..15256
+FT		/number=30
+FT	exon	15650..15709
+FT		/number=31
+FT	exon	16759..16852
+FT		/number=32
+FT	exon	16950..17136
+FT		/number=33
+FT	exon	17251..17284
+FT		/number=34
+\\
+DE	C4A*AH013616
+FT	exon	1..198
+FT		/number=1
+FT	exon	290..401
+FT		/number=2
+FT	exon	492..562
+FT		/number=3
+FT	exon	821..960
+FT		/number=4
+FT	exon	1074..1283
+FT		/number=5
+FT	exon	1528..1579
+FT		/number=6
+FT	exon	1681..1770
+FT		/number=7
+FT	exon	1906..2115
+FT		/number=8
+FT	exon	2295..2370
+FT		/number=9
+FT	exon	2531..2670
+FT		/number=10
+FT	exon	2766..2882
+FT		/number=11
+FT	exon	2988..3159
+FT		/number=12
+\\
+DE	C4A*AH013617
+FT	exon	1..198
+FT		/number=1
+FT	exon	290..401
+FT		/number=2
+FT	exon	492..562
+FT		/number=3
+FT	exon	821..960
+FT		/number=4
+FT	exon	1074..1283
+FT		/number=5
+FT	exon	1528..1579
+FT		/number=6
+FT	exon	1681..1770
+FT		/number=7
+FT	exon	1906..2115
+FT		/number=8
+FT	exon	2295..2370
+FT		/number=9
+FT	exon	2531..2670
+FT		/number=10
+FT	exon	2766..2882
+FT		/number=11
+FT	exon	2988..3159
+FT		/number=12
+\\
+DE	C4A*AH013621
+FT	exon	1..198
+FT		/number=1
+FT	exon	290..401
+FT		/number=2
+FT	exon	492..562
+FT		/number=3
+FT	exon	821..960
+FT		/number=4
+FT	exon	1074..1283
+FT		/number=5
+FT	exon	1528..1579
+FT		/number=6
+FT	exon	1681..1770
+FT		/number=7
+FT	exon	1906..2115
+FT		/number=8
+FT	exon	2295..2370
+FT		/number=9
+FT	exon	2531..2670
+FT		/number=10
+FT	exon	2766..2882
+FT		/number=11
+FT	exon	2988..3159
+FT		/number=12
+\\
+DE	C4A*AH013615
+FT	exon	1..198
+FT		/number=1
+FT	exon	290..401
+FT		/number=2
+FT	exon	492..562
+FT		/number=3
+FT	exon	821..960
+FT		/number=4
+FT	exon	1074..1283
+FT		/number=5
+FT	exon	1528..1579
+FT		/number=6
+FT	exon	1681..1770
+FT		/number=7
+FT	exon	1906..2115
+FT		/number=8
+FT	exon	2295..2370
+FT		/number=9
+FT	exon	2531..2670
+FT		/number=10
+FT	exon	2766..2882
+FT		/number=11
+FT	exon	2988..3159
+FT		/number=12
+\\
+DE	C4A*AY379928
+FT	exon	1..198
+FT		/number=1
+FT	exon	290..401
+FT		/number=2
+FT	exon	492..562
+FT		/number=3
+FT	exon	821..960
+FT		/number=4
+FT	exon	1074..1283
+FT		/number=5
+FT	exon	1528..1579
+FT		/number=6
+FT	exon	1681..1770
+FT		/number=7
+FT	exon	1906..2115
+FT		/number=8
+FT	exon	2295..2370
+FT		/number=9
+FT	exon	2531..2687
+FT		/number=10
+FT	exon	2783..2899
+FT		/number=11
+FT	exon	3005..3176
+FT		/number=12
+\\
+DE	C4A*AK054612
+FT	exon	1078..1180
+FT		/number=1
+FT	exon	1346..1435
+FT		/number=2
+FT	exon	1521..1619
+FT		/number=3
+\\
+DE	C4A*M87291
+FT	exon	1..44
+FT		/number=1
+FT	exon	205..361
+FT		/number=2
+FT	exon	457..573
+FT		/number=3
+FT	exon	679..850
+FT		/number=4
+\\
+DE	C4A*K02403
+FT	exon	1..199
+FT		/number=1
+FT	exon	200..401
+FT		/number=2
+FT	exon	402..472
+FT		/number=3
+FT	exon	473..561
+FT		/number=4
+FT	exon	562..644
+FT		/number=5
+FT	exon	645..741
+FT		/number=6
+FT	exon	742..847
+FT		/number=7
+FT	exon	848..980
+FT		/number=8
+FT	exon	981..1096
+FT		/number=9
+FT	exon	1097..1276
+FT		/number=10
+FT	exon	1277..1459
+FT		/number=11
+FT	exon	1460..1645
+FT		/number=12
+FT	exon	1646..1804
+FT		/number=13
+FT	exon	1805..1931
+FT		/number=14
+FT	exon	1932..2006
+FT		/number=15
+FT	exon	2007..2204
+FT		/number=16
+FT	exon	2205..2316
+FT		/number=17
+FT	exon	2317..2387
+FT		/number=18
+FT	exon	2388..2527
+FT		/number=19
+FT	exon	2528..2737
+FT		/number=20
+FT	exon	2738..2789
+FT		/number=21
+FT	exon	2790..2879
+FT		/number=22
+FT	exon	2880..3089
+FT		/number=23
+FT	exon	3090..3165
+FT		/number=24
+FT	exon	3166..3322
+FT		/number=25
+FT	exon	3323..3439
+FT		/number=26
+FT	exon	3440..3611
+FT		/number=27
+FT	exon	3612..3844
+FT		/number=28
+FT	exon	3845..4012
+FT		/number=29
+FT	exon	4013..4072
+FT		/number=30
+FT	exon	4073..4166
+FT		/number=31
+FT	exon	4167..4344
+FT		/number=32
+FT	exon	4345..4435
+FT		/number=33
+FT	exon	4436..4510
+FT		/number=34
+FT	exon	4511..4613
+FT		/number=35
+FT	exon	4614..4703
+FT		/number=36
+FT	exon	4704..4802
+FT		/number=37
+FT	exon	4803..4886
+FT		/number=38
+FT	exon	4887..5019
+FT		/number=39
+FT	exon	5020..5161
+FT		/number=40
+\\
+DE	C4A*AY343497
+FT	exon	1..70
+FT		/number=1
+FT	exon	231..387
+FT		/number=2
+FT	exon	483..599
+FT		/number=3
+FT	exon	705..876
+FT		/number=4
+\\
+DE	C4A*AY379933
+FT	exon	1..198
+FT		/number=1
+FT	exon	290..401
+FT		/number=2
+FT	exon	492..562
+FT		/number=3
+FT	exon	821..960
+FT		/number=4
+FT	exon	1074..1283
+FT		/number=5
+FT	exon	1528..1579
+FT		/number=6
+FT	exon	1681..1770
+FT		/number=7
+FT	exon	1906..2115
+FT		/number=8
+FT	exon	2295..2370
+FT		/number=9
+FT	exon	2531..2687
+FT		/number=10
+FT	exon	2783..2899
+FT		/number=11
+FT	exon	3005..3175
+FT		/number=12
+\\
+DE	C4A*AY379932
+FT	exon	1..198
+FT		/number=1
+FT	exon	290..401
+FT		/number=2
+FT	exon	492..562
+FT		/number=3
+FT	exon	821..960
+FT		/number=4
+FT	exon	1074..1283
+FT		/number=5
+FT	exon	1528..1579
+FT		/number=6
+FT	exon	1681..1770
+FT		/number=7
+FT	exon	1906..2115
+FT		/number=8
+FT	exon	2295..2370
+FT		/number=9
+FT	exon	2531..2687
+FT		/number=10
+FT	exon	2783..2899
+FT		/number=11
+FT	exon	3005..3175
+FT		/number=12
+\\
+DE	C4A*AY379931
+FT	exon	1..198
+FT		/number=1
+FT	exon	290..401
+FT		/number=2
+FT	exon	492..562
+FT		/number=3
+FT	exon	821..960
+FT		/number=4
+FT	exon	1074..1283
+FT		/number=5
+FT	exon	1528..1579
+FT		/number=6
+FT	exon	1681..1770
+FT		/number=7
+FT	exon	1906..2115
+FT		/number=8
+FT	exon	2295..2370
+FT		/number=9
+FT	exon	2531..2687
+FT		/number=10
+FT	exon	2783..2899
+FT		/number=11
+FT	exon	3005..3175
+FT		/number=12
+\\
+DE	C4A*AY379930
+FT	exon	1..198
+FT		/number=1
+FT	exon	290..401
+FT		/number=2
+FT	exon	492..562
+FT		/number=3
+FT	exon	821..960
+FT		/number=4
+FT	exon	1074..1283
+FT		/number=5
+FT	exon	1528..1579
+FT		/number=6
+FT	exon	1681..1770
+FT		/number=7
+FT	exon	1906..2115
+FT		/number=8
+FT	exon	2295..2370
+FT		/number=9
+FT	exon	2531..2687
+FT		/number=10
+FT	exon	2783..2899
+FT		/number=11
+FT	exon	3005..3175
+FT		/number=12
+\\
+DE	C4A*S38953.1
+FT	exon	52..116
+FT		/number=1
+FT	exon	249..447
+FT		/number=2
+\\
+DE	GYPA*M57232
+FT	exon	116..152
+FT		/number=1
+\\
+DE	GYPA*AY950614
+FT	exon	1..37
+FT		/number=1
+FT	exon	38..136
+FT		/number=2
+FT	exon	137..232
+FT		/number=3
+FT	exon	233..271
+FT		/number=4
+FT	exon	272..357
+FT		/number=5
+FT	exon	358..436
+FT		/number=6
+FT	exon	437..453
+FT		/number=7
+\\
+DE	GYPA*M12857
+FT	exon	11..47
+FT		/number=1
+FT	exon	48..146
+FT		/number=2
+FT	exon	147..242
+FT		/number=3
+FT	exon	243..281
+FT		/number=4
+FT	exon	282..367
+FT		/number=5
+FT	exon	368..446
+FT		/number=6
+FT	exon	447..463
+FT		/number=7
+\\
+DE	GYPA*AY950613
+FT	exon	1..37
+FT		/number=1
+FT	exon	38..136
+FT		/number=2
+FT	exon	137..232
+FT		/number=3
+FT	exon	233..271
+FT		/number=4
+FT	exon	272..357
+FT		/number=5
+FT	exon	358..436
+FT		/number=6
+FT	exon	437..453
+FT		/number=7
+\\
+DE	GYPA*001.01.01.01
+FT	exon	117..153
+FT		/number=1
+FT	exon	20164..20262
+FT		/number=2
+FT	exon	20971..21066
+FT		/number=3
+FT	exon	22000..22038
+FT		/number=4
+FT	exon	23813..23898
+FT		/number=5
+FT	exon	25985..26063
+FT		/number=6
+FT	exon	29342..29358
+FT		/number=7
+\\
+DE	GYPA*BC121078
+FT	exon	35..71
+FT		/number=1
+FT	exon	72..170
+FT		/number=2
+FT	exon	171..209
+FT		/number=3
+FT	exon	210..304
+FT		/number=4
+\\
+DE	GYPA*BX649043
+FT	exon	472..488
+FT		/number=1
+\\
+DE	GYPA*BC013328
+FT	exon	39..75
+FT		/number=1
+FT	exon	76..174
+FT		/number=2
+FT	exon	175..270
+FT		/number=3
+FT	exon	271..309
+FT		/number=4
+FT	exon	310..395
+FT		/number=5
+FT	exon	396..474
+FT		/number=6
+FT	exon	475..491
+FT		/number=7
+\\
+DE	GYPA*X51798
+FT	exon	25..61
+FT		/number=1
+FT	exon	62..160
+FT		/number=2
+FT	exon	161..256
+FT		/number=3
+FT	exon	257..295
+FT		/number=4
+FT	exon	296..381
+FT		/number=5
+FT	exon	382..460
+FT		/number=6
+FT	exon	461..477
+FT		/number=7
+\\
+DE	GYPA*BC005319
+FT	exon	58..94
+FT		/number=1
+FT	exon	95..193
+FT		/number=2
+FT	exon	194..289
+FT		/number=3
+FT	exon	290..328
+FT		/number=4
+FT	exon	329..414
+FT		/number=5
+FT	exon	415..493
+FT		/number=6
+FT	exon	494..510
+FT		/number=7
+\\
+DE	GYPA*L31860
+FT	exon	56..92
+FT		/number=1
+FT	exon	93..191
+FT		/number=2
+FT	exon	192..287
+FT		/number=3
+FT	exon	288..326
+FT		/number=4
+FT	exon	327..412
+FT		/number=5
+FT	exon	413..491
+FT		/number=6
+FT	exon	492..508
+FT		/number=7
+\\
+DE	GYPA*X08054
+FT	exon	57..93
+FT		/number=1
+FT	exon	94..192
+FT		/number=2
+FT	exon	193..288
+FT		/number=3
+FT	exon	289..327
+FT		/number=4
+FT	exon	328..413
+FT		/number=5
+FT	exon	414..492
+FT		/number=6
+FT	exon	493..509
+FT		/number=7
+\\
+DE	GYPA*U00177
+FT	exon	1..37
+FT		/number=1
+FT	exon	38..136
+FT		/number=2
+FT	exon	137..232
+FT		/number=3
+FT	exon	233..271
+FT		/number=4
+FT	exon	272..357
+FT		/number=5
+FT	exon	358..436
+FT		/number=6
+FT	exon	437..453
+FT		/number=7
+\\
+DE	GYPA*M36281
+FT	exon	11..47
+FT		/number=1
+FT	exon	48..146
+FT		/number=2
+FT	exon	147..242
+FT		/number=3
+FT	exon	243..281
+FT		/number=4
+FT	exon	282..367
+FT		/number=5
+FT	exon	368..445
+FT		/number=6
+\\
+DE	GYPA*refSeq.01
+FT	exon	117..153
+FT		/number=1
+FT	exon	20164..20262
+FT		/number=2
+FT	exon	20971..21066
+FT		/number=3
+FT	exon	22000..22038
+FT		/number=4
+FT	exon	23813..23898
+FT		/number=5
+FT	exon	25985..26063
+FT		/number=6
+FT	exon	29342..29358
+FT		/number=7
+\\
+DE	GYPA*L07253
+FT	exon	1..37
+FT		/number=1
+FT	exon	38..136
+FT		/number=2
+FT	exon	137..222
+FT		/number=3
+FT	exon	223..301
+FT		/number=4
+FT	exon	302..315
+FT		/number=5
+\\
+DE	ERMAP*AJ505028
+FT	exon	20..104
+FT		/number=1
+FT	exon	339..684
+FT		/number=2
+\\
+DE	ERMAP*AF311285
+FT	exon	1..85
+FT		/number=1
+FT	exon	86..433
+FT		/number=2
+FT	exon	434..550
+FT		/number=3
+FT	exon	551..583
+FT		/number=4
+FT	exon	584..616
+FT		/number=5
+FT	exon	617..637
+FT		/number=6
+FT	exon	638..658
+FT		/number=7
+FT	exon	659..685
+FT		/number=8
+FT	exon	686..712
+FT		/number=9
+FT	exon	713..1428
+FT		/number=10
+\\
+DE	ERMAP*AJ505044
+FT	exon	20..104
+FT		/number=1
+FT	exon	339..686
+FT		/number=2
+\\
+DE	ERMAP*AJ505036
+FT	exon	20..104
+FT		/number=1
+FT	exon	339..686
+FT		/number=2
+\\
+DE	ERMAP*AK056138
+FT	exon	1..85
+FT		/number=1
+FT	exon	86..433
+FT		/number=2
+FT	exon	434..550
+FT		/number=3
+FT	exon	551..583
+FT		/number=4
+FT	exon	584..616
+FT		/number=5
+FT	exon	617..637
+FT		/number=6
+FT	exon	638..658
+FT		/number=7
+FT	exon	659..685
+FT		/number=8
+FT	exon	686..712
+FT		/number=9
+FT	exon	713..1428
+FT		/number=10
+\\
+DE	ERMAP*BX537371
+FT	exon	535..619
+FT		/number=1
+FT	exon	854..1201
+FT		/number=2
+FT	exon	1202..1318
+FT		/number=3
+FT	exon	1319..1351
+FT		/number=4
+FT	exon	1352..1384
+FT		/number=5
+FT	exon	1385..1405
+FT		/number=6
+FT	exon	1406..1426
+FT		/number=7
+FT	exon	1427..1453
+FT		/number=8
+FT	exon	1454..1480
+FT		/number=9
+FT	exon	1481..2196
+FT		/number=10
+\\
+DE	ERMAP*AY049028
+FT	exon	1..85
+FT		/number=1
+FT	exon	86..433
+FT		/number=2
+FT	exon	434..550
+FT		/number=3
+FT	exon	551..583
+FT		/number=4
+FT	exon	584..616
+FT		/number=5
+FT	exon	617..637
+FT		/number=6
+FT	exon	638..658
+FT		/number=7
+FT	exon	659..685
+FT		/number=8
+FT	exon	686..712
+FT		/number=9
+FT	exon	713..1428
+FT		/number=10
+\\
+DE	ERMAP*HG38.ref.01
+FT	exon	13345..13429
+FT		/number=1
+FT	exon	13664..14011
+FT		/number=2
+FT	exon	17934..18050
+FT		/number=3
+FT	exon	18628..18660
+FT		/number=4
+FT	exon	20054..20086
+FT		/number=5
+FT	exon	21797..21817
+FT		/number=6
+FT	exon	22929..22949
+FT		/number=7
+FT	exon	23048..23074
+FT		/number=8
+FT	exon	23166..23192
+FT		/number=9
+FT	exon	25413..26128
+FT		/number=10
+\\
+DE	ERMAP*DQ090843
+FT	exon	1001..1085
+FT		/number=1
+FT	exon	1320..1667
+FT		/number=2
+FT	exon	5590..5706
+FT		/number=3
+FT	exon	6284..6316
+FT		/number=4
+FT	exon	7710..7742
+FT		/number=5
+FT	exon	9453..9473
+FT		/number=6
+FT	exon	10585..10605
+FT		/number=7
+FT	exon	10704..10730
+FT		/number=8
+FT	exon	10822..10848
+FT		/number=9
+FT	exon	13069..13784
+FT		/number=10
+\\
+DE	ERMAP*AY644424
+FT	exon	1..348
+FT		/number=1
+\\
+DE	ERMAP*AK125447
+FT	exon	1..117
+FT		/number=1
+FT	exon	118..146
+FT		/number=2
+FT	exon	147..179
+FT		/number=3
+FT	exon	180..200
+FT		/number=4
+FT	exon	201..221
+FT		/number=5
+FT	exon	222..248
+FT		/number=6
+FT	exon	249..275
+FT		/number=7
+FT	exon	276..991
+FT		/number=8
+\\
+DE	SLC4A1*BC096106
+FT	exon	1..15
+FT		/number=1
+FT	exon	16..106
+FT		/number=2
+FT	exon	107..168
+FT		/number=3
+FT	exon	169..349
+FT		/number=4
+FT	exon	350..485
+FT		/number=5
+FT	exon	486..609
+FT		/number=6
+FT	exon	610..694
+FT		/number=7
+FT	exon	695..876
+FT		/number=8
+FT	exon	877..1087
+FT		/number=9
+FT	exon	1088..1282
+FT		/number=10
+FT	exon	1283..1431
+FT		/number=11
+FT	exon	1432..1626
+FT		/number=12
+FT	exon	1627..1800
+FT		/number=13
+FT	exon	1801..1890
+FT		/number=14
+FT	exon	1891..2057
+FT		/number=15
+FT	exon	2058..2311
+FT		/number=16
+FT	exon	2312..2481
+FT		/number=17
+FT	exon	2482..2655
+FT		/number=18
+FT	exon	2656..2736
+FT		/number=19
+\\
+DE	SLC4A1*CR599802
+FT	exon	1..15
+FT		/number=1
+FT	exon	16..106
+FT		/number=2
+FT	exon	107..168
+FT		/number=3
+FT	exon	169..349
+FT		/number=4
+FT	exon	350..485
+FT		/number=5
+FT	exon	486..609
+FT		/number=6
+FT	exon	610..694
+FT		/number=7
+FT	exon	695..876
+FT		/number=8
+FT	exon	877..1087
+FT		/number=9
+FT	exon	1088..1282
+FT		/number=10
+FT	exon	1283..1431
+FT		/number=11
+FT	exon	1432..1626
+FT		/number=12
+\\
+DE	SLC4A1*M27819
+FT	exon	1..15
+FT		/number=1
+FT	exon	16..106
+FT		/number=2
+FT	exon	107..168
+FT		/number=3
+FT	exon	169..349
+FT		/number=4
+FT	exon	350..485
+FT		/number=5
+FT	exon	486..609
+FT		/number=6
+FT	exon	610..694
+FT		/number=7
+FT	exon	695..876
+FT		/number=8
+FT	exon	877..1087
+FT		/number=9
+FT	exon	1088..1282
+FT		/number=10
+FT	exon	1283..1431
+FT		/number=11
+FT	exon	1432..1626
+FT		/number=12
+FT	exon	1627..1800
+FT		/number=13
+FT	exon	1801..1890
+FT		/number=14
+FT	exon	1891..2057
+FT		/number=15
+FT	exon	2058..2311
+FT		/number=16
+FT	exon	2312..2481
+FT		/number=17
+FT	exon	2482..2655
+FT		/number=18
+FT	exon	2656..2736
+FT		/number=19
+\\
+DE	SLC4A1*DQ419529
+FT	exon	1..15
+FT		/number=1
+FT	exon	16..106
+FT		/number=2
+FT	exon	107..168
+FT		/number=3
+FT	exon	169..349
+FT		/number=4
+FT	exon	350..485
+FT		/number=5
+FT	exon	486..609
+FT		/number=6
+FT	exon	610..694
+FT		/number=7
+FT	exon	695..876
+FT		/number=8
+FT	exon	877..1087
+FT		/number=9
+FT	exon	1088..1282
+FT		/number=10
+FT	exon	1283..1431
+FT		/number=11
+FT	exon	1432..1626
+FT		/number=12
+FT	exon	1627..1800
+FT		/number=13
+FT	exon	1801..1890
+FT		/number=14
+FT	exon	1891..2057
+FT		/number=15
+FT	exon	2058..2311
+FT		/number=16
+FT	exon	2312..2481
+FT		/number=17
+FT	exon	2482..2655
+FT		/number=18
+FT	exon	2656..2736
+FT		/number=19
+\\
+DE	SLC4A1*AF113686
+FT	exon	1..15
+FT		/number=1
+FT	exon	16..106
+FT		/number=2
+FT	exon	107..168
+FT		/number=3
+FT	exon	169..349
+FT		/number=4
+FT	exon	350..485
+FT		/number=5
+\\
+DE	SLC4A1*DQ072115
+FT	exon	1..15
+FT		/number=1
+FT	exon	141..231
+FT		/number=2
+FT	exon	1232..1293
+FT		/number=3
+FT	exon	2053..2233
+FT		/number=4
+FT	exon	2329..2464
+FT		/number=5
+FT	exon	2936..3059
+FT		/number=6
+FT	exon	3288..3372
+FT		/number=7
+FT	exon	3525..3706
+FT		/number=8
+FT	exon	4246..4456
+FT		/number=9
+FT	exon	4689..4883
+FT		/number=10
+FT	exon	5062..5210
+FT		/number=11
+FT	exon	5325..5519
+FT		/number=12
+FT	exon	7023..7196
+FT		/number=13
+FT	exon	7573..7662
+FT		/number=14
+FT	exon	8207..8373
+FT		/number=15
+FT	exon	9498..9751
+FT		/number=16
+FT	exon	11281..11450
+FT		/number=17
+FT	exon	11537..11710
+FT		/number=18
+FT	exon	12331..12411
+FT		/number=19
+\\
+DE	SLC4A1*BC101570
+FT	exon	1..15
+FT		/number=1
+FT	exon	16..106
+FT		/number=2
+FT	exon	107..168
+FT		/number=3
+FT	exon	169..349
+FT		/number=4
+FT	exon	350..485
+FT		/number=5
+FT	exon	486..609
+FT		/number=6
+FT	exon	610..694
+FT		/number=7
+FT	exon	695..876
+FT		/number=8
+FT	exon	877..1087
+FT		/number=9
+FT	exon	1088..1282
+FT		/number=10
+FT	exon	1283..1431
+FT		/number=11
+FT	exon	1432..1626
+FT		/number=12
+FT	exon	1627..1800
+FT		/number=13
+FT	exon	1801..1890
+FT		/number=14
+FT	exon	1891..2057
+FT		/number=15
+FT	exon	2058..2311
+FT		/number=16
+FT	exon	2312..2481
+FT		/number=17
+FT	exon	2482..2655
+FT		/number=18
+FT	exon	2656..2736
+FT		/number=19
+\\
+DE	SLC4A1*X77738
+FT	exon	1..15
+FT		/number=1
+FT	exon	141..231
+FT		/number=2
+FT	exon	1230..1291
+FT		/number=3
+FT	exon	2049..2229
+FT		/number=4
+FT	exon	2325..2460
+FT		/number=5
+FT	exon	2933..3056
+FT		/number=6
+FT	exon	3284..3368
+FT		/number=7
+FT	exon	3521..3702
+FT		/number=8
+FT	exon	4242..4452
+FT		/number=9
+FT	exon	4685..4879
+FT		/number=10
+FT	exon	5058..5206
+FT		/number=11
+FT	exon	5321..5515
+FT		/number=12
+FT	exon	7019..7192
+FT		/number=13
+FT	exon	7570..7659
+FT		/number=14
+FT	exon	8203..8369
+FT		/number=15
+FT	exon	9496..9749
+FT		/number=16
+FT	exon	11277..11446
+FT		/number=17
+FT	exon	11533..11706
+FT		/number=18
+FT	exon	12327..12407
+FT		/number=19
+\\
+DE	SLC4A1*BC099628
+FT	exon	1..15
+FT		/number=1
+FT	exon	16..106
+FT		/number=2
+FT	exon	107..168
+FT		/number=3
+FT	exon	169..349
+FT		/number=4
+FT	exon	350..485
+FT		/number=5
+FT	exon	486..609
+FT		/number=6
+FT	exon	610..694
+FT		/number=7
+FT	exon	695..876
+FT		/number=8
+FT	exon	877..1087
+FT		/number=9
+FT	exon	1088..1282
+FT		/number=10
+FT	exon	1283..1431
+FT		/number=11
+FT	exon	1432..1626
+FT		/number=12
+FT	exon	1627..1800
+FT		/number=13
+FT	exon	1801..1890
+FT		/number=14
+FT	exon	1891..2057
+FT		/number=15
+FT	exon	2058..2311
+FT		/number=16
+FT	exon	2312..2481
+FT		/number=17
+FT	exon	2482..2655
+FT		/number=18
+FT	exon	2656..2736
+FT		/number=19
+\\
+DE	SLC4A1*L35930
+FT	exon	1..15
+FT		/number=1
+FT	exon	141..231
+FT		/number=2
+FT	exon	1232..1293
+FT		/number=3
+FT	exon	2061..2241
+FT		/number=4
+FT	exon	2338..2473
+FT		/number=5
+FT	exon	2945..3068
+FT		/number=6
+FT	exon	3298..3382
+FT		/number=7
+FT	exon	3535..3716
+FT		/number=8
+FT	exon	4255..4465
+FT		/number=9
+FT	exon	4693..4887
+FT		/number=10
+FT	exon	5068..5216
+FT		/number=11
+FT	exon	5331..5525
+FT		/number=12
+FT	exon	7027..7200
+FT		/number=13
+FT	exon	7581..7670
+FT		/number=14
+FT	exon	8215..8381
+FT		/number=15
+FT	exon	9509..9762
+FT		/number=16
+FT	exon	11282..11451
+FT		/number=17
+FT	exon	11538..11711
+FT		/number=18
+FT	exon	12332..12412
+FT		/number=19
+\\
+DE	SLC4A1*refSeq.01
+FT	exon	5269..5283
+FT		/number=1
+FT	exon	5409..5499
+FT		/number=2
+FT	exon	6499..6560
+FT		/number=3
+FT	exon	7320..7500
+FT		/number=4
+FT	exon	7596..7731
+FT		/number=5
+FT	exon	8203..8326
+FT		/number=6
+FT	exon	8554..8638
+FT		/number=7
+FT	exon	8791..8972
+FT		/number=8
+FT	exon	9512..9722
+FT		/number=9
+FT	exon	9955..10149
+FT		/number=10
+FT	exon	10328..10476
+FT		/number=11
+FT	exon	10591..10785
+FT		/number=12
+FT	exon	12289..12462
+FT		/number=13
+FT	exon	12839..12928
+FT		/number=14
+FT	exon	13473..13639
+FT		/number=15
+FT	exon	14764..15017
+FT		/number=16
+FT	exon	16547..16716
+FT		/number=17
+FT	exon	16803..16976
+FT		/number=18
+FT	exon	17597..17677
+FT		/number=19
+\\
+DE	SLC4A1*001.1.1.01
+FT	exon	1001..1015
+FT		/number=1
+FT	exon	1141..1231
+FT		/number=2
+FT	exon	2231..2292
+FT		/number=3
+FT	exon	3052..3232
+FT		/number=4
+FT	exon	3328..3463
+FT		/number=5
+FT	exon	3935..4058
+FT		/number=6
+FT	exon	4286..4370
+FT		/number=7
+FT	exon	4523..4704
+FT		/number=8
+FT	exon	5244..5454
+FT		/number=9
+FT	exon	5687..5881
+FT		/number=10
+FT	exon	6060..6208
+FT		/number=11
+FT	exon	6323..6517
+FT		/number=12
+FT	exon	8021..8194
+FT		/number=13
+FT	exon	8571..8660
+FT		/number=14
+FT	exon	9205..9371
+FT		/number=15
+FT	exon	10496..10749
+FT		/number=16
+FT	exon	12279..12448
+FT		/number=17
+FT	exon	12535..12708
+FT		/number=18
+FT	exon	13329..13409
+FT		/number=19
+\\
+DE	SLC4A1*X12609
+FT	exon	1..15
+FT		/number=1
+FT	exon	16..106
+FT		/number=2
+FT	exon	107..168
+FT		/number=3
+FT	exon	169..349
+FT		/number=4
+FT	exon	350..485
+FT		/number=5
+FT	exon	486..609
+FT		/number=6
+FT	exon	610..694
+FT		/number=7
+FT	exon	695..876
+FT		/number=8
+FT	exon	877..1087
+FT		/number=9
+FT	exon	1088..1282
+FT		/number=10
+FT	exon	1283..1431
+FT		/number=11
+FT	exon	1432..1626
+FT		/number=12
+FT	exon	1627..1800
+FT		/number=13
+FT	exon	1801..1890
+FT		/number=14
+FT	exon	1891..2057
+FT		/number=15
+FT	exon	2058..2311
+FT		/number=16
+FT	exon	2312..2481
+FT		/number=17
+FT	exon	2482..2655
+FT		/number=18
+FT	exon	2656..2736
+FT		/number=19
+\\
+DE	RHD*S82449
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1153
+FT		/number=8
+FT	exon	1154..1227
+FT		/number=9
+FT	exon	1228..1254
+FT		/number=10
+\\
+DE	RHD*AY449382
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1153
+FT		/number=8
+FT	exon	1154..1227
+FT		/number=9
+FT	exon	1228..1251
+FT		/number=10
+\\
+DE	RHD*AJ428455
+FT	exon	73..210
+FT		/number=1
+\\
+DE	RHD*AM072758
+FT	exon	31..178
+FT		/number=1
+\\
+DE	RHD*AJ557825
+FT	exon	64..197
+FT		/number=1
+\\
+DE	RHD*AJ557826
+FT	exon	91..238
+FT		/number=1
+\\
+DE	RHD*AJ557827
+FT	exon	9..175
+FT		/number=1
+\\
+DE	RHD*AJ585041
+FT	exon	1..145
+FT		/number=1
+\\
+DE	RHD*AJ131502
+FT	exon	131..297
+FT		/number=1
+\\
+DE	RHD*AB049754
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1153
+FT		/number=8
+FT	exon	1154..1227
+FT		/number=9
+FT	exon	1228..1254
+FT		/number=10
+\\
+DE	RHD*DQ132882
+FT	exon	64..201
+FT		/number=1
+\\
+DE	RHD*AH012471
+FT	exon	430..616
+FT		/number=1
+FT	exon	837..984
+FT		/number=2
+FT	exon	1038..1204
+FT		/number=3
+FT	exon	1331..1464
+FT		/number=4
+\\
+DE	RHD*AK091825
+FT	exon	585..722
+FT		/number=1
+\\
+DE	RHD*AB012769
+FT	exon	1..167
+FT		/number=1
+\\
+DE	RHD*DQ121435
+FT	exon	18..184
+FT		/number=1
+\\
+DE	RHD*AY751494
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1153
+FT		/number=8
+FT	exon	1154..1180
+FT		/number=9
+\\
+DE	RHD*X63094
+FT	exon	59..206
+FT		/number=1
+FT	exon	207..393
+FT		/number=2
+FT	exon	394..544
+FT		/number=3
+FT	exon	545..692
+FT		/number=4
+FT	exon	693..859
+FT		/number=5
+FT	exon	860..997
+FT		/number=6
+FT	exon	998..1131
+FT		/number=7
+FT	exon	1132..1211
+FT		/number=8
+FT	exon	1212..1285
+FT		/number=9
+FT	exon	1286..1312
+FT		/number=10
+\\
+DE	RHD*DQ309581
+FT	exon	18..203
+FT		/number=1
+\\
+DE	RHD*AB018969
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1153
+FT		/number=8
+FT	exon	1154..1227
+FT		/number=9
+FT	exon	1228..1254
+FT		/number=10
+\\
+DE	RHD*AB018968
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1153
+FT		/number=8
+FT	exon	1154..1227
+FT		/number=9
+FT	exon	1228..1254
+FT		/number=10
+\\
+DE	RHD*AY449385
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1153
+FT		/number=8
+FT	exon	1154..1227
+FT		/number=9
+FT	exon	1228..1251
+FT		/number=10
+\\
+DE	RHD*AJ557803
+FT	exon	51..198
+FT		/number=1
+\\
+DE	RHD*AF312679
+FT	exon	36..183
+FT		/number=1
+FT	exon	184..370
+FT		/number=2
+FT	exon	371..521
+FT		/number=3
+FT	exon	522..669
+FT		/number=4
+FT	exon	670..836
+FT		/number=5
+FT	exon	837..974
+FT		/number=6
+FT	exon	975..1108
+FT		/number=7
+FT	exon	1109..1188
+FT		/number=8
+FT	exon	1189..1262
+FT		/number=9
+FT	exon	1263..1289
+FT		/number=10
+\\
+DE	RHD*AJ630393
+FT	exon	51..124
+FT		/number=1
+\\
+DE	RHD*AB018967
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1153
+FT		/number=8
+FT	exon	1154..1227
+FT		/number=9
+FT	exon	1228..1254
+FT		/number=10
+\\
+DE	RHD*AF390111
+FT	exon	1..50
+FT		/number=1
+\\
+DE	RHD*AY751495
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1244..1270
+FT		/number=8
+\\
+DE	RHD*AM072760
+FT	exon	165..237
+FT		/number=1
+\\
+DE	RHD*AJ630379
+FT	exon	301..467
+FT		/number=1
+\\
+DE	RHD*AJ784310
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1153
+FT		/number=8
+FT	exon	1154..1227
+FT		/number=9
+FT	exon	1228..1251
+FT		/number=10
+\\
+DE	RHD*AJ784311
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1153
+FT		/number=8
+FT	exon	1154..1227
+FT		/number=9
+FT	exon	1228..1251
+FT		/number=10
+\\
+DE	RHD*AJ784312
+FT	exon	1..164
+FT		/number=1
+\\
+DE	RHD*AF510070
+FT	exon	44..191
+FT		/number=1
+FT	exon	192..378
+FT		/number=2
+FT	exon	379..529
+FT		/number=3
+FT	exon	530..677
+FT		/number=4
+FT	exon	678..844
+FT		/number=5
+FT	exon	845..982
+FT		/number=6
+FT	exon	983..1116
+FT		/number=7
+FT	exon	1117..1196
+FT		/number=8
+FT	exon	1197..1270
+FT		/number=9
+FT	exon	1271..1297
+FT		/number=10
+\\
+DE	RHD*AJ299023
+FT	exon	102..249
+FT		/number=1
+\\
+DE	RHD*AB012658
+FT	exon	1..167
+FT		/number=1
+\\
+DE	RHD*AJ534720
+FT	exon	51..198
+FT		/number=1
+\\
+DE	RHD*AJ585038
+FT	exon	1..177
+FT		/number=1
+\\
+DE	RHD*001.01.01.01
+FT	exon	63..210
+FT		/number=1
+FT	exon	12088..12274
+FT		/number=2
+FT	exon	18156..18306
+FT		/number=3
+FT	exon	28461..28608
+FT		/number=4
+FT	exon	29035..29201
+FT		/number=5
+FT	exon	30837..30974
+FT		/number=6
+FT	exon	34111..34244
+FT		/number=7
+FT	exon	44515..44594
+FT		/number=8
+FT	exon	49404..49477
+FT		/number=9
+FT	exon	56413..56439
+FT		/number=10
+\\
+DE	RHD*AB018966
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1153
+FT		/number=8
+FT	exon	1154..1227
+FT		/number=9
+FT	exon	1228..1254
+FT		/number=10
+\\
+DE	RHD*AY756316
+FT	exon	46..119
+FT		/number=1
+\\
+DE	RHD*L08429
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1153
+FT		/number=8
+FT	exon	1154..1227
+FT		/number=9
+FT	exon	1228..1254
+FT		/number=10
+\\
+DE	RHD*AB046420
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1153
+FT		/number=8
+FT	exon	1154..1227
+FT		/number=9
+FT	exon	1228..1254
+FT		/number=10
+\\
+DE	RHD*AY751492
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1019
+FT		/number=7
+FT	exon	1020..1046
+FT		/number=8
+\\
+DE	RHD*AY751493
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1100
+FT		/number=8
+\\
+DE	RHD*AY751491
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..966
+FT		/number=7
+\\
+DE	RHD*AM177313
+FT	exon	63..210
+FT		/number=1
+FT	exon	376..562
+FT		/number=2
+FT	exon	862..1012
+FT		/number=3
+FT	exon	1124..1271
+FT		/number=4
+FT	exon	1363..1529
+FT		/number=5
+FT	exon	1687..1824
+FT		/number=6
+FT	exon	1990..2123
+FT		/number=7
+FT	exon	2315..2394
+FT		/number=8
+FT	exon	2611..2684
+FT		/number=9
+FT	exon	2974..3000
+FT		/number=10
+\\
+DE	RHD*AY449383
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1153
+FT		/number=8
+FT	exon	1154..1227
+FT		/number=9
+FT	exon	1228..1251
+FT		/number=10
+\\
+DE	RHD*AY449381
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1153
+FT		/number=8
+FT	exon	1154..1227
+FT		/number=9
+FT	exon	1228..1251
+FT		/number=10
+\\
+DE	RHD*AJ704215
+FT	exon	1..148
+FT		/number=1
+\\
+DE	RHD*AM234631
+FT	exon	1..165
+FT		/number=1
+\\
+DE	RHD*AY449384
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1153
+FT		/number=8
+FT	exon	1154..1227
+FT		/number=9
+FT	exon	1228..1251
+FT		/number=10
+\\
+DE	RHD*AM403488
+FT	exon	1..165
+FT		/number=1
+\\
+DE	RHD*AF390113
+FT	exon	77..219
+FT		/number=1
+\\
+DE	RHD*AF390112
+FT	exon	1..166
+FT		/number=1
+\\
+DE	RHD*AJ633649
+FT	exon	1355..1541
+FT		/number=1
+\\
+DE	RHD*AF390110
+FT	exon	24..97
+FT		/number=1
+\\
+DE	RHD*AF390115
+FT	exon	137..323
+FT		/number=1
+\\
+DE	RHD*DQ451878
+FT	exon	20..167
+FT		/number=1
+FT	exon	168..354
+FT		/number=2
+FT	exon	355..505
+FT		/number=3
+FT	exon	506..653
+FT		/number=4
+FT	exon	654..820
+FT		/number=5
+FT	exon	821..958
+FT		/number=6
+FT	exon	959..1092
+FT		/number=7
+FT	exon	1093..1172
+FT		/number=8
+FT	exon	1173..1246
+FT		/number=9
+FT	exon	1247..1273
+FT		/number=10
+\\
+DE	RHD*NM_016124
+FT	exon	59..206
+FT		/number=1
+FT	exon	207..393
+FT		/number=2
+FT	exon	394..544
+FT		/number=3
+FT	exon	545..692
+FT		/number=4
+FT	exon	693..859
+FT		/number=5
+FT	exon	860..997
+FT		/number=6
+FT	exon	998..1131
+FT		/number=7
+FT	exon	1132..1211
+FT		/number=8
+FT	exon	1212..1285
+FT		/number=9
+FT	exon	1286..1312
+FT		/number=10
+\\
+DE	RHD*AJ580942
+FT	exon	51..130
+FT		/number=1
+\\
+DE	RHD*S73913
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..951
+FT		/number=7
+\\
+DE	RHD*Z97334
+FT	exon	1..167
+FT		/number=1
+FT	exon	1803..1940
+FT		/number=2
+FT	exon	5078..5146
+FT		/number=3
+\\
+DE	RHD*AF177938
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1153
+FT		/number=8
+FT	exon	1154..1227
+FT		/number=9
+FT	exon	1228..1254
+FT		/number=10
+\\
+DE	RHD*AJ784309
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1153
+FT		/number=8
+FT	exon	1154..1227
+FT		/number=9
+FT	exon	1228..1251
+FT		/number=10
+\\
+DE	RHD*BX649364
+FT	exon	1501..1580
+FT		/number=1
+FT	exon	6391..6464
+FT		/number=2
+FT	exon	13400..13426
+FT		/number=3
+\\
+DE	RHD*BN000065
+FT	exon	63..210
+FT		/number=1
+FT	exon	12083..12269
+FT		/number=2
+FT	exon	18152..18302
+FT		/number=3
+FT	exon	28457..28604
+FT		/number=4
+FT	exon	29031..29197
+FT		/number=5
+FT	exon	30833..30970
+FT		/number=6
+FT	exon	34107..34240
+FT		/number=7
+FT	exon	44522..44601
+FT		/number=8
+FT	exon	49412..49485
+FT		/number=9
+FT	exon	56422..56448
+FT		/number=10
+\\
+DE	RHD*AB012660
+FT	exon	1..114
+FT		/number=1
+FT	exon	541..707
+FT		/number=2
+\\
+DE	RHD*AB012661
+FT	exon	1..114
+FT		/number=1
+FT	exon	541..707
+FT		/number=2
+\\
+DE	RHD*S78509
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1153
+FT		/number=8
+FT	exon	1154..1227
+FT		/number=9
+FT	exon	1228..1254
+FT		/number=10
+\\
+DE	RHD*AF510069
+FT	exon	44..191
+FT		/number=1
+FT	exon	192..378
+FT		/number=2
+FT	exon	379..529
+FT		/number=3
+FT	exon	530..677
+FT		/number=4
+FT	exon	678..844
+FT		/number=5
+FT	exon	845..982
+FT		/number=6
+FT	exon	983..1116
+FT		/number=7
+FT	exon	1117..1196
+FT		/number=8
+FT	exon	1197..1270
+FT		/number=9
+FT	exon	1271..1297
+FT		/number=10
+\\
+DE	RHD*AJ417868
+FT	exon	64..197
+FT		/number=1
+\\
+DE	RHD*Z97026
+FT	exon	21..168
+FT		/number=1
+FT	exon	169..355
+FT		/number=2
+FT	exon	356..506
+FT		/number=3
+FT	exon	507..654
+FT		/number=4
+FT	exon	655..821
+FT		/number=5
+FT	exon	822..959
+FT		/number=6
+FT	exon	960..1093
+FT		/number=7
+FT	exon	1094..1173
+FT		/number=8
+FT	exon	1174..1247
+FT		/number=9
+FT	exon	1248..1274
+FT		/number=10
+\\
+DE	RHD*Z97030
+FT	exon	1557..1580
+FT		/number=1
+\\
+DE	RHD*U66341
+FT	exon	1337..1523
+FT		/number=1
+\\
+DE	RHD*AK024382
+FT	exon	804..954
+FT		/number=1
+\\
+DE	RHD*AF187846
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1153
+FT		/number=8
+FT	exon	1154..1227
+FT		/number=9
+FT	exon	1228..1254
+FT		/number=10
+\\
+DE	RHD*S83376
+FT	exon	1..121
+FT		/number=1
+FT	exon	548..576
+FT		/number=2
+\\
+DE	RHD*S57971
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1153
+FT		/number=8
+FT	exon	1154..1227
+FT		/number=9
+FT	exon	1228..1251
+FT		/number=10
+\\
+DE	RHD*Y10605
+FT	exon	1..123
+FT		/number=1
+FT	exon	550..648
+FT		/number=2
+\\
+DE	RHD*AJ278873
+FT	exon	15..88
+FT		/number=1
+\\
+DE	RHD*AY751496
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1244..1323
+FT		/number=8
+FT	exon	1324..1350
+FT		/number=9
+\\
+DE	RHD*EF010986
+FT	exon	27..192
+FT		/number=1
+\\
+DE	RHD*AY864888
+FT	exon	1..167
+FT		/number=1
+\\
+DE	RHD*AJ504792
+FT	exon	8..174
+FT		/number=1
+\\
+DE	RHD*AJ504793
+FT	exon	18..97
+FT		/number=1
+\\
+DE	RHD*AY170011
+FT	exon	16..149
+FT		/number=1
+\\
+DE	RHD*AM049242
+FT	exon	1..148
+FT		/number=1
+\\
+DE	RHD*X63097
+FT	exon	17..164
+FT		/number=1
+FT	exon	165..351
+FT		/number=2
+FT	exon	352..502
+FT		/number=3
+FT	exon	503..650
+FT		/number=4
+FT	exon	651..817
+FT		/number=5
+FT	exon	818..955
+FT		/number=6
+FT	exon	956..1089
+FT		/number=7
+FT	exon	1090..1169
+FT		/number=8
+FT	exon	1170..1243
+FT		/number=9
+FT	exon	1244..1270
+FT		/number=10
+\\
+DE	RHD*AJ276015
+FT	exon	64..201
+FT		/number=1
+\\
+DE	RHD*AM181333
+FT	exon	21..187
+FT		/number=1
+\\
+DE	RHD*AJ276017
+FT	exon	26..192
+FT		/number=1
+\\
+DE	RHD*AJ276016
+FT	exon	24..190
+FT		/number=1
+\\
+DE	RHD*AJ287289
+FT	exon	63..210
+FT		/number=1
+\\
+DE	RHD*AM087651
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1153
+FT		/number=8
+FT	exon	1154..1227
+FT		/number=9
+FT	exon	1228..1254
+FT		/number=10
+\\
+DE	RHD*AM235214
+FT	exon	63..210
+FT		/number=1
+FT	exon	376..562
+FT		/number=2
+FT	exon	817..967
+FT		/number=3
+FT	exon	1057..1204
+FT		/number=4
+FT	exon	1281..1444
+FT		/number=5
+FT	exon	1602..1739
+FT		/number=6
+FT	exon	1819..1952
+FT		/number=7
+FT	exon	2144..2223
+FT		/number=8
+FT	exon	2440..2513
+FT		/number=9
+FT	exon	2784..2810
+FT		/number=10
+\\
+DE	RHD*BX855602
+FT	exon	1503..1689
+FT		/number=1
+FT	exon	7572..7722
+FT		/number=2
+FT	exon	17877..18024
+FT		/number=3
+FT	exon	18451..18617
+FT		/number=4
+FT	exon	20253..20390
+FT		/number=5
+FT	exon	23524..23657
+FT		/number=6
+FT	exon	33939..34018
+FT		/number=7
+FT	exon	38838..38911
+FT		/number=8
+FT	exon	45847..45873
+FT		/number=9
+\\
+DE	RHD*AM295504
+FT	exon	1..145
+FT		/number=1
+\\
+DE	RHD*AJ580938
+FT	exon	51..198
+FT		/number=1
+\\
+DE	RHD*AB037270
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..634
+FT		/number=4
+FT	exon	635..801
+FT		/number=5
+FT	exon	802..939
+FT		/number=6
+FT	exon	940..1073
+FT		/number=7
+FT	exon	1074..1153
+FT		/number=8
+FT	exon	1154..1227
+FT		/number=9
+FT	exon	1228..1254
+FT		/number=10
+\\
+DE	RHD*AJ580939
+FT	exon	301..467
+FT		/number=1
+\\
+DE	RHD*AJ295346
+FT	exon	7..173
+FT		/number=1
+\\
+DE	RHD*AJ867387
+FT	exon	1..135
+FT		/number=1
+\\
+DE	RHD*AJ867386
+FT	exon	1..165
+FT		/number=1
+\\
+DE	RHD*AJ867388
+FT	exon	1..72
+FT		/number=1
+\\
+DE	RHD*AM396583
+FT	exon	63..210
+FT		/number=1
+FT	exon	363..549
+FT		/number=2
+FT	exon	804..954
+FT		/number=3
+FT	exon	983..1130
+FT		/number=4
+FT	exon	1193..1359
+FT		/number=5
+FT	exon	1517..1654
+FT		/number=6
+FT	exon	1734..1867
+FT		/number=7
+FT	exon	2059..2138
+FT		/number=8
+FT	exon	2355..2428
+FT		/number=9
+FT	exon	2644..2670
+FT		/number=10
+\\
+DE	RHD*AF037626
+FT	exon	1..148
+FT		/number=1
+FT	exon	149..335
+FT		/number=2
+FT	exon	336..486
+FT		/number=3
+FT	exon	487..630
+FT		/number=4
+FT	exon	631..797
+FT		/number=5
+FT	exon	798..935
+FT		/number=6
+FT	exon	936..1069
+FT		/number=7
+FT	exon	1070..1149
+FT		/number=8
+FT	exon	1150..1223
+FT		/number=9
+FT	exon	1224..1247
+FT		/number=10
+\\
+DE	RHD*DQ088170
+FT	exon	37..184
+FT		/number=1
+\\
